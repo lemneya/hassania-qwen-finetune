@@ -36,21 +36,12 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data files (large files should be downloaded separately)
-data/raw/*.csv
-data/raw/*.json
-data/raw/*.parquet
-data/processed/*.csv
-data/processed/*.json
-data/processed/*.jsonl
-
 # Model files (too large for git)
-models/
-*.bin
-*.safetensors
-*.pt
-*.pth
-*.gguf
+models/*.bin
+models/*.safetensors
+models/*.pt
+models/*.pth
+models/*.gguf
 
 # Logs
 logs/
@@ -64,3 +55,7 @@ Thumbs.db
 # Environment variables
 .env
 .env.local
+
+# Temporary files
+*.tmp
+*.temp

@@ -33,67 +33,90 @@ def download_dah_dataset():
 
 
 def download_hassaniya_speech_dataset():
-    """Download Hassaniya Speech dataset from Hugging Face."""
+    """Download Hassaniya Speech dataset transcriptions from Hugging Face."""
     print("\n" + "="*60)
-    print("Downloading Hassaniya Speech Dataset")
+    print("Downloading Hassaniya Speech Dataset (Transcriptions Only)")
     print("="*60)
     
     try:
-        dataset = load_dataset("Mamadou-Aw/Hassaniya-speech-dataset", split="train")
+        # Load without audio decoding by using streaming and extracting text only
+        from huggingface_hub import hf_hub_download
+        import pyarrow.parquet as pq
         
-        # Save transcriptions
-        transcriptions = []
-        for item in dataset:
-            transcriptions.append({
-                "transcription": item.get("transcription", ""),
-            })
+        # Download the parquet file directly
+        parquet_path = hf_hub_download(
+            repo_id="Mamadou-Aw/Hassaniya-speech-dataset",
+            filename="audios_dataset.parquet",
+            repo_type="dataset"
+        )
+        
+        # Read only the transcription column
+        table = pq.read_table(parquet_path, columns=['transcription'])
+        df = table.to_pandas()
         
         output_path = RAW_DATA_DIR / "hassaniya_speech_transcriptions.csv"
-        pd.DataFrame(transcriptions).to_csv(output_path, index=False)
-        print(f"✓ Saved {len(transcriptions)} transcriptions to {output_path}")
-        
-        # Note: Audio files can be accessed via the dataset object
-        print("  Note: Audio files available via HuggingFace datasets API")
-        return len(transcriptions)
+        df.to_csv(output_path, index=False)
+        print(f"✓ Saved {len(df)} transcriptions to {output_path}")
+        return len(df)
     except Exception as e:
         print(f"✗ Error downloading Hassaniya Speech dataset: {e}")
         return 0
 
 
 def download_casablanca_mauritanian():
-    """Download Mauritanian subset from Casablanca dataset."""
+    """Download Mauritanian subset transcriptions from Casablanca dataset."""
     print("\n" + "="*60)
-    print("Downloading Casablanca Dataset (Mauritanian Subset)")
+    print("Downloading Casablanca Dataset (Mauritanian Transcriptions)")
     print("="*60)
     
     try:
-        # Load Mauritanian subset
-        dataset_val = load_dataset("UBC-NLP/Casablanca", "Mauritania", split="validation")
-        dataset_test = load_dataset("UBC-NLP/Casablanca", "Mauritania", split="test")
+        from huggingface_hub import hf_hub_download
+        import pyarrow.parquet as pq
         
-        # Combine validation and test
         transcriptions = []
-        for item in dataset_val:
-            transcriptions.append({
-                "seg_id": item.get("seg_id", ""),
-                "transcription": item.get("transcription", ""),
-                "gender": item.get("gender", ""),
-                "duration": item.get("duration", 0),
-                "split": "validation"
-            })
-        for item in dataset_test:
-            transcriptions.append({
-                "seg_id": item.get("seg_id", ""),
-                "transcription": item.get("transcription", ""),
-                "gender": item.get("gender", ""),
-                "duration": item.get("duration", 0),
-                "split": "test"
-            })
         
-        output_path = RAW_DATA_DIR / "casablanca_mauritanian.csv"
-        pd.DataFrame(transcriptions).to_csv(output_path, index=False)
-        print(f"✓ Saved {len(transcriptions)} rows to {output_path}")
-        return len(transcriptions)
+        # Download validation parquet files
+        for i in range(2):
+            try:
+                parquet_path = hf_hub_download(
+                    repo_id="UBC-NLP/Casablanca",
+                    filename=f"Mauritania/validation-0000{i}-of-00002.parquet",
+                    repo_type="dataset"
+                )
+                table = pq.read_table(parquet_path, columns=['seg_id', 'transcription', 'gender', 'duration'])
+                df = table.to_pandas()
+                df['split'] = 'validation'
+                transcriptions.append(df)
+                print(f"  ✓ Loaded validation part {i+1}")
+            except Exception as e:
+                print(f"  ✗ Error loading validation part {i+1}: {e}")
+        
+        # Download test parquet files
+        for i in range(2):
+            try:
+                parquet_path = hf_hub_download(
+                    repo_id="UBC-NLP/Casablanca",
+                    filename=f"Mauritania/test-0000{i}-of-00002.parquet",
+                    repo_type="dataset"
+                )
+                table = pq.read_table(parquet_path, columns=['seg_id', 'transcription', 'gender', 'duration'])
+                df = table.to_pandas()
+                df['split'] = 'test'
+                transcriptions.append(df)
+                print(f"  ✓ Loaded test part {i+1}")
+            except Exception as e:
+                print(f"  ✗ Error loading test part {i+1}: {e}")
+        
+        if transcriptions:
+            combined_df = pd.concat(transcriptions, ignore_index=True)
+            output_path = RAW_DATA_DIR / "casablanca_mauritanian.csv"
+            combined_df.to_csv(output_path, index=False)
+            print(f"✓ Saved {len(combined_df)} rows to {output_path}")
+            return len(combined_df)
+        else:
+            print("✗ No data loaded from Casablanca dataset")
+            return 0
+            
     except Exception as e:
         print(f"✗ Error downloading Casablanca dataset: {e}")
         return 0
@@ -117,8 +140,14 @@ def download_hassaniya_sentiment():
     
     # Check if file already exists
     sentiment_path = RAW_DATA_DIR / "hassaniya_sentiment.csv"
+    alt_path = RAW_DATA_DIR / "projectHA_DATASET - VF.csv"
+    
     if sentiment_path.exists():
         df = pd.read_csv(sentiment_path)
+        print(f"✓ Found existing file with {len(df)} rows")
+        return len(df)
+    elif alt_path.exists():
+        df = pd.read_csv(alt_path)
         print(f"✓ Found existing file with {len(df)} rows")
         return len(df)
     else:

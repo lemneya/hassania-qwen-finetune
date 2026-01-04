@@ -27,9 +27,12 @@ def clean_arabic_text(text):
     # Remove extra whitespace
     text = re.sub(r'\s+', ' ', text).strip()
     
-    # Remove non-Arabic characters except punctuation and numbers
+    # Remove URLs
+    text = re.sub(r'http\S+|www\.\S+', '', text)
+    
     # Keep Arabic letters, numbers, and common punctuation
-    text = re.sub(r'[^\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFF\s\d.,!?؟،؛]', '', text)
+    # This preserves Hassania dialect characters
+    text = re.sub(r'[^\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFF\s\d.,!?؟،؛:\-\'"()]', '', text)
     
     return text.strip()
 
@@ -47,12 +50,12 @@ def process_dah_dataset():
     samples = []
     
     for _, row in tqdm(df.iterrows(), total=len(df), desc="  DAH"):
-        # Create instruction-response pairs for translation
+        # Get all three columns
         hassaniya_ar = clean_arabic_text(str(row.get('hassaniya-ar', '')))
         hassaniya_en = str(row.get('hassaniya-en', '')).strip()
         english = str(row.get('english', '')).strip()
         
-        if hassaniya_ar:
+        if hassaniya_ar and english:
             # English to Hassania translation
             samples.append({
                 "instruction": f"Translate the following English text to Hassania Arabic dialect:\n{english}",
@@ -73,9 +76,10 @@ def process_dah_dataset():
             
             # Text generation (continue the text)
             if len(hassaniya_ar) > 20:
+                half_len = len(hassaniya_ar) // 2
                 samples.append({
                     "instruction": "Continue writing in Hassania Arabic dialect:",
-                    "input": hassaniya_ar[:len(hassaniya_ar)//2],
+                    "input": hassaniya_ar[:half_len],
                     "output": hassaniya_ar,
                     "source": "dah",
                     "task": "text_generation"
@@ -102,13 +106,15 @@ def process_speech_transcriptions():
         
         if transcription and len(transcription) > 5:
             # Text completion task
-            samples.append({
-                "instruction": "Complete the following Hassania Arabic text:",
-                "input": transcription[:len(transcription)//3] if len(transcription) > 15 else "",
-                "output": transcription,
-                "source": "hassaniya_speech",
-                "task": "text_completion"
-            })
+            if len(transcription) > 15:
+                third_len = len(transcription) // 3
+                samples.append({
+                    "instruction": "Complete the following Hassania Arabic text:",
+                    "input": transcription[:third_len],
+                    "output": transcription,
+                    "source": "hassaniya_speech",
+                    "task": "text_completion"
+                })
             
             # Text understanding
             samples.append({
@@ -149,9 +155,10 @@ def process_casablanca_mauritanian():
             
             # Text generation
             if len(transcription) > 20:
+                half_len = len(transcription) // 2
                 samples.append({
                     "instruction": "Continue this Hassania Arabic text:",
-                    "input": transcription[:len(transcription)//2],
+                    "input": transcription[:half_len],
                     "output": transcription,
                     "source": "casablanca_mauritanian",
                     "task": "text_generation"
@@ -165,53 +172,23 @@ def process_sentiment_dataset():
     """Process HASSANIYA Sentiment dataset."""
     print("\nProcessing HASSANIYA Sentiment Dataset...")
     
-    # Try multiple possible filenames
-    possible_names = [
-        "hassaniya_sentiment.csv",
-        "projectHA_DATASET - VF.csv",
-        "projectHA_DATASET.csv"
-    ]
-    
-    input_path = None
-    for name in possible_names:
-        path = RAW_DATA_DIR / name
-        if path.exists():
-            input_path = path
-            break
-    
-    if input_path is None:
-        print(f"  ✗ Sentiment dataset not found in {RAW_DATA_DIR}")
+    input_path = RAW_DATA_DIR / "hassaniya_sentiment.csv"
+    if not input_path.exists():
+        print(f"  ✗ File not found: {input_path}")
         return []
     
     df = pd.read_csv(input_path)
     samples = []
     
-    # Try to identify text and label columns
-    text_col = None
-    label_col = None
-    
-    for col in df.columns:
-        col_lower = col.lower()
-        if 'text' in col_lower or 'comment' in col_lower or 'content' in col_lower:
-            text_col = col
-        if 'label' in col_lower or 'sentiment' in col_lower or 'class' in col_lower:
-            label_col = col
-    
-    # If not found, use first two columns
-    if text_col is None and len(df.columns) >= 1:
-        text_col = df.columns[0]
-    if label_col is None and len(df.columns) >= 2:
-        label_col = df.columns[1]
-    
-    if text_col is None:
-        print(f"  ✗ Could not identify text column")
-        return []
+    # The dataset has columns: id, annotations, created_at, Annotation results, text, updated_at
+    text_col = 'text'
+    label_col = ' Annotation results'  # Note the leading space
     
     for _, row in tqdm(df.iterrows(), total=len(df), desc="  Sentiment"):
         text = clean_arabic_text(str(row.get(text_col, '')))
-        label = str(row.get(label_col, 'neutral')).lower() if label_col else 'neutral'
+        label = str(row.get(label_col, 'neutral')).strip().lower()
         
-        if text and len(text) > 5:
+        if text and len(text) > 3:
             # Sentiment analysis task
             samples.append({
                 "instruction": f"Analyze the sentiment of this Hassania Arabic text. Respond with: positive, negative, or neutral.\n\nText: {text}",
@@ -221,13 +198,22 @@ def process_sentiment_dataset():
                 "task": "sentiment_analysis"
             })
             
-            # Text example
+            # Sentiment-guided text generation
             samples.append({
                 "instruction": f"Write a {label} sentiment text in Hassania Arabic dialect:",
                 "input": "",
                 "output": text,
                 "source": "hassaniya_sentiment",
                 "task": "sentiment_generation"
+            })
+            
+            # Dialect example
+            samples.append({
+                "instruction": "This is an example of Hassania Arabic from Mauritania:",
+                "input": "",
+                "output": text,
+                "source": "hassaniya_sentiment",
+                "task": "dialect_example"
             })
     
     print(f"  ✓ Generated {len(samples)} samples from Sentiment dataset")
@@ -256,6 +242,28 @@ def save_combined_dataset(samples, output_format="jsonl"):
     print(f"  ✓ Also saved CSV version to {csv_path}")
     
     return output_path
+
+
+def save_raw_text_corpus(samples):
+    """Save a raw text corpus for pretraining or continued pretraining."""
+    print("\nSaving raw text corpus...")
+    
+    # Extract unique Hassania texts
+    texts = set()
+    for sample in samples:
+        output = sample.get('output', '')
+        if output and len(output) > 5:
+            # Skip non-Arabic outputs (like sentiment labels)
+            if any('\u0600' <= c <= '\u06FF' for c in output):
+                texts.add(output)
+    
+    # Save as plain text
+    corpus_path = PROCESSED_DATA_DIR / "hassania_corpus.txt"
+    with open(corpus_path, 'w', encoding='utf-8') as f:
+        for text in sorted(texts):
+            f.write(text + '\n')
+    
+    print(f"  ✓ Saved {len(texts)} unique texts to {corpus_path}")
 
 
 def generate_statistics(samples):
@@ -288,6 +296,8 @@ def generate_statistics(samples):
     with open(stats_path, 'w', encoding='utf-8') as f:
         json.dump(stats, f, indent=2)
     print(f"\n  ✓ Statistics saved to {stats_path}")
+    
+    return stats
 
 
 def main():
@@ -311,8 +321,11 @@ def main():
     # Save combined dataset
     save_combined_dataset(all_samples)
     
+    # Save raw text corpus
+    save_raw_text_corpus(all_samples)
+    
     # Generate statistics
-    generate_statistics(all_samples)
+    stats = generate_statistics(all_samples)
     
     print("\n" + "="*60)
     print("PREPROCESSING COMPLETE")

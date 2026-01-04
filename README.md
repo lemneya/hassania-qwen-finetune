@@ -11,16 +11,31 @@ Hassania is a low-resource Arabic dialect with limited digital representation. T
 3. **Provide scripts** for fine-tuning Qwen 2.5 using QLoRA
 4. **Document** best practices for low-resource dialect adaptation
 
-## Dataset Sources
+## Dataset Summary
 
-| Dataset | Size | Type | Source |
-|---------|------|------|--------|
-| DAH | 3,002 rows | Bilingual (English-Hassania) | [Hugging Face](https://huggingface.co/datasets/hassan-IA/dah) |
-| Hassaniya Speech | 294 rows | Audio + Transcription | [Hugging Face](https://huggingface.co/datasets/Mamadou-Aw/Hassaniya-speech-dataset) |
-| HASSANIYA Sentiment | 2,000 records | Sentiment Analysis | [Mendeley Data](https://data.mendeley.com/datasets/m2swkr2bhx) |
-| Casablanca (Mauritanian) | 1,910 rows | Multi-dialect ASR | [Hugging Face](https://huggingface.co/datasets/UBC-NLP/Casablanca) |
+**Total Compiled Samples: 16,773**
+**Unique Hassania Texts: 6,889**
 
-**Total compiled samples: ~7,200+ text/audio samples**
+### Source Datasets
+
+| Dataset | Raw Samples | Processed Samples | Type | Source |
+|---------|-------------|-------------------|------|--------|
+| DAH | 3,002 | 7,211 | Bilingual (English-Hassania) | [Hugging Face](https://huggingface.co/datasets/hassan-IA/dah) |
+| HASSANIYA Sentiment | 1,852 | 5,517 | Sentiment Analysis | [Mendeley Data](https://data.mendeley.com/datasets/m2swkr2bhx) |
+| Casablanca (Mauritanian) | 1,906 | 3,520 | Multi-dialect ASR | [Hugging Face](https://huggingface.co/datasets/UBC-NLP/Casablanca) |
+| Hassaniya Speech | 294 | 525 | Speech Transcriptions | [Hugging Face](https://huggingface.co/datasets/Mamadou-Aw/Hassaniya-speech-dataset) |
+
+### Task Distribution
+
+| Task | Samples |
+|------|---------|
+| Dialect Examples | 4,020 |
+| Translation (Hassania → English) | 3,002 |
+| Translation (English → Hassania) | 3,002 |
+| Text Generation | 2,836 |
+| Sentiment Analysis | 1,839 |
+| Sentiment-guided Generation | 1,839 |
+| Text Completion | 235 |
 
 ## Repository Structure
 
@@ -28,7 +43,16 @@ Hassania is a low-resource Arabic dialect with limited digital representation. T
 hassania-qwen-finetune/
 ├── data/
 │   ├── raw/                    # Original downloaded datasets
+│   │   ├── dah_dataset.csv
+│   │   ├── hassaniya_speech_transcriptions.csv
+│   │   ├── casablanca_mauritanian.csv
+│   │   ├── hassaniya_sentiment.csv
+│   │   └── H-Stopwords.txt
 │   └── processed/              # Cleaned and combined datasets
+│       ├── hassania_combined.jsonl   # Main training file (4.1 MB)
+│       ├── hassania_combined.csv     # CSV version (3.0 MB)
+│       ├── hassania_corpus.txt       # Raw text corpus (399 KB)
+│       └── dataset_statistics.json
 ├── scripts/
 │   ├── download_data.py        # Script to download all datasets
 │   ├── preprocess_data.py      # Data cleaning and normalization
@@ -43,23 +67,25 @@ hassania-qwen-finetune/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hassania-qwen-finetune.git
+git clone https://github.com/lemneya/hassania-qwen-finetune.git
 cd hassania-qwen-finetune
 ```
 
-### 2. Install Dependencies
+### 2. Set Up Environment
 
 ```bash
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 3. Download Datasets
+### 3. Download Datasets (Optional - data already included)
 
 ```bash
 python scripts/download_data.py
 ```
 
-### 4. Preprocess Data
+### 4. Preprocess Data (Optional - processed data already included)
 
 ```bash
 python scripts/preprocess_data.py
@@ -69,11 +95,43 @@ python scripts/preprocess_data.py
 
 ```bash
 python scripts/finetune_qwen.py \
-    --model_name Qwen/Qwen2.5-1.5B \
+    --model_name Qwen/Qwen2.5-1.5B-Instruct \
     --data_path ./data/processed/hassania_combined.jsonl \
     --output_dir ./models/qwen2.5-hassania \
-    --num_epochs 3
+    --num_epochs 3 \
+    --lora_r 16 \
+    --lora_alpha 32
 ```
+
+## Data Format
+
+The processed dataset (`hassania_combined.jsonl`) uses the instruction-tuning format:
+
+```json
+{
+  "instruction": "Translate the following English text to Hassania Arabic dialect:\nHello, how are you?",
+  "input": "",
+  "output": "السلام عليكم، كيف حالك؟",
+  "source": "dah",
+  "task": "translation_en_to_hassania"
+}
+```
+
+## Fine-Tuning Approach
+
+We use **QLoRA (Quantized Low-Rank Adaptation)** for efficient fine-tuning:
+
+- **4-bit quantization** to reduce memory usage
+- **LoRA rank**: 16-64 (adjustable based on GPU memory)
+- **LoRA alpha**: 32 (typically 2x rank)
+- **Learning rate**: 2e-5
+- **Batch size**: 1-4 with gradient accumulation
+
+### Recommended Hardware
+
+- **Minimum**: GPU with 4GB VRAM (Qwen2.5-0.5B)
+- **Recommended**: GPU with 8-16GB VRAM (Qwen2.5-1.5B to 7B)
+- **Optimal**: GPU with 24GB+ VRAM (Qwen2.5-14B+)
 
 ## Dataset Details
 
@@ -91,20 +149,12 @@ python scripts/finetune_qwen.py \
 - **Format**: CSV with sentiment labels (positive, negative, neutral)
 - **Use Case**: Sentiment analysis, text classification
 - **License**: CC BY 4.0
+- **Citation**: El ARBY, Med El Moustapha (2025), "HASSANIYA Dataset", Mendeley Data, V1, doi: 10.17632/m2swkr2bhx.1
 
 ### Casablanca Mauritanian Subset
 - **Format**: Parquet with audio and transcriptions
 - **Use Case**: Multi-dialect ASR, dialect identification
 - **License**: CC-BY-NC-ND-4.0
-
-## Fine-Tuning Approach
-
-We use **QLoRA (Quantized Low-Rank Adaptation)** for efficient fine-tuning:
-
-- **4-bit quantization** to reduce memory usage
-- **LoRA rank**: 16-64 (adjustable based on GPU memory)
-- **Learning rate**: 2e-5
-- **Batch size**: 1-4 with gradient accumulation
 
 ## References
 
@@ -124,5 +174,5 @@ This project is licensed under the MIT License. Individual datasets retain their
 
 - Hassan-IA for the DAH dataset
 - Mamadou-Aw for the Hassaniya Speech dataset
-- Universite de Nouakchott for the HASSANIYA Sentiment dataset
+- Med El Moustapha El ARBY and Universite de Nouakchott for the HASSANIYA Sentiment dataset
 - UBC-NLP for the Casablanca dataset

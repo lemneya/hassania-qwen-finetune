@@ -1,0 +1,18 @@
+{
+  "total_samples": 16773,
+  "by_source": {
+    "dah": 7211,
+    "hassaniya_sentiment": 5517,
+    "casablanca_mauritanian": 3520,
+    "hassaniya_speech": 525
+  },
+  "by_task": {
+    "dialect_example": 4020,
+    "translation_hassania_to_en": 3002,
+    "translation_en_to_hassania": 3002,
+    "text_generation": 2836,
+    "sentiment_analysis": 1839,
+    "sentiment_generation": 1839,
+    "text_completion": 235
+  }
+}
