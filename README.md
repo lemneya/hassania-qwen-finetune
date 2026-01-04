@@ -13,39 +13,44 @@ Hassania is a low-resource Arabic dialect with limited digital representation. T
 
 ## Dataset Summary
 
-### Final Enriched Dataset
+### Final Enriched Dataset (Latest)
 
 | Metric | Value |
 |--------|-------|
-| **Total Unique Samples** | 12,240 |
-| **Training Samples** | 11,628 |
-| **Validation Samples** | 612 |
-| **Training File Size** | 2.9 MB |
+| **Total Unique Samples** | 15,859 |
+| **Training Samples** | 15,067 |
+| **Validation Samples** | 792 |
+| **Unique Corpus Texts** | 11,968 |
+| **Training File Size** | 4.2 MB |
 
 ### Data Sources
 
 | Source | Samples | Type |
 |--------|---------|------|
-| DAH Dataset | 5,971 | Bilingual (English-Hassania) |
-| Diwan Poetry | 1,934 | Literature/Poetry |
-| Casablanca (Mauritanian) | 1,884 | Multi-dialect ASR |
-| HASSANIYA Sentiment | 1,828 | Sentiment Analysis |
-| Hassaniya Speech | 290 | Speech Transcriptions |
-| Synthetic (OpenAI) | 221 | AI-Generated |
-| Hassaniya Dictionary | 112 | Vocabulary |
+| DAH Dataset | 5,659 | Bilingual (English-Hassania) |
+| Diwan Wald Anjarto | 1,839 | Classical Poetry |
+| Diwan Poetry (Archive.org) | 1,826 | Traditional Poetry |
+| Casablanca (Mauritanian) | 1,806 | Multi-dialect ASR |
+| HASSANIYA Sentiment | 1,737 | Sentiment Analysis |
+| English-Hassaniya Dictionary | 1,159 | Vocabulary |
+| Mrug Alharf | 664 | First Hassaniya Book (19th c.) |
+| Aesthetics of Hassani Poetry | 570 | Literary Analysis |
+| Hassaniya Speech | 276 | Speech Transcriptions |
+| Synthetic (OpenAI GPT-4o) | 221 | AI-Generated |
+| Hassaniya Dictionary | 102 | Additional Vocabulary |
 
 ### Task Distribution
 
 | Task | Samples |
 |------|---------|
-| Translation (EN→Hassania) | 2,986 |
-| Translation (Hassania→EN) | 2,985 |
-| Dialect Examples | 1,939 |
-| Text Generation | 1,934 |
-| Sentiment Generation | 1,824 |
-| Text Completion | 235 |
-| Synthetic Content | 134 |
-| Vocabulary | 112 |
+| Dialect Examples | 3,395 |
+| Translation (EN→Hassania) | 2,837 |
+| Translation (Hassania→EN) | 2,822 |
+| Poetry (لغن) | 1,957 |
+| Text Generation | 1,839 |
+| Sentiment Generation | 1,733 |
+| Text Completion | 949 |
+| Other (Vocabulary, Synthetic) | 327 |
 
 ## Repository Structure
 
@@ -55,21 +60,22 @@ hassania-qwen-finetune/
 │   ├── raw/                    # Original downloaded datasets
 │   ├── processed/              # Cleaned individual datasets
 │   ├── enrichment/             # Additional data sources
-│   │   ├── books/              # Poetry and literature
-│   │   ├── processed_books/    # Processed book samples
+│   │   ├── books/              # Poetry and literature PDFs/texts
+│   │   ├── books_processed/    # Extracted book samples
 │   │   └── synthetic/          # AI-generated samples
-│   └── final/                  # Final merged datasets
-│       ├── hassania_enriched_full.jsonl  # Complete dataset
-│       ├── hassania_train.jsonl          # Training set (95%)
-│       ├── hassania_val.jsonl            # Validation set (5%)
+│   ├── final/                  # Previous version
+│   └── final_enriched/         # Latest enriched dataset ⭐
+│       ├── hassania_train.jsonl    # Training set (4.2 MB)
+│       ├── hassania_val.jsonl      # Validation set (221 KB)
+│       ├── hassania_corpus.txt     # Raw text corpus
 │       └── dataset_statistics.json
 ├── scripts/
-│   ├── download_data.py        # Download all datasets
-│   ├── preprocess_data.py      # Clean and normalize data
-│   ├── process_books.py        # Process literature
+│   ├── download_data.py            # Download all datasets
+│   ├── preprocess_data.py          # Clean and normalize data
+│   ├── process_all_books.py        # Process literature
 │   ├── generate_synthetic_data.py  # Generate synthetic data
-│   ├── merge_enriched_data.py  # Merge all sources
-│   └── finetune_qwen.py        # QLoRA fine-tuning script
+│   ├── merge_all_enriched_data.py  # Merge all sources
+│   └── finetune_qwen.py            # QLoRA fine-tuning script
 ├── models/                     # Fine-tuned model checkpoints
 └── README.md
 ```
@@ -84,7 +90,6 @@ cd hassania-qwen-finetune
 ```
 
 ### 2. Set Up Environment
-
 ```bash
 python3 -m venv venv
 source venv/bin/activate
@@ -96,8 +101,8 @@ pip install -r requirements.txt
 ```bash
 python scripts/finetune_qwen.py \
     --model_name Qwen/Qwen2.5-1.5B-Instruct \
-    --data_path ./data/final/hassania_train.jsonl \
-    --val_path ./data/final/hassania_val.jsonl \
+    --data_path ./data/final_enriched/hassania_train.jsonl \
+    --val_path ./data/final_enriched/hassania_val.jsonl \
     --output_dir ./models/qwen2.5-hassania \
     --num_epochs 3 \
     --lora_r 16 \
@@ -113,27 +118,19 @@ The dataset uses the instruction-tuning format:
   "instruction": "Translate to Hassania Arabic: Hello, how are you?",
   "input": "",
   "output": "السلام عليكم، شخبارك؟",
-  "source": "synthetic_openai",
-  "task": "translation"
+  "source": "dah",
+  "task": "translation_en_to_hassania"
 }
 ```
 
-## Data Enrichment Process
+## Book Sources
 
-### 1. Original Datasets
-- **DAH**: Bilingual English-Hassania translations from Hugging Face
-- **HASSANIYA Sentiment**: Facebook comments with sentiment labels from Mendeley
-- **Casablanca**: Mauritanian subset from multi-dialect ASR corpus
-- **Hassaniya Speech**: Audio transcriptions from Hugging Face
+The following Hassania literature was collected and processed:
 
-### 2. Literature & Poetry
-- **Diwan Wald Anjarto**: Traditional Hassania poetry collection (1,934 text segments)
-- **English-Hassaniya Dictionary**: Vocabulary and word translations
-
-### 3. Synthetic Generation
-- Generated using GPT-4o with few-shot prompting
-- Includes: conversations, proverbs, poetry, daily expressions, stories
-- Uses authentic Hassania examples as reference
+1. **جماليات الشعر العربي الحساني** - Aesthetics of Hassani Arabic Poetry (570 samples)
+2. **امروك الحرف (Mrug Alharf)** - First book written in Hassaniya dialect, 19th century (664 samples)
+3. **ديوان الشعر الحساني** - Hassania Poetry Collection from Archive.org (1,826 samples)
+4. **قاموس إنجليزي-حساني** - English-Hassaniya Dictionary (1,159 samples)
 
 ## Fine-Tuning Approach
 
@@ -164,6 +161,7 @@ We use **QLoRA (Quantized Low-Rank Adaptation)** for efficient fine-tuning:
 | [Hassaniya Speech](https://huggingface.co/datasets/Mamadou-Aw/Hassaniya-speech-dataset) | HF | Mamadou-Aw |
 | [Diwan Poetry](https://archive.org/details/akforda_yahoo) | Public | Archive.org |
 | [Dictionary](https://archive.org/details/eng-hass-dict-a-z) | Public | Archive.org |
+| [Chinguitipedia Books](https://chinguitipedia.net) | Various | Chinguitipedia |
 
 ## References
 
@@ -186,4 +184,5 @@ This project is licensed under the MIT License. Individual datasets retain their
 - Med El Moustapha El ARBY and Universite de Nouakchott for the HASSANIYA Sentiment dataset
 - UBC-NLP for the Casablanca dataset
 - Archive.org for hosting Mauritanian literature
+- Chinguitipedia for Mauritanian cultural resources
 - OpenAI for synthetic data generation capabilities
