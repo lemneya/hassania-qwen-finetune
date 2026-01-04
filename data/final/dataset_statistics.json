@@ -1,0 +1,32 @@
+{
+  "total_samples": 12240,
+  "train_samples": 11628,
+  "val_samples": 612,
+  "by_source": {
+    "dah": 5971,
+    "hassaniya_sentiment": 1828,
+    "casablanca_mauritanian": 1884,
+    "diwan_wald_anjarto": 1934,
+    "synthetic_openai": 221,
+    "hassaniya_dictionary": 112,
+    "hassaniya_speech": 290
+  },
+  "by_task": {
+    "translation_hassania_to_en": 2985,
+    "translation_en_to_hassania": 2986,
+    "sentiment_generation": 1824,
+    "dialect_example": 1939,
+    "hassania_text_generation": 1934,
+    "synthetic_proverbs": 25,
+    "vocabulary": 88,
+    "synthetic_conversation": 31,
+    "synthetic_poetry": 38,
+    "text_completion": 235,
+    "translation": 87,
+    "synthetic_daily_expressions": 21,
+    "synthetic_stories": 14,
+    "word_translation": 24,
+    "synthetic_descriptions": 5,
+    "sentiment_analysis": 4
+  }
+}
