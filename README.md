@@ -7,7 +7,7 @@ This repository contains compiled and enriched datasets for fine-tuning the Qwen
 Hassania is a low-resource Arabic dialect with limited digital representation. This project aims to:
 
 1. **Aggregate** all available Hassania dialect datasets
-2. **Enrich** the data with literature, poetry, and synthetic generation
+2. **Enrich** the data with literature, poetry, Peace Corps materials, and synthetic generation
 3. **Preprocess** and normalize the data for fine-tuning
 4. **Provide scripts** for fine-tuning Qwen 2.5 using QLoRA
 
@@ -17,11 +17,11 @@ Hassania is a low-resource Arabic dialect with limited digital representation. T
 
 | Metric | Value |
 |--------|-------|
-| **Total Unique Samples** | 15,859 |
-| **Training Samples** | 15,067 |
-| **Validation Samples** | 792 |
-| **Unique Corpus Texts** | 11,968 |
-| **Training File Size** | 4.2 MB |
+| **Total Unique Samples** | 17,877 |
+| **Training Samples** | 16,984 |
+| **Validation Samples** | 893 |
+| **Unique Corpus Texts** | 20,076 |
+| **Training File Size** | 4.5 MB |
 
 ### Data Sources
 
@@ -33,11 +33,15 @@ Hassania is a low-resource Arabic dialect with limited digital representation. T
 | Casablanca (Mauritanian) | 1,806 | Multi-dialect ASR |
 | HASSANIYA Sentiment | 1,737 | Sentiment Analysis |
 | English-Hassaniya Dictionary | 1,159 | Vocabulary |
+| **Peace Corps Arabic Course** | 986 | Language Learning (Romanized) |
+| **Peace Corps Grammar Handbook** | 762 | Grammar Examples (Romanized) |
 | Mrug Alharf | 664 | First Hassaniya Book (19th c.) |
 | Aesthetics of Hassani Poetry | 570 | Literary Analysis |
 | Hassaniya Speech | 276 | Speech Transcriptions |
+| **DLIFLC Cultural Orientation** | 244 | Cultural/Language Guide |
 | Synthetic (OpenAI GPT-4o) | 221 | AI-Generated |
 | Hassaniya Dictionary | 102 | Additional Vocabulary |
+| Hassaniya Linguistic Paper | 26 | Academic Linguistics |
 
 ### Task Distribution
 
@@ -49,34 +53,40 @@ Hassania is a low-resource Arabic dialect with limited digital representation. T
 | Poetry (لغن) | 1,957 |
 | Text Generation | 1,839 |
 | Sentiment Generation | 1,733 |
+| **Hassaniya Romanized** | 1,644 |
 | Text Completion | 949 |
-| Other (Vocabulary, Synthetic) | 327 |
+| **Grammar Examples** | 286 |
+| Vocabulary (Romanized) | 88 |
+| Other | 327 |
 
 ## Repository Structure
 
 ```
 hassania-qwen-finetune/
 ├── data/
-│   ├── raw/                    # Original downloaded datasets
-│   ├── processed/              # Cleaned individual datasets
-│   ├── enrichment/             # Additional data sources
-│   │   ├── books/              # Poetry and literature PDFs/texts
-│   │   ├── books_processed/    # Extracted book samples
-│   │   └── synthetic/          # AI-generated samples
-│   ├── final/                  # Previous version
-│   └── final_enriched/         # Latest enriched dataset ⭐
-│       ├── hassania_train.jsonl    # Training set (4.2 MB)
-│       ├── hassania_val.jsonl      # Validation set (221 KB)
+│   ├── raw/                        # Original downloaded datasets
+│   ├── processed/                  # Cleaned individual datasets
+│   ├── enrichment/                 # Additional data sources
+│   │   ├── books/                  # Poetry and literature PDFs/texts
+│   │   ├── books_processed/        # Extracted book samples
+│   │   ├── peace_corps/            # Peace Corps language materials
+│   │   ├── peace_corps_processed/  # Processed Peace Corps samples
+│   │   └── synthetic/              # AI-generated samples
+│   ├── final_enriched/             # Previous enriched version
+│   └── final_with_peace_corps/     # Latest dataset ⭐
+│       ├── hassania_train.jsonl    # Training set (4.5 MB)
+│       ├── hassania_val.jsonl      # Validation set (240 KB)
 │       ├── hassania_corpus.txt     # Raw text corpus
 │       └── dataset_statistics.json
 ├── scripts/
 │   ├── download_data.py            # Download all datasets
 │   ├── preprocess_data.py          # Clean and normalize data
 │   ├── process_all_books.py        # Process literature
+│   ├── process_peace_corps.py      # Process Peace Corps materials
 │   ├── generate_synthetic_data.py  # Generate synthetic data
-│   ├── merge_all_enriched_data.py  # Merge all sources
+│   ├── merge_peace_corps_data.py   # Merge all sources
 │   └── finetune_qwen.py            # QLoRA fine-tuning script
-├── models/                     # Fine-tuned model checkpoints
+├── models/                         # Fine-tuned model checkpoints
 └── README.md
 ```
 
@@ -101,8 +111,8 @@ pip install -r requirements.txt
 ```bash
 python scripts/finetune_qwen.py \
     --model_name Qwen/Qwen2.5-1.5B-Instruct \
-    --data_path ./data/final_enriched/hassania_train.jsonl \
-    --val_path ./data/final_enriched/hassania_val.jsonl \
+    --data_path ./data/final_with_peace_corps/hassania_train.jsonl \
+    --val_path ./data/final_with_peace_corps/hassania_val.jsonl \
     --output_dir ./models/qwen2.5-hassania \
     --num_epochs 3 \
     --lora_r 16 \
@@ -123,14 +133,25 @@ The dataset uses the instruction-tuning format:
 }
 ```
 
+## Peace Corps Materials
+
+The following Peace Corps Hassaniya language learning materials were processed:
+
+1. **Mauritanian Arabic Communication and Culture Handbook** - Comprehensive language course with dialogues, vocabulary, and cultural notes
+2. **Mauritanian Arabic Grammar Handbook** - Grammar explanations with romanized Hassaniya examples
+3. **Hassaniya Language Lessons** - Basic vocabulary and phrases
+4. **DLIFLC Hassaniya Cultural Orientation** - Defense Language Institute guide with cultural and linguistic content
+
+Note: Peace Corps materials use romanized transcription (Latin script) for Hassaniya, which provides valuable phonetic information for the dialect.
+
 ## Book Sources
 
 The following Hassania literature was collected and processed:
 
-1. **جماليات الشعر العربي الحساني** - Aesthetics of Hassani Arabic Poetry (570 samples)
-2. **امروك الحرف (Mrug Alharf)** - First book written in Hassaniya dialect, 19th century (664 samples)
-3. **ديوان الشعر الحساني** - Hassania Poetry Collection from Archive.org (1,826 samples)
-4. **قاموس إنجليزي-حساني** - English-Hassaniya Dictionary (1,159 samples)
+1. **جماليات الشعر العربي الحساني** - Aesthetics of Hassani Arabic Poetry
+2. **امروك الحرف (Mrug Alharf)** - First book written in Hassaniya dialect (19th century)
+3. **ديوان الشعر الحساني** - Hassania Poetry Collection from Archive.org
+4. **قاموس إنجليزي-حساني** - English-Hassaniya Dictionary
 
 ## Fine-Tuning Approach
 
@@ -162,12 +183,15 @@ We use **QLoRA (Quantized Low-Rank Adaptation)** for efficient fine-tuning:
 | [Diwan Poetry](https://archive.org/details/akforda_yahoo) | Public | Archive.org |
 | [Dictionary](https://archive.org/details/eng-hass-dict-a-z) | Public | Archive.org |
 | [Chinguitipedia Books](https://chinguitipedia.net) | Various | Chinguitipedia |
+| [Peace Corps Materials](https://www.livelingua.com/course/peace-corps/arabic-(mauritanian)-language-lessons) | Public | Peace Corps |
+| [DLIFLC Materials](https://fieldsupport.dliflc.edu/products/hassaniya/) | Public | DLIFLC |
 
 ## References
 
 - [RIM-AI: Leveraging LLM Foundation Models for Hassania](https://www.rim-ai.com/en/blog/hassania-llm)
 - [Qwen Arabic Fine-tuning Project](https://github.com/prakash-aryan/qwen-arabic-project)
 - [Casablanca: Data and Models for Multidialectal Arabic Speech Recognition](https://arxiv.org/abs/2410.04527)
+- [Hassâniyya Arabic - Encyclopedia of Arabic Language and Linguistics](https://shs.hal.science/halshs-00563853)
 
 ## Contributing
 
@@ -185,4 +209,6 @@ This project is licensed under the MIT License. Individual datasets retain their
 - UBC-NLP for the Casablanca dataset
 - Archive.org for hosting Mauritanian literature
 - Chinguitipedia for Mauritanian cultural resources
+- Peace Corps for language learning materials
+- Defense Language Institute (DLIFLC) for cultural orientation materials
 - OpenAI for synthetic data generation capabilities

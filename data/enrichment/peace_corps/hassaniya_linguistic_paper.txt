@@ -1,0 +1,719 @@
+                                      Hassâniyya Arabic
+                                       Catherine Taine-Cheikh
+
+
+
+      To cite this version:
+    Catherine Taine-Cheikh. Hassâniyya Arabic. M. Eid, A. Elgibali, K. Versteegh (editor-in-chief), M.
+    Woidich & A. Zaborski. Encyclopedia of Arabic Language and Linguistics (EALL), vol. 2 II (Eg-Lan),
+    Brill, pp.240-250, 2007. �halshs-00563853�
+
+
+
+
+                                HAL Id: halshs-00563853
+                    https://shs.hal.science/halshs-00563853v1
+                                       Submitted on 7 Feb 2011
+
+
+
+
+    HAL is a multi-disciplinary open access               L’archive ouverte pluridisciplinaire HAL, est
+archive for the deposit and dissemination of sci-     destinée au dépôt et à la diffusion de documents
+entific research documents, whether they are pub-     scientifiques de niveau recherche, publiés ou non,
+lished or not. The documents may come from            émanant des établissements d’enseignement et de
+teaching and research institutions in France or       recherche français ou étrangers, des laboratoires
+abroad, or from public or private research centers.   publics ou privés.
+Ḥassāniyya Arabic
+
+
+1. GENERAL INFORMATION
+
+Ḥassāniyya (or klām əl-Bīđ̣ān ‘language of the Whites’) is the mother tongue of the Arabic-
+speaking population of the western Sahara, especially the Moors (Bīđ̣ān) of Mauretania and
+the former Spanish Sahara (from the Sagya el-Ḥamra and the Rio del Oro). It is difficult to
+draw the precise geographical limits of this dialect, but its approximate borders are
+Goulimine in the north, Tindouf in the northeast, Tombouctou in the southeast and the
+Senegal River in the south. The percentage of Ḥassāniyya speakers is highest in the central
+regions. There are about 3 million speakers, around 2 million living in Mauretania, out of a
+total estimated population of 2,9 million. By the middle of the 20th century, most speakers
+still had a Bedouin lifestyle.
+        The origin of the Ḥassāniyya is linked (as indicated by its name) to the arrival of the
+Banū Ḥassān, a branch of the Maˁqil Arabs – who were themselves linked to the movements
+of territorial expansion of the Banū Hilāl and the Banū Sulaym. Ḥassāniyya is a Bedouin
+dialect that is part of the western dialect group (Maghrebi) and has developed in a Berber-
+speaking environment. Despite the influence of the substrate and because of its Bedouin
+nature, it has more in common with eastern Arabic dialects, most of which (though not all)
+are Bedouin, than with Maghrebi dialects like Moroccan and Algerian.
+        Ḥassāniyya is rarely used as a lingua franca, even if certain Black-African
+Mauretanians are more or less proficient in it. It is not used as a means of written
+communication; Literary Arabic (Classical or Standard) or a foreign language, in particular
+French, are used for writing. An important oral literature exists, most of it poetry, but the
+conditions that gave rise to this literature are rapidly changing (—> Mauretania).
+        Ḥassāniyya has been studied extensively, but no recent manuals exist, except in
+xeroxed form. A reference grammar was published by Cohen (1963). Although its subtitle is
+‘Dialect of the Gabla’, it may be regarded as typical of the dialect variety that is spoken in
+Mauretania as well as in the former Spanish Sahara. An overview of the grammar is given in
+the introduction to Taine-Cheikh’s Ḥassāniyya/French dictionary (1988:I-CIII). For
+grammatical details see Taine-Cheikh's articles, which appeared in particular in Materiaux
+Arabes et Sudarabiques.
+        Ḥassāniyya shows an exceptional unity, with a few exceptions. Genuine Ḥassāniyya
+speakers, as well as unilingual or, more often, bilingual people speaking a variety that
+differs from the standard dialect, can be found at the Moroccan, Malian, and probably
+Algerian borders. The dialects of these speakers are so different that they are virtually
+incomprehensible to the uninformed Ḥassāniyya speaker (Taine-Cheikh 1997; Heath 2002,
+2004). Nowadays, this variation is largely individual, but formerly it was often linked to the
+history of certain tribal groups, such as the Tekna of Morocco or the Brābīš and the Kunta of
+Mali.
+        In the 1970s, under the influence of Arab nationalist movements and in the context
+of forced settlement, intellectuals and their students have developed a form of Arabic that
+was a mix of dialect and Modern Standard Arabic, used in political discussions (Taine-
+Cheikh 1978). This ‘middle’ Arabic has spread gradually, introducing many new words in
+the traditionally very rural dialectal lexicon.
+
+
+
+
+1
+2. LINGUISTIC DESCRIPTION
+
+Ḥassāniyya is a relatively conservative language (at least when compared to other Maghrebi
+dialects) but it has also developed several innovations, in particular certain morphosyntactic
+patterns (Taine-Cheikh 1991). The Berber substrate does not seem to have had a large
+influence on the structure of Arabic. Its presence may be perceived in the lexicon, but since
+most loanwords receive a special treatment, their influence is usually limited. Where
+common forms exist between Ḥassāniyya and Mauretanian Berber (Zenaga), it is often hard
+to attribute the source to either language. In several cases, a parallel development may have
+taken place, facilitated by the remote genealogical relation between Arabic and Berber. This
+development may have been furthered by the progressive disappearance of Zenaga and a
+process of osmosis between Arabic- and Berber-speaking groups.
+
+2.1 Phonology
+
+2.1.1 Consonants
+
+2.1.1.1 Inventory (Table 1)
+             velarized   labial   inter-   dental    pre-     post-     velar   pharyn-   laryn-geal
+                                  dental            palatal   palatal            geal
+
+
+plosive         -          b                 d       dy         g
+voiced          +          ḅ                 ḍ
+plosive         -                            t        ty        k                            ()
+voiceless       +                            ṭ                           q
+continuant      -          v        ḏ        z        ž                  ġ         '
+voiced          +         (ṿ)       đ̣       ẓ
+continuant      -                   Ú        s        š                  x        ḥ           h
+voiceless       +                            ṣ
+nasal           -         m                  n       ny
+                +         ṃ                 (ṇ)
+lateral         -                            l
+                +                            ḷ
+vibrant         -                            r
+                +                            ṛ
+semivowel                 w                           y
+
+
+/ġ/ is attested only among certain speakers (mainly in the west, southwest and northwest)
+when it is not geminated. /ġ/ and /q/ have merged, being realized as [q] by the other
+Ḥassāniyya speakers (centre, east and northeast Mauretania, Mali and Algeria) and, by all,
+in all case of gemination (/ġġ/ realised [qq] as in Zenaga).
+        The phonological system is rich. Ḥassāniyya tends to phonemicize the opposition
+emphatic/non-emphatic (especially for the vibrants, /ṛ/ being more frequent than /r/) and
+to preserve the pronunciation of some of the borrowed lexemes, hence the presence of
+phonemes from Classical Arabic (/ḍ/, /q/, or even //), Zenaga (/ẓ/, /dy/, /ty/, /ny/) and
+even from Black African languages (/q/ and the palatalized consonants).
+
+
+
+2
+        Yet, certain phonemes remain marginal, especially in loanwords and the velarized ḅ,
+ṃ, ṇ, ṿ). It is often difficult to find minimal pairs, except for l ~ ḷ, g~ q and above all r~ṛ:
+dār/idīr ‘to put’ vs. dāṛ/idōṛ ‘to want’; gās ‘to go toward’ vs. qās ‘measure’; gām ‘to get up’ vs.
+qām ‘to prepare the tea’; ḍall ‘to err [in religion]’ vs. đ̣all ‘to spend the day’; zanga ‘to skirt
+around while going up’ vs. ẓanga ‘to make someone pay a tribute’; walla ‘to come back’ vs.
+waḷḷa ‘or’; bəṛga ‘shacks’ vs. ḅəṛga ‘bad quality tea’; tamātāya ‘(a) gum tree’ vs. taṃātāya ‘(a)
+tomato’.
+        Even though the status of some phonemes is problematic (especially in the case of ṇ
+and ṿ), this does not challenge the existence of emphasis (for an opposite position see
+Zavadovskij 1981:26–27).
+
+2.1.1.2 Historical remarks on the inventory
+Ḥassāniyya is characterized by the realization of qāf as [g], the maintaining of the
+interdentals (/đ̣/ being the reflex of most words with ḍād in Classical Arabic) and the
+disappearance of the hamza (often compensated, at the end of the syllable, by lengthening
+of the preceding vowel).
+
+2.1.1.3 Phonetic realization
+/j/ is realized as a palato-alveolar fricative [Z]. The labial spirant is realized preferentially
+as a voiced consonant [v], except in contact with a voiceless consonant or when it is
+geminate. This realization is particular to this dialect (with the exception of the Ḥassāniyya
+of the Mali).
+
+2.1.1.4 Distribution
+The emphasis of the vibrant varies sometimes according to the context. Emphasis may be
+lost or absent in the presence of /y/, /ī/ or even /ə/: ‘ašṛa ‘ten’, ˁəšrīn ‘twenty’, ˁāšər ‘to
+count by tens’. More generally, the assimilation of sonority and emphasis — in particular for
+/s/~/ṣ/, /z/~/ẓ/ — is frequent among the consonants, whether in contact or not: ‘rīs ‘bride
+groom’, but ‘ṛūṣ ‘bride’. Extended to all the forms of the same root, this helps to explain
+certain differences with Classical Arabic (sometimes common to other dialects), e.g. t-f-l:
+dvəl ‘to spit’ (but in the east and in Mali: tfəl), q-t-l: ktəl ‘to kill’, ṣ-ġ-r: sġayyər ‘small’, ṣ--y:
+ẓwä ‘to twitter’. There are also some conditioned alterations between sibilant and palato-
+alveolar fricatives belonging to the same root (assimilation with loss of the palato-alveolar
+fricative), thus n-s-ž: näzz ‘to weave’, ž-z-z: zäzz ‘to shear’.
+
+2.1.1.5 Sociolinguistic variables
+Some tendencies appear among the least educated groups, such as the marginalization of
+/ḍ/; in the southwest, the merger of /q/ and /ġ/ and, only in a limited region, the tendency
+to emphasize t in contact: [ṭṛa:b] ‘earth’.
+
+2.1.2 Vowels
+Table 2. Vowels
+long            short
+                opened syllable               closed syllable
+/ī/             /i/                           /ə/
+/ū/             /u/
+/ā/             /a/                           /a/
+
+
+
+
+3
+The merger of /i/ and /u/ in closed syllables is characteristic of the nomadic dialects
+(Cohen 1970). The short phonemes /a/ and /ə/ are realized variably, according to context.
+In a neutral context, /a/ undergoes ’imāla and is realized more centralized (transcribed ä).
+Long vowels have variable length: long under the accent, average apart from the accent,
+and short in final position. Final long vowels are lengthened again before a suffix: šāvu ‘they
+have seen’, šāvū-h ‘they have seen him/her/it’. When /ā/ is realized as a short vowel, it
+undergoes ’imāla: žä ‘he came’, žā-h ‘he came to him’.
+
+2.1.3 Diphthongs
+The four former diphthongs are preserved: /ay/, /aw/, /iy/, and /uw/. However, the
+realization of /ay/ and /aw/ sometimes tends towards [e:] and [o:].
+
+2.1.4 Syllable
+Because of the general preference for closed syllables, short vowels in open syllables are
+rare, apart from loanwords and in final position. They are found, however, in several initial
+syllables in which the short syllable represents a first radical w/y (uvä ‘he is over') or plays
+an important morphological role (aḥmaṛ ‘red’, ikättäb ‘he makes [them] write’, udägdäg ‘to
+be broken’).
+        The most frequent syllabic type is CVC and CVV, but syllables with double coda
+CVCC or double-onset CCVC are frequent. Closed syllables with long vowels (CVVC) are
+attested, especially in the participles, kātbīn ‘writing [pl.]’. Several open syllables have a
+secondary origin (3rd radical w/y): žäru < žərw ‘young dog’ (fem. žərwä).
+
+2.1.5 Consonant clusters
+The general rule for consonant clusters is to introduce epenthetic vowels after elision of
+short vowels in an open syllable, malḥafa > /malḥfa/ ‘veil (of the women)’ [realized
+[mæləḥfæ]. In monosyllabic nouns, metathesis is regular, except in loans from Classical
+Arabic: [ṭfəl] ‘boy’ (but [ṭəvl-u] ‘his boy’).
+
+2.1.6 Stress
+Stress is on the third mora from the end of the word, e.g., on the first syllable in mäktäb
+‘desk’, on the second in mäktūb ‘written’. It is strongly marked only on long vowels (accent
+of length rather than intensity). A lot of grammatical morphemes are clitics.
+
+2.2 Morphology
+
+2.2.1 Pronouns
+The gender opposition is never marked in the 1st person.
+
+2.2.1.1 Personal independent pronouns (Table 3)
+
+Table 3. Personal pronouns
+                    singular                       plural
+3rd masc.           huwwä, hūwä                    hūmä
+    fem.            hiyyä, hīyä                    hūmāti
+2nd masc.           (ə)ntä                         (ə)ntūmä
+    fem.            (ə)nti, (ə)ntiyyä              (ə)ntūmāti
+1st                 ānä                            (ə)ḥnä, nəḥnä
+
+
+4
+2.2.1.2 Possessive/object suffixes (Table 4)
+The clitic pronoun of the 1st person singular has two different forms, after a verb (šāv-ni ‘he
+saw me’) or after a preposition (vī-yä ‘in me’) or noun (ktāb-i ‘my book’). In certain special
+contexts (e.g., after mā- ‘not’, mən- ‘who?’), a short form of the independent pronoun is used
+for the 3rd person singular: masc. -hu, fem. -hi. The possessive pronouns consist of a base
+that varies according to gender in the singular (masc. līl- fem. līlt-; pl. lwāyl-) and of an affix
+pronoun: līl-i ‘mine’.
+
+Table 4.Possessive/object suffixes
+                                                          singular                          plural
+                                        after a consonant            after a vowel
+1st            object suffixes                               -ni                             -nä
+               possessive suffixes              -i                           -yä
+2nd masc.                                      -ak                            -k            -kum
+    fem.                                       -ək
+3rd masc.                                    -u (-ū-)                        -h             -hum
+    fem.                                                  -hä (-hā-)
+
+2.2.1.3 Demonstratives (Table 5)
+
+Table 5. Demonstratives
+                                              masc. sg.            fem. sg.          pl.
+
+proximity or neutral use ‘this’                  ḏä                    ḏi             ḏu
+proximity (hā-) ‘this one, this’                hāḏä                 hāḏi            hāḏu
+distance (-k) ‘that one, that’                   ḏāk                   ḏīk           ḏūk
+
+2.2.1.4 Presentatives
+The presentatives consist of an independent personal pronoun (in the sg,, short or long
+form), preceded by a demonstrative or a particle with a verbal origin: ḏähu(wwä) ‘here',
+ḏākhu(wwä) ‘there’, (a)ṛahu(wwä) ‘there he is’: ḏīkhi(yyä) maṛyäm ‘there is Mariem’.
+
+2.2.1.5 Relative pronoun
+The relative pronoun is invariable in gender and in number: lli (sometimes əl) ‘who, what’.
+
+2.2.1.6 Interrogative pronouns
+Interrogative pronouns include mən ‘who?’ (mən-hu ‘who is it?’); š(ə)- ‘what?’ and its
+variants: -āš after a preposition; šən- in šən-hu ‘what is it?’; äyy (invariable) ‘which one?’
+(äyy-kum ‘which one of you?’).
+
+2.2.2 Adverbs
+i.    Interrogative adverbs: mnäyn et wäyn ‘where?’, äyntä ‘when?’, kämm ‘how much?’, əˁl-
+      āš ‘why?’, škīv ‘how?’.
+ii.   Adverbs of place: hūn, hūnāti(yyä) ‘here’, vämm, vämmāti(yyä) ‘there’, hōwk,
+      hōwkāti(yyä) ‘over there’, ilāh ‘toward there’, l-gäddām ‘in front of’, ət-taḥt ‘under’, əl-
+      väwg ‘above’.
+
+
+5
+iii.   Adverbs of time : đ̣aṛk, đ̣aṛkāti(yyä) ‘now’, l-yäwm ‘today’, ġdä ‘tomorrow’, əṣ-ṣəbḥ
+       ‘tomorrow morning’, yāməs ‘yesterday’, əl-bārəḥ ‘yesterday night’, əl-läylä ‘tonight’.
+iv.    Adverbs of quantity: yāsər ‘a lot’, ḥattä ‘very’, šwäyy ‘little/few’.
+
+2.2.3 Particles
+The l of the definite articles əl- assimilates to all ‘sunletters’ and to ž. There is no indefinite
+article and no particle of the genitive. The verbal negative form is mā in assertive sentences
+(without a second element), lā with the imperative. In a nominal sentence, the negative
+form is combined with the suffix pronouns (mā-ni, mā-n-ak, etc.).
+i.     Prepositions: və (vī- + pronoun) ‘in’, ‘lä (əˁlī-) ‘on’, bə (bī-) ‘with’, mən ‘de’, ‘and ‘by’,
+       šäwṛ ‘toward’, gäddām ‘in front of’, uṛa ‘behind, after’, sābəg ‘before’, taḥt 'under’, väwg
+       ‘above’.
+ii.    Subordinating conjunctions: ˁan, änn ‘that’, mnäyn ‘when’, bī(h)əlli ‘because’, äyyāk,
+       bbāš ‘for’, ilā, iḏa ‘if’ (condition), (yä)kān ‘whether’ (indirect interrogation).
+iii. Coordinating conjunctions : wə / u ‘and’, waḷḷa ‘or’, (ya)ġäyr/(ya)qäyr ‘but’.
+
+2.2.4 Nouns
+The singular feminine form of nouns and adjectives ends in -a(t) with a few exceptions such
+as ˁanz ‘goat’, xādəm ‘woman slave’, ˁayn ‘eye’, dāṛ ‘house’, and xandūd ‘good milker’, ḥāməl
+‘pregnant’ (but ḥāmlä ‘[who] wears’).
+        Apart from the broken plurals there is an external plural: masculine -īn and feminine
+-āt; there are some —> pseudo-duals such as uḏnäyn ‘ears, two ears’.
+        Numerous Berber loanwords have special affixes: prefixes in a(a)-/i(i)- for
+masculine, ta(a)-/ti(i)- for feminine nouns; suffixes -t for feminine singular and -ən for plural
+nouns.
+        The pattern C1aC2C2āC3 (nouns of habit, profession) is very frequent: käḏḏāb ‘liar’.
+        Adjectives of color and defect: masc. sg. aCCaC, aḥmaṛ ‘red’, fem. sg. CaCCa, ḥamṛa,
+comm. pl. CəCC, ḥəmṛ.
+        aCCaC is also the pattern of the comparative form (invariable): akbaṛ ‘taller’, aḥmaṛ
+‘more red’.
+        The diminutive formation is very productive and very differentiated for nouns and
+adjectives: CCayC kläyb (< kälb ‘dog’), CCayyəC ktäyyəb (< ktāb ‘book’), CCayCəC ˁgäyrəb
+(<ˁagrəb ‘scorpion’), CCayCīC bzäyzīl (< bäzzūl ‘udder’), aCayCəC aḥaymər (< aḥmaṛ ‘red’).
+
+2.2.5 Numerals
+Cardinals 1 and 2 agree in gender: 1 masc. wāḥəd fem. waḥdä; 2 masc. äṯnäyn fem. ṯäntäyn.
+The dual is still productive: kälb-äyn ‘two dogs’. Certain cardinals have two forms. From 3 to
+10, the long form in -a is used in the absolute state.
+
+               absolute state            construct state
+        3      (ä)ṯlāṯä                  äṯlət
+        4      aṛbˁa                     aṛbaˁ
+        5      xamsä                     axməs
+        6      səttä                     sətt
+        7      säbˁa                     äsbaˁ
+        8      (ä)ṯmānyä                 äṯmən
+        9      təsˁa                     ətsaˁ
+       10      ˁašṛa                     əˁšəṛ
+
+
+6
+From 11 to 19, the cardinals are used without final -əṛ in the absolute state.
+
+               absolute state            construct state
+     11        aḥdaˁš                    aḥdaˁšəṛ
+     12        aṯnaˁš                    aṯnaˁšəṛ
+     13        aṯləṭṭaˁš                 aṯləṭṭaˁšəṛ
+     14        aṛbaˁṭaˁš                 aṛbaˁṭaˁšəṛ
+     15        axməsṭaˁš                 axməsṭaˁšəṛ
+     16        səṭṭaˁš                   səṭṭaˁšəṛ
+     17        äsbaˁṭaˁš                 äsbaˁṭaˁšəṛ
+     18        äṯmənṭaˁš                 äṯmənṭaˁšəṛ
+     19        ätsaˁṭaˁš                 ätsaˁṭaˁšəṛ
+
+The number 100 is miyyä in the absolute state and mīt in the construct state. The other
+cardinals have an invariable form: 20 ˁəšrīn, 30 ṯlāṯīn, 40 aṛbˁīn, 50 xamsīn, 60 səttīn, 70
+säbˁīn, 80 ṯmānyīn, 90 təsˁīn, 200 mītäyn, 1,000 älv.
+         With the exception of äwwäl ‘first’, the ordinals have the pattern of the participle
+fāˁəl: ṯāni ‘second’.
+
+2.2.6 Verbs
+
+2.2.6.1 Patterns/stems
+
+2.2.6.1.1 Pattern I: 3-radicals
+The stem vowels are /a/ or /ə/; there are 3 subclasses, the most frequent being that of verbs
+with a harmony between the two vowels: type a: ktəb/yəktəb ‘to write’ (often root without
+back consonant); type b: vtaḥ/yavtaḥ ‘to open’; type c (mixed): ṛgaṣ/yərgəṣ ‘to dance’.
+       The diminutive form aC1ayC2aC3/yaC1ayC2aC3: äkäytäb/yäkäytäb ‘to write with a
+bad handwriting’ is rare.
+
+2.2.6.1.2 Pattern I : 4-radicals
+This type is unique, with two stem vowels /a/: gaṛmaṣ/igaṛmaṣ ‘to pinch’. Particular cases
+are: (R2=R4) baxbax ‘to burst out laughing’, (R3=R4) baḥšäš ‘to strangle’.
+
+2.2.6.1.3 Derived patterns (Table 6)
+The derived forms are numerous and productive. In many cases, there is a correlation
+between active and reflexive (forms with/without t- or -t-) and a systematic relation
+between active and passive (forms with/without n- or u-). The internal passive has
+disappeared in Ḥassāniyya (as in most dialects), but a new system of formal oppositions has
+developed to denote the distinction between middle/reflexive/reflexive-passive, on the one
+hand, and a real passive form, on the other. Only form ‘XI’ (expressing a change of state) is
+isolated in this system.
+        The stem vowel of the derived forms is always that of the perfect of Form I. Form
+VIII (rare as middle, əštġal ‘to work’) is used as passive of Form I if the first radical is l, m, n,
+r, ṛ, w or an original hamza: (ə)rtdəm ‘to be buried’, (ə)ltˁan ‘to be cursed’. Form VII is the
+regular passive of the theme I: (ə)nktəb ‘to be written’, ənvtaḥ ‘to be opened’.
+
+
+
+
+7
+Table 6. Derived forms
+                     active meaning*          reflexive meaning        passive meaning
+
+3-radicals           I:                       VIII:                    VII:
+                     C1C2ə/aC3                (ə)C1tC2ə/aC3            (ə)nC1C2ə/aC3
+doubling R2          II:                      VI:
+                     C1aC2C2aC3               tC1aC2C2aC3              uC1aC2C2aC3
+lengthening V        III:                     VI:
+after R1             C1āC2əC3                 tC1āC2əC3                uC1āC2əC3
+prefix s-            ‘IV’:                    X:
+                     saC1C2aC3                staC1C2aC3               usaC1C2aC3
+lengthening V        ‘IX’:
+after R2             (ə)C1C2āC3               —                        —
+
+quadriradicals       C1aC2C3aC4               tC1aC2C3aC4              uC1aC2C3aC4
+
+          Form II is very frequent as causative-factitive and iterative of Form I or
+denominative: gaṭṭaˁ ‘to have it cut; to cut in small pieces’, baṛṛag ‘to make it shine’. Form V
+is frequent as middle or reflexive of Form II: tgaṭṭaˁ/yətgaṭṭaˁ ‘to cut itself in small pieces’; u-
+II: ugaṭṭaˁ ‘to be cut in small pieces; to be made to go across’.
+          Form III is quite frequent as extensive of Form I or causative-factitive of Form VI:
+vārəg ‘to separate one from the other'. Form VI is frequent as reciprocal, middle or reflexive
+of From III: tvārəg ‘to separate ourselves from one another’; u-III: uvārəg ‘to be separated
+from one another’.
+          Form ‘IV’ has some causatives-factitives of form X): saˁṛab ‘to arabize’, saḥmaṛ ‘to get
+it reddish’. Form X is quite frequent as reflexive, middle, and inchoative: staˁṛab ‘to arabize
+itself’, staḥmaṛ ‘to become reddish’.
+          Form ‘XI’ is rare: gṣāṛ ‘to become short’.
+          Examples of derived forms of quadriradical verbs are baˁṛaṣ ‘to fluster’, tbaˁṛaṣ ‘to
+fluster oneself’, ubaˁṛaṣ ‘to be flustered’.
+
+2.2.6.2 Inflection of aspects and moods
+
+2.2.6.2.1 Perfect (Table 7)
+
+Table 7. Perfect verb
+                 Triradicals:       Triradicals:       Quadriradicals:
+                 type a             type b and c
+3rd sg. masc. ktəb                  vtaḥ               baˁṛaṣ
+3rd sg. fem.     kətbət             vätḥət             baˁəṛṣət
+2nd sg. masc. ktəbt                 vtaḥt              baˁṛaṣt
+2nd sg. fem.     kətbi              vätḥi              baˁṛaṣti
+1st sg.          ktəbt              vtaḥt              baˁṛaṣt
+3rd pl.          kətbu              vätḥu              baˁəṛṣu
+2nd pl.          ktəbtu             vtaḥtu             baˁṛaṣtu
+1st pl.          ktəbnä             vtaḥnä             baˁṛaṣnä
+
+
+8
+2.2.6.2.2 Imperfect (Table 8)
+The prefix vowel of the imperfect is always /ə/ for derived verbs beginning with two
+consonants (V, VI, VII, VIII, X and ‘XI’), yətbaˁṛaṣ ‘he flusters himself’. The vowel u- of the
+passive form is constant, yubaˁṛaṣ ‘he was flustered’.
+
+Table 8. Imperfect verb
+                 Triradicals:         Triradicals:    Quadriradicals
+                 type a and c         type b
+3rd sg. masc.    yəktəb               yävtaḥ          ibaˁṛaṣ
+3rd sg. fem.     təktəb               tävtaḥ          tbaˁṛaṣ
+2nd sg. masc.    təktəb               tävtaḥ          tbaˁṛaṣ
+2nd sg. fem.     təkətbi              tävətḥi         tbaˁəṛṣi
+1st sg.          nəktəb               nävtaḥ          nbaˁṛaṣ
+3rd pl.          yəkətbu              yävətḥu         ibaˁəṛṣu
+2nd pl.          təkətbu              tävətḥu         tbaˁəṛṣu
+1st pl.          nəkətbu              nävətḥu         nbaˁəṛṣu
+
+2.2.6.2.3 Imperative
+
+                 Triradicals:         Triradicals:    Quadriradicals
+                 type a and c         type b
+2nd sg. masc.    ktəb                 avtaḥ           baˁṛaṣ
+2nd sg. fem.     kətbi                ävətḥi          baˁəṛṣi
+2nd pl.          kətbu                ävətḥu          baˁəṛṣu
+
+2.2.6.3    Participles and elatives
+
+Table 10. Participles and elatives
+                active                reflexive          passive            elative
+—             I                       VIII                                  I and VIII
+              C1āC2əC3                məC1tC2ə/aC3       mäC1C2ūC3          aC1C2aC3
+doubling R2   II                      VI
+              mC1aC2C2aC3             mətC1aC2C2aC3      muC1aC2C2aC3       aC1aC2C2aC3
+lengthening V III                     VI
+after R1      mC1āC2əC3               mətC1āC2əC3        muC1āC2əC3         aC1āC2əC3
+prefix s-     'IV'                    X
+              msaC1C2aC3              məstaC1C2aC3       musaC1C2aC3        asaC1C2aC3
+quadriradical
+s             mC1aC2aC3aC4            mətC1aC2aC3aC4 muC1aC2aC3aC4 aC1aC2aC3aC4
+
+All derived verbs have a participial form in m- except VII and ‘XI’. The participles form their
+plural form with the suffixes -īn and -āt. The suffix of the feminine (*-at) is in -a, except
+before a direct object clitic pronoun: hiyyä šārbä ‘she drank’, hiyyä šārəbt-u ‘she drank it’.
+        Elatives (invariable) exist for all participles, with an identical form for the forms
+with/without t (Taine-Cheikh 1984:284-290): I (vāhəm) äfhäm mən ‘understanding better
+
+
+9
+than’; VIII (məštmaṛ) äšmaṛ mən ‘demonstrating more courage than’; II/V (mˁalläm,
+mətˁalläm) äˁalläm mən ‘teaching/studying better than’; III/VI (mvārəg, mətvārəg) ävārəg mən
+‘separating (themselves) from one another better than’; ‘IV'/X (msaˁṛab, məstaˁṛab) äsaˁṛab
+mən ‘arabizing (oneself) more than’; quadriradicals (I and with t-) (mbaˁṛaṣ, mətbaˁṛaṣ)
+abaˁṛaṣ mən ‘flustering (oneself) more than’.
+
+2.2.6.4 Verbal nouns
+With the exception of Form ‘XI’, verbal nouns usually exist for all verbs with a non-passive
+meaning. The forms vary for I (long or short vowel): vähm ‘understanding’, ḥsāb ‘act of
+counting’, ġrīg ‘act of sinking’, rsūl ‘act of sending’. One form prevails for all other cases,
+often common to verbs with/without t: II/V təC1C2āC3, təbṛāg ‘act of making something
+shine’; III/VI tC1āC2īC3, tvārīg ‘mutual separation; act of separating from one another’;
+‘IV’/X staC1C2īC3, staˁrīb ‘arabization, act of arabizing oneself’; quadriradicals (I and with
+t-) tC1aC2C3īC4, tbaḥšīš ‘strangling, the fact of strangling (oneself)’.
+         The instance noun is generally in -a. It may be accompanied by a pattern change for
+I (räslä ‘(a) sending’) and regularly so for II/V: təC1C2īC3a, təbṛīgä ‘act of making something
+shine once’.
+
+2.2.7 Weak verbs
+
+Table 11. Weak verbs
+                geminate               I w/y                 II w/y                 III w/y
+type a          2 cas:                 R1=w                  (rare)                 R3=w/y
+                đ̣all/iđ̣all ‘to       uṣal/yäwṣal           R2=w: xāf/ixāf         (rare)
+                while away the         ‘to arrive’           ‘to be scared’         nsä/yänsä
+                time’,                                       R2=y: bāt ibāt ‘to     ‘to forget’
+                tämm/itämm ‘to                               spend the night’
+                go on’
+type b                                 R1=w: uzən            R2=w: gāl igūl ‘to R2=w/y
+                —                      yūzən ‘to weigh’      tell’              (frequent)
+                                       R1=y: ibəs            R2=y: gās igīs     šrä yəšri ‘to buy’
+                                       yībəs ‘to dry’        ‘to head for’
+
+Type c          R2=R3
+                baṭṭ ibəṭṭ ‘to beat’
+
+particularities 1st, 2nd pers.         perfect 3rd pers.     1st, 2nd pers.         3rd pers. pl.
+                perfect in -äy-:       f., pl. in w-: waṣlət perfect in -ə-: gəlt   imperfect
+                baṭṭäyt                wəznət / ūznət                               type a: yänsāw
+                                                                                    type b: yəšru
+
+active          bāṭṭ                   wāzən                 R2=w > /y/:            nāsi (fem. nāsyä)
+participle                                                   gāyəl                  šāri (fem. šāryä)
+
+passive         mäbṭūṭ                 mäwzūn                R2=w > /y/:            mänsi(yy)
+participle      (pl. mbaṭṭa)                                 mägyūl                 məšri(yy)
+
+
+
+
+10
+The derived verbs are generally well attested.
+i.    Geminated verbs: Derived forms include Forms III and VI: sātt/isātt ‘to put per sixes’;
+      tmāss mˁa ‘to adjoin something’; X: with a joint form stäxaff ‘not to take something
+      seriously’ or disjunctive stägläl ‘regard as rare’.
+ii.   I alif: In integrated borrowings from Classical Arabic, the first radical of this verbs is
+      represented by ā : āḏən əl ‘to authorize’; X: stāxaṛ ‘to move back’.
+iii.  I w/y: Form VIII has a passive meaning: ūtzən yūtzən ‘to be weighed’.
+iv.   II w/y: The alternation ā~ə attested in the perfect of Form I likewise occurs in the
+      derived forms VII, VIII and IX; VIII: ḥtāl ‘he was crafty’, ḥtəlt ‘I was crafty’; Form X:
+      with ā, stävād ‘to take advantage of’; with w or y, stälyän ‘to become suppler’.
+v.    III w/y: The vowel of the 3rd person sg. is always /ā/ in the perfect. In the imperfect
+      /ī/ is used in forms II, III, ‘IV’ and single quadriradicals verbs; /ā/ is used in forms V,
+      VI, VII, VIII, X, quadriradicals verbs with t- and all the u-forms.
+vi.   Irregular verbs: There are two verbs with ‘mixed’ conjugation (perfect of II w,
+      imperfect of I w) kāl yäwkäl ‘to eat’, participles wākəl and mäwkūl, and xāđ̣/yäwxađ̣
+      ‘to get out’. žä/iži ‘to go’, participle žāy.
+
+2.3 Syntax
+
+The syntax of the dialect shows only a few specificities when compared with the other
+Bedouin dialects of the Maghreb.
+
+2.3.1 Noun phrase
+The main characteristic of the noun phrase is the preservation of the synthetic construction.
+
+2.3.1.1 Expression of definiteness and indefiniteness
+The presence/absence of the definite article əl marks definiteness, except in the construct
+state and with certain masculine nouns borrowed from Berber (generally beginning with
+a(a)- or i(i)-): kälb ‘(a) dog’ ~ əl-kälb ‘the dog’, ävūk ‘(a ~ the) veal’.
+        The demonstrative generally precedes the noun, which is always determined: ḏīk-əd-
+dāṛ ‘this house’. Sometimes, it follows the noun, especially with proper nouns: ṭəvl aḥmäd
+ḏāk ‘this son of Ahmad’, ‘the son of this Ahmad’. There is no indefinite article. The partitive
+is expressed with mən ‘of’: wāḥəd mən lə-ktūb ‘one of the books’, ktāb mən lə-ktūb ‘any of the
+books’.
+
+2.3.1.2 Construct state
+Possession is expressed by the construct state: ktāb əṭ-ṭfəl ‘the book of the boy’, ktāb-u ‘his
+book’. There is no genitive particle in Ḥassāniyya, except, infrequently, in Morocco: dyāl
+(Taine-cheikh 1999:98-99), ntāˁ (Heath 2002:7).
+
+2.3.1.3 Numeral phrase
+If the counted noun is indetermined, the numerals (from 3 upward) are always constructed
+as nouns in annexion: ˁašrīn žmäl ‘twenty camels’. The form used is the one of the construct
+state: from 3 to 10 short and/or contracted (axməs äklāb ‘five dogs'’; with a -t suffix before
+some masculine forms with an original hamza, axməs-t äyyām ‘five days’); from 11 to 19
+long with -əṛ (axməsṭaˁšəṛ ktāb ‘fifteen books’).
+        If the counted noun is determined, the numeral is constructed as an adjective
+(invariable in gender from 2 upward): l-äklāb l-äṯnäyn ‘the two dogs’, ktūb aḥmäd əl-ˁašrīn
+‘the twenty books of Ahmed’, žmāl-u l-miyyä ‘his hundred camels’. The form used is the one
+
+11
+of the absolute state: from 3 to 10 long in -a (l-äklāb l-xamsä ‘the five dogs’); from 11 to 19
+short without -əṛ (lə-ktūb l-axməsṭaˁš ‘the fifteen books’).
+
+2.3.1.4 Adjectives phrases
+The order is noun+adjective. Adjectives agree in gender and number with the noun they
+determine: ṛāžəl msäggäm ‘(a) fair man’, ṛažžālä msäggmīn ‘(some) fair men’, mṛa msäggmä
+‘(a) fair woman’, ‘läy(y)āt msäggmāt ‘(some) fair women’. They are preceded by the definite
+article when the noun is determined, ən-nāgä l-bäyđ̣a ‘the white female camel’, nyāg aḥmäd
+əl-bīđ̣ ‘the white female camels of Ahmad’, or when it is highly referential, maṛyäm əš-
+šäybāniyyä ‘Maryem, the old woman’.
+
+2.3.1.5 Elative constructions
+Followed by mən (introducing the second term of the comparison), the elative expresses the
+comparative: äkbaṛ mən xū-h ‘taller than his brother’. Followed by a determined noun (or
+pronoun), it expresses the relative superlative: äkbaṛ-hum ‘the taller among them’, äkbaṛ əṭ-
+ṭavilāt ‘the taller of the girls’. When it is definite, it expresses the absolute superlative: l-
+äkbaṛ ‘the tallest’, lə-mṛa l-äkbaṛ ‘the tallest woman’.
+
+2.3.1.6. Relative clauses
+The relative pronoun does not appear with an undetermined antecedent: mšä mˁa ḥadd mā
+gaṭṭ šəfnā-h ‘he is gone with someone we have never seen’, but mšä mˁa əṛ-ṛāžəl lli vətnä šəfnä
+‘he is gone with the man we had already seen’. Note the absence of the referential pronoun
+in relative clauses with lli.
+
+2.3.2 Verbal phrase
+The direct object precedes the indirect object, which is introduced by əl: əˁṭa žmäl l-xāl-u ‘he
+gave a camel to his maternal uncle’, əˁṭā-h l-u ‘he gave it to him’. However, the indirect
+object is expressed without əl when it is the only suffix: əˁṭā-h žmäl ‘he gave him a camel’.
+
+2.3.3 Verbal aspect: Time and tense
+Innovations are very limited. There is no indicative prefix.
+
+2.3.3.1 Future intent prefixes
+The predicted future is expressed with the invariable particle lāhi (+ imperfect) which
+corresponds etymologically to the participle of lhä ‘to keep oneself busy doing something’:
+lāhi ngīs nwākšōṭ əš-šhaṛ əd-dāxəl (in-šā-aḷḷāh!) ‘I’ll go to Nouakchott next (God willing!)’.
+Combined with past modality (perfect of kān ‘to be’), lāhi express the future in the past, kənt
+lāhi ngīs nwākšōṭ mnäyn ˁədt mäwžūˁ 'I was about to go to when I fall ill’. The imperfect of
+dāṛ (verb of desire) is also used, especially for the intended future: ndōṛ nəmši ‘I am going
+(willing) to leave’.
+
+2.3.3.2 Use of active participle
+In its predicative use, the active participle has the meaning of a concomitant action.
+Depending on the verb, it expresses a concomitant action in the unaccomplished [=
+progressive present or past] (huwwä ṭāləˁ əl-kədyä ‘he is going up the mountain’, hiyyä kānət
+ṭālˁa əl-kədyä ‘she was going up the mountain’) or in the accomplished [= resultative
+perfect] (huwwä mətġaddi ‘he had lunch’ [=he is not hungry anymore]). The participle is
+sometimes used for an imminent action, as if the agent was already engaged in the action:
+ānä māši (ṣ-ṣəbḥ) ‘I am going (tomorrow)’.
+
+12
+2.3.3.3 Negation
+The usual negative form is mā, but lā is used in several cases: for prohibitions, with the
+imperfect (lā təbki! ‘don’t cry!’); after the coordinator wə/u ‘and’ (mā žä u lā ktəb ‘he didn’t
+come and he didn’t write’; for a negative wish, with the perfect, in some expressions (lā
+qərzu nyāg-hum! ‘I wish the milk of your camels doesn’t dry up!’); sometimes, as an
+‘expletive’ negation after xāf ‘to fear’.
+        The negation is not discontinuous but the affix pronoun appears regularly in the
+absence of a conjugated verbal form (non-verbal predicate or presence of lāhi): mān-ak
+gaṛṛāy ‘you are not a teacher’, mā-ni xāyəv ‘I am not afraid’, (aḥmäd) mā-hu lāhi yəbki
+‘(Ahmad) he won’t cry’.
+
+2.3.4 Word order SVO, VSO
+In the absence of thematization, the order of the verbal sentence is VSO. This is the only
+possible order if the subject is totally undetermined (Taine-Cheikh 1998). The interrogatives
+mən ‘who?’ and əš ‘what?’ come at the beginning of the sentence.
+
+2.3.5 Existential sentences
+The dialect has several ‘pseudo-verbs’ consisting of a preposition and an affix pronoun, in
+particular ˁand- (possession, hence ‘to have’), l- (attribution and alienable possession), mˁa-
+‘with’, vī- (location). The order is VO (SVO with a thematized ‘subject’ noun) and the
+negative form is mā: (ˁayšä) mā ˁand-hä vađ̣đa   ̣ ‘(Aïsha) she doesn’t have money’. The present
+participle of xləg ‘to exist’ expresses existence: (mā-zāl) xāləg mbūṛu ‘there is (still) bread’.
+
+3. LEXICON
+
+The Ḥassāniyya lexicon is rich and well-structured around a relatively limited number of
+high frequency schemes (cf. Taine-Cheikh, Dictionnaire Ḥassāniyya-Français, 1988-...). It
+seems to have always had a tendency to enrich itself, either through borrowings (from
+Berber, closely related African languages, Literary Arabic, French, etc.) or through internal
+development. However the majority of the lexicon, at least 80% of the lexical items and
+maybe 90% of the roots (if one only takes into account those who correspond to families of
+names), is still of an Arabic origin. A quite important part of this vocabulary is more or less
+characteristic of the Maghrebi dialects, especially of the Bedouin type, e.g. ˁatrûs ‘goat’, bġa
+‘to desire’, gḏəv ‘to vomit’ or yāməs ‘yesterday’.
+        The Arabic core is very stable and can be found, for its essential parts, across the
+whole Ḥassāniyya-speaking area. Borrowings, calques, neologisms, semantic shifts and other
+innovations are often less stable and more localized (for the eastern region, cf. the lexicons
+of Pierret 1948 and Heath 2004). The history of those forms, hard to reconstruct, is often
+more autochthonous than it seems. The Ḥassāniyya dialect has certainly borrowed more to
+the Berber (especially the Zenaga) than to any other non-Arabic language, but many
+creations seem to have appeared, if not first in Ḥassāniyya, at least simultaneously in
+Ḥassāniyya and in Zenaga. Indeed, they are often absent from the Berber and Arabic
+lexicons.
+
+BIBLIOGRAPHICAL REFERENCES
+Cohen, David. 1963. Le dialecte arabe ḥassānīya de Mauritanie. Paris: Klincksieck.
+———. 1970. “Le système des voyelles brèves dans les dialectes maghrébins”. Etudes de
+     linguistique sémitique et arabe, 172–178. The Hague and Paris: Mouton.
+
+13
+Heath, Jeffrey. 2002. Jewish and Muslim dialects of Moroccan Arabic. London and New York:
+      Routledge Curzon.
+———. 2004. Hassaniya Arabic (Mali)- English-French Dictionary. Wiesbaden: O.
+      Harrassowitz.
+Nicolas, Francis. 1953. La langue berbère de Mauritanie. Dakar: Institut Français d'Afrique
+      Noire.
+Pierret, Roger. 1948. Etude du dialecte maure des régions sahariennes et sahéliennes de l'Afrique
+      Occidentale française. Paris: Imprimerie nationale.
+Taine-Cheikh, Catherine. 1978. L'arabe médian parlé par les arabophones de Mauritanie: Etude
+      morphosyntaxique. Thèse de 3ème cycle, Université de Paris V.
+———. 1984. “Un exemple de créativité lexicale: l'élatif en ḥassāniyya”. Arabica 31.274–
+      305.
+———. 1988-2004. Dictionnaire Ḥassāniyya-Français. Paris: Geuthner. [9 vols. hamza—gāf
+      published so far.]
+———. 1990. Lexique français-ḥassāniyya. Nouakchott: Centre Culturel Français Saint-
+      Exupéry [Repr., Paris: Geuthner, 2004].
+———. 1991. “L'arabe des Bīđ̣ān, un dialecte bédouin de Maghreb occidental”. Semitic
+      studies in honor of Wolf Leslau, ed. by Alan S. Kaye, 1528–1548. Wiesbaden: O.
+      Harrassowitz.
+———. 1998. “Topicalisation, thématisation et anaphore en arabe”. La thématisation dans les
+      langues: Actes du colloque de Caen (1997), ed. by Claude Guimier, 247–261. Bern and
+      Paris: P. Lang.
+———. 1999. “Les hassanophones du Maroc: Entre affirmation de soi et auto-reniement”.
+      Peuples méditerranéens (Langues et stigmatisations sociales au Maghreb) 79 (april-june
+      1997), 85–102.
+Zavadovskij, Ju.N. 1981. Mavritanskij dialekt arabskogo jazyka: xassaniya [The Mauretanian
+      dialect of Arabic: Xassaniya]. Moscow: Izdatel'stvo ‘Nauka'.
+
+
+                                     Catherine Taine-Cheikh
+
+
+
+
+14
+

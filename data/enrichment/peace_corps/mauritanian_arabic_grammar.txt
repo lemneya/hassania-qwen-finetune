@@ -1,0 +1,5695 @@
+ Peace Corps
+
+
+
+Mauritanian Arabic
+    Grammar
+                               PEACE CORPS
+                     LANGUAGE HANDBOOK SERIES
+
+The series includes language materials in Belizean Cre:)1e, Gilbertese,
+Mauritanian Arabic, Setswana, Solomon Islands Pijin, and Tanzanian
+                                 Swahili.
+These Mauritanian Arabic materials were developed under the auspices
+of the Foreign Language Office of The Experiment in International
+Living's School for International Training.
+Project. director and editor                          Raymond C. Clark
+Assistant director and editorial assistant          Arthur A. Burrows
+Administrative assistant                                  Susan McBean
+For further information, contact The Experiment in International Living,
+Brattleboro, Vermont 05301.
+Much of the classic calligraphy used to decorate this book was taken
+from Tht. Muslim Mind by Chris Waddy.
+
+
+
+
+The Experiment in International Living, Inc., prepared this handbook
+for the 'U.S. Government under ACTION Contract number 78-043-1037.
+The reproduction of any part of this handbook other than for such
+purposes as criticism, comment, news reporting, teaching,scholarship,
+research, or other "fair use is subject to the prior written permission
+of ACTION.
+
+                                  1979
+                        MAURITANIAN ARABIC
+                         GRAMMAR HANDBOOK
+
+Writers                                            Timothy P. Francis
+                                                     Stephen     Hanchey
+Artists                                   George Vasilatos, Pat Moran
+Typists                              Susan Leuchter, George Vasilatos
+Assistant Writer and Field Tester                        Peg     Clement
+Consultants                                          Lance Lindabury
+                                                        Mouldi     Hadiji
+
+
+                         ACKNOWLEDGEMENTS
+
+
+    The writers would like to extend their gratefulappreciation to the
+dedicated volunteers and staff of Peace Corps Mauritania for their
+support and encouragement during the preparation of these materials.
+We would like to mention in particular Gerry Sternin and Carol Olsen of
+PC/Mauritania. as well as Lee Jennings and Tanya George of PC/
+Washington, whose experience and help have again proved invaluable.
+The staff of the Regional Training Resource Center in Dakar including
+Lillian Baer. Gary Engleberg and Boubacar Diallou helped facilitate our
+work.
+    Finally our warmest appreciation to Youssouf ould abdel Jelil.
+Abdellahi ould Mohammed Lehbib, Abdellahi Kerim and other Mauritanian
+friends and colleagues in Nouakchott, Dakar, Rabat, and London who
+made their time available as hosts, translators, and consultants.
+Without their   generosity and kindness, this work would have been
+impossible.
+L,
+                                                                        1
+
+
+
+
+                           TABLE OF CONTENTS
+               Introduction                                   vii
+ Lesson 1:     The Article                                          1
+
+ Lesson 2:     The Personal Pronouns                                6
+Lessorr, 3:    The Possessive Pronouns                          12
+Lesson 4:      Negation of the Implied Verb "To Be"            17
+Lesson 5:      Gender of Nouns                                 21
+Lesson 6:      Gender of Adjectives                            26
+Lesson 7:     Number (Duals and Plurals)                       28
+Lesson 8:     Dummy Subjects (There is/are, There was/were)    35
+Lesson 9:     Simple Sentences                                 38
+Lesson 10:    Have Have Got                                    41
+Lesson 11:    Demonstratives                                   45
+Lesson 12:    Present Tense - Introduction                     50
+Lesson 13:    Interrogatives                                   56
+Lesson 14:    Present Tense - Variations                       62
+Lesson 15:    Present Tense - Continued                        67
+Lesson 16:    Imperatives                                      75
+Lesson 17:    Nouns & Adjectives                               78
+Lesson 18:    Prepositions                                     82
+Lesson 19:    The Genitive                                     87
+Lesson 20:    Verbs & Suffix Pronouns (Direct Object)          91
+Lesson 21:    The Future                                       98
+Lesson 22:    Adverbs                                         102
+Lesson 23:    The Active Participle                           104
+
+
+
+
+                                           6
+Lesson 24:   The Inchrect.Object               109
+Lesson 25:   The Past Tense                    111
+Lesson 26:   Relative Pronouns                 120
+Lesson 27:   The Past Tense - Special Cases    122
+Lesson 28:   The Comparative and Superlative   131
+
+Lesson 29:   The Past Continuous Tense         136
+Lesson 30:   The Conditional                   140
+
+             Pronunciation Practice            143
+Notes to the Learner:
+     The purpose of The Grammar Handbook is to help you focusyour
+attention on matters such as how to form the past tense or to make
+nouns and adjectives agree, or to put a string of words together in the
+proper order. The Grammar Handbook aims through explanation,
+example and exercises to help you assimilate the linguistic system that
+holds together the words and phrases of Hassaniya.
+     Used together, The Communication and Culture Handbook and The
+Grammar Handbook are two complementary approaches to a basic mastery
+of Hassaniya. You may find that you are more comfortable with one
+than cvith the other, but once again, let us remind you thateveryone
+learns differently. This language course, by taking these two ap-
+proaches allows you to capitalize on your strengths. It should be
+pointed out that it would be unwise to neglect either book. If you
+studied only The Communication and Culture Handbook you would only
+be able to function within its situations. If you studied only The
+Grammar Handbook, you would learn quite a lot about the grammar of
+the language, but not be able to put your knowledge to use in basic
+everyday situations.
+
+
+
+
+                                *vii*
+              r
+
+
+
+          .
+
+
+                      fk
+    r
+
+
+                      LI; hi. 4101i
+    011
+
+
+
+
+'I'll
+
+
+
+
+                  A
+Blind LIM al-raPnan al-r4im:
+"In the Name of God, Most Gracious,Most Merciful"
+
+
+
+
+                                        10
+                                 THE ARTICLE
+                                  Lesson One
+
+
+
+
+      There is no equivalent in Hassaniya to the English indefinite
+article "a ". Thus a noun standing alone is automatically indefinite.
+Examples:
+     a house        /da: r/
+
+     a man          /ra : jil/
+
+     a woman        /mara : /
+
+     a car          /wa : ta/
+                                                  `u \:)
+
+     The definite article "the" has two main forms in Hassaniyya.
+1.   If the first letter of the noun is a "moon" letter, /ill
+     is prefixed to the noun :
+Examples:
+
+                    goodness                                    the goodness
+     /khay r/                        /il-khayr/
+                        -1. P                                           X'   k
+
+                    praise                                      the praise
+     ihamd/            Ax-?          /il-hamd i
+
+     For your reference, the 14 "moon" letters are:
+
+
+
+Ls
+
+
+                                     *1*
+
+
+
+                                                           II
+THE ARTICLE                                                                         N ONE
+
+
+
+
+2.      If*the first letter of the noun is a "sun!' letter, the /1/ of (ill
+        is assimilated and replaced by a doubling in prenuneiati,)n o.. the
+        first letter of the word, i.e. the /1/ of               Iis chipped in
+        pronunciation.
+Examples:
+
+                         peace                               the peace
+        /sala:mi                               /is-sala:m/            _>L^13\,
+                                 man                                the man
+        /ra:jil/         3_                    /ir-ra:jil/
+                              I/                                         k
+
+
+
+                                 house                              the house
+        /da :r/                                /id-da:r/                     )) k
+                              1 ")
+
+
+
+Note:
+
+        Although the /1/ is dropped in pronunciation, it is still written in
+        written Arabic, and this doubling in pronunciation is indicated by
+        the /shadda/ written above the first letter of the word.
+        For your reference the 14 "sun" letters are:
+
+
+
+
+                                                                                            ...
+
+
+
+
+                                         *2*               2
+LESSON ONE                                                                     THE ARTICLE
+
+
+
+
+Special Notes:
+     You will sometimes hear Al/ become Ai/ in front of words begin-
+     ning with two consecutive consonants. This may take time for
+     you to pick up in normal speech, and this feature may vary de-
+     pending on where you are in Mauritania. However you will always
+     be understood using /ill, and this note is only to help you in
+     your comprehension as you gain confidence and experience in hear-
+     ing and speaking Hassaniya.
+     The /i/ of /i3/ is dropped in two cases:
+          a.     If the preceding word ends with a vowel.
+          b.     If the word to which hi/ is prefixed begins with a
+                 vowel.
+
+
+
+
+                          "In the Name of God, Most Gracious, Most Merciful"
+
+
+
+
+                                             *3*
+THE ARTICLE                                                   LESSON ONE
+Exercises
+
+
+
+1 a. Learn any vocabulary in this lesson.
+     b. Read the examples aloud paying close attention to your teacher's
+        guidance in pronunciation.
+     c. Write out the examples in Arabic in your notebook andshow your
+        efforts to your teacher.
+
+2.      Make the following indefinite nouns definite and check your results
+        with your teacher:
+Examples:
+        news          /ta:ri/         'Do        /it-ta:ri/              )
+                                                                    1.)...
+
+                                   C5'
+                                                   _          LSI
+        room          /bayt/         (.2..--,J   /il-bayt/
+
+
+        house         /da:r/
+        glass          /ka: s/
+
+        key            /muvta:h/
+
+        man            /ra:jil/
+        tent           /khayma/
+
+        peace          /sala:m/
+
+        woman          /mara:/
+
+        car            /wa:ta/
+
+        praise         /hamd/
+
+        book           /ikta:b/
+
+
+
+
+                                      *4*         14
+LESSON ONE                               THE ARTICLE
+                                             Exercises
+
+
+
+   goodness    /khayr/
+
+   desert      /ba : diya/
+
+   ougiya      /u : gi: ya/
+
+    table      /ta : bla/
+
+   market      /marsa/
+
+    embassy    /siva : ra/
+
+    office     /maktab/
+
+    hospital   /tab/
+
+    day        /yawm/
+
+    milk       /1e.ian/
+
+    meat       /laham/
+
+    fish       /hu : t/
+
+    money      /fadhdha/
+
+
+
+
+                              *5*
+                                    15
+                               PERSONAL PRONOUNS
+
+                                     Lesson Two
+
+
+
+
+    The personal pronouns in Hassaniyya are:
+             I                 /ana/                           C1
+
+
+                               /inta/
+                                                       .       ,
+             you (m . )
+
+             you (f . )        Anti/                  c....--"M k
+
+
+             he                /huwa/
+
+             she               ihiya/                      LI
+             we (m . pl. )     /nihna/                     .;.j
+             we (f . pl. )     /nihna : ti/
+                                                     d
+             you (m .pl. )     /intu :ma/             1,y1-1
+
+             you (f . pl. )    /intu :ma: ti/
+                                                    (i");'1
+             they (m . pl. )   /hu :ma/               t,.);
+             they (f .pl. )    /hu:ma:ti/
+                                                    C? I),
+Note:
+        1.   There are four forms of "you" in Hassaniya. You must dis-
+             tinguish between "you" when referring to either a man, a
+             woman, a group of men or a group of women.
+        2.   Mixed groups of men and women are treated grammatically as
+             masculine plural.
+        3.   There is no equivalent to the English "it" . Since all nouns in
+             Hassaniya are either masculine or feminine you use either
+             "he" or "she" in context when referring to a thing "it" .
+
+                                              *6*
+
+                                                           1
+                                                               6
+LESSON TWO                                              PERSONAL PRONOUNS
+
+
+
+
+Since there is no verb "to be" (in the present tense) in Hassaniya,
+simple sentences like "I am a nurse", "she is the director", "it (refer-
+ring to a book) is expensive", "it (referring to a house) is large" can
+be rendered simply by using the relevant pronoun plus the noun or
+adjective.
+
+Examples:
+     I am a nurse.                   /ana tabi:ba/
+       (woman talking)                                                 .._.    1    0cl.,.....,
+
+
+
+
+     He is the director.             /huwa l-mudi:rj
+
+     It is expensive.                /huwa wa: cir/
+       (book)
+
+     It is large. (tent)             /hiya ikbi:ra/             ii. j..)   1       (5.9
+
+Further Note on Plurals:
+    The plurals of most masculine and feminine nouns referring to oc-
+cupations, and adjectives referring to mental and physical states are
+formed thus:
+     (Masculine nouns + adjectives describing people)
+    Add /i:n/           Zi_   to the last letter of the word:
+
+             teacher          /mucallim/
+
+             teachers         /mucallimi: n/
+
+
+             hungry           ijica : n/
+
+             hungry        /ji.. ca:m:n/
+                                     .
+
+              (describing
+               a group of men)
+
+
+                                           *7*
+                                                        17
+PERSONAL PRONOUNS                                                               LESSON TWO
+
+
+
+
+        (Feminine nouns + adjectives describing,,
+        Add /a:t/ ,:2 to the last letter of the word:
+                                                                                       t..)
+
+            teacher (f.)              /mucallima/                                 katY2-0
+
+            teachers (1)              /mu c allima:t/
+
+
+            hungry (f)                /jic a:na/                                 (76
+
+
+            hungry (1)        /ji.. c a:na:t/                              ,.....-- 1.11.3z41.
+             (describing
+              a group of women)
+
+Note:
+        Mixed groups of men and women are treated as grammatically mas-
+        culine plural.
+
+
+
+
+                    IrliffiselPIN.
+                   411?-1'*.tli
+                   ..........                 IA1101=16111=1
+                                                   -bk                 1
+
+
+
+
+                         A twice-repeated prayer: "0 Conqueror!"
+
+
+
+
+                                                                   1   S
+                                              *8*
+LESSON TWO                                          PERSONAL PRONOUNS
+                                                                      Exercises
+
+
+
+1 a. Learn any new vocabulary in this lesson.
+     b. Read the examples aloud paying careful attention to yourteacher's
+        guidance on pronunciation.
+     c. Write out the examples in Arabic in your notebook, and then show
+        your results to your teacher.
+
+2.      Write out the masculine and feminine plurals of these nounsde-
+        scribing occupations and adjectives describing mental andphysical
+        states.
+             nurse/doctor /tabi:b/
+
+             director      /mudi:r/
+
+             teacher       /mucallim/
+
+             volunteer     /mutatawwic /
+
+             married        /mitkhayyim/
+
+             thirsty        /catsha:n/
+
+             tired          /vitra : n/
+
+             hungry         /jica:n/                       (:)1.2-P
+
+
+             happy          /varha:n/
+
+             busy           /mishtan/
+
+
+
+
+                                          *9*     19
+PERSONAL PRONOUNS                                          LESSON TWO
+Exercises
+
+
+
+3.   Translate the following sentences into Arabic. First read your
+     version out loud in class paying attention to any corrections your
+     teacher may suggest and also his/her advice on pronunciation.
+     When you are satisfied with your translations, write them out in
+     Arabic in your notebook.
+      1.    I am tired (man talking)
+      2.    She is a nurse.
+      3.    They (m.) are teachers.
+      4.    He is tired.
+      5.    She is thirsty.
+      6.    I am busy. (woman talking)
+      7.    We are married.
+      8.    I am a volunteer. (woman talking)
+      9.    He's the director.
+     10.    We are hungry. (mixed group)
+     11.    They are tired. (group of women)
+     12.    I am a volunteer. (man talking)
+     13.    Are you married? (addressing a man)
+     14.    He's busy.
+     15.    Are you (f.) married?
+     16.    It is large. (referring to a house)
+     17.    It is small. (referring to a room)
+     18.    It is new. (referring to a car)
+     19.    They are thirsty (mixed group)
+     20.    I am happy. (woman talking)
+
+
+
+
+                                                  20
+                                    *10*
+LESSON TWO
+                                                                         PERSONAL PRONOUNS
+                                                                                  Exercises
+
+
+4.   Make the following sentences plural, read them aloud, translate
+     them into English and then write them out in your notebook.
+     1    /ana jica:na/
+
+     2.   /hiya vitra:na/
+
+     3.   /huwa mashghu:1/
+
+     4.   /inti varha:nal
+
+     5.   /ana catsha:n/
+
+
+
+
+                 The name of Allah is repeatedto form this eight-pointed star
+
+
+
+
+                                ''         *11*                 21
+                        POSSESSIVE PRONOUNS
+                                Lesson Three
+
+
+
+
+     The possessive pronouns "my", "your", "his", "her", etc. are in-
+dicated in Hassaniya by suffixes attached to the last letter of the noun
+they describe.
+    The possessive suffixes and their English equivalents are:
+         my             /V
+                                               L5
+                                                    ,
+         your (m.)      /-ak/                   S
+         your (f.)      /-ik/
+
+         his            /-u/                    0
+
+
+
+         her            /-ha/
+
+         our            /-na/
+
+         your (pl.)     /-kum/
+
+
+         their          /-hum/
+
+
+
+
+                                   *12*
+
+
+                                               22
+ LESSON THREE
+                                                   POSSESSIVE PRONOUNS
+
+
+
+
+     Here is a table showing all
+ple noun. This is the Hassaniyathe possessive suffixes joined to a sam-
+                                 for "name".
+Example:
+        my name             /ism-i/
+
+        your name (m.)      /ism-ak/
+
+        your name (f.)      /ism-ik/
+
+        his name            /ism-u/
+
+        her name            /ism-ha/
+
+        our name            /ism-na/
+
+        your name (pl.)     /ism-kum/
+
+        their name         /ism-hum/
+
+Note:
+        1.   There are 3 forms of "your" in ,Hassaniya. You must dis-
+             tinguish between "your" referring to either a man, a woman,
+             or a group of people.
+    2.       There is no equivalent to English "its". Since all nouns are
+             either masculine or feminine, you use either "his" or "hers"
+             in context when wanting to say the equivalent to "its".
+
+
+
+
+                                       *13*        23
+POSSESSIVE PRONOUNS                                               LESSON THREE
+
+
+
+
+     When the possessive suffixes are added, to a feminine noun ending
+with a /ta : ' marbu : to /, the /ta : ' marbu : ta/ is "opened" - i. e. it is both
+pronounced and written as a regular /ta : '/.
+Examples :
+
+        our car              /wa : tat-na/
+
+        his tent             /khaymat-u/
+
+        my town              /dashrat-i/
+Note:
+        If   a noun has a possessive suffix it cannot also take the definite
+        article /il l . However adjectives describing a noun with a posses-
+        sive suffix must have the definite article.
+Examples :
+
+        my new house         /da: r-i 1-ijdi: da/          6 )-3 )-R >)`   Qs- i \ -)
+
+        his big tent         /khaymat- a 1-ikbi: ra/
+
+        her small son        /walad-ha 1-isqi: r/
+Note:
+        The possessive suffixes join directly to the last letter of the noun
+        they describe. However if the last letter is a non-connector, the
+        suffix will stand alone.
+        her son              /walad-ha/             LP %-3 .)
+
+
+
+
+                                       *14*
+                                                       24
+LESSON THREE                                      POSSESSIVE PRONOUNS
+Exercises
+
+
+
+1 a. Learn any new vocabulary in this lesson.
+     b. Read the examiles aloud paying careful attention to your teacher's
+        guidance on pronunciation.
+     c. Write out the examples in Arabic in your notebook and show your
+        efforts to your teacher.
+
+2.     Translate the following phrases into Arabic, readyour results
+       aloud and then write them out in Arabicin your notebook.
+        1.   my house
+        2.   his car
+        3.   their tent
+        4.   her book
+        5.   his house
+        6.   our room
+        7.   my office
+        8.   your (f.) daughter
+        9.   their car
+       10.   my name
+       11.   our house
+       12.   my book
+       13.   your (1.) name
+       14.   your (p.) tent
+       15.   my key
+       16.   your (1.) car
+       17.   your (m.) house
+       18.   your (m.) name
+
+
+                                   *15*
+                                                 25
+POSSESSIVE PRONOUNS                     LESSON THREE
+                                             Exercises
+
+
+
+   19.   your (m.) car
+   20.   his daughter
+   21.   her daughter
+   22.   your (p1.) house
+   23.   her office
+   24.   her name
+   25.   your (m.) car
+
+
+
+
+                            *16*
+                                   26
+                      NEGATION OF IMPLIED VERB "TO BE"
+                                 Lesson Four
+
+
+
+
+       Simple sentences on the patter of "I
+rector", she is tired" are made negative on am  a nurse", "he is the di-
+                                            this pattern:
+     I'm not                    /ma:ni/
+     you (m.) aren't            ima:nak/
+     you (f.) aren't            /ma:nik/
+     he isn't                   /ma:hu/
+     she isn't                  /ma:hi/
+     we aren't                  /ma:na/                            L1
+     you (pl.) aren't           /ma:nkum/
+
+    they aren't                 /ma:hum/
+
+Examples:
+    I'm (f.) a nurse.                      I'm (f.) not a nurse.
+    /ana tabi:ba/                          /ma:ni tabi:ba/
+
+                 -.                                        1/4.5
+
+
+
+    You (m.) are tall.                     You're (m.) not tall.
+    /inta twi:l/                           /ma:nak twi:l/
+
+
+    You (f.) are tall.                     You're (f.) not tall.
+    /inti twi:la/                          /ma:nik twi:la/
+            .>1)
+                                                         ,S;
+
+                                          *17*
+ LESSON FOUR                              NEGATION OF IMPLIED VERB "TO BE"
+
+
+
+
+      He is the director.                       "'He isn't the director.
+      /huwa il-mudi:ir/                                  1-mudi:r/
+
+
+      She is tired.                             She isn't tired.
+      /hiya vitra:na                            /ma:hi vitra:na/
+                                                        ;1.;\.11.9-*
+
+
+
+     We (m.) are tired.                         We aren't tired.
+     /nihna vitra:ni:n/
+            '-                                  /ma:na vitra:ni:n/
+                                                                         Cd,
+
+     You (f.pl.) are tall.                      You're (pl.) not tall.
+     /intuma: ti      : 1/                      /ma:nkum twa:1/
+
+                                                                         (ls
+     They (f.) are here.                        They aren't here.
+     /hu:ma:ti hu:n/                            /ma:hum hu:n/
+                   fig' 6.Y'                                           scij
+
+     Note that in this negative transformation the personal
+are replaced (except in three cases) by /ma:n..../ plus the pronouns
+                                                            relevant
+suffix pronoun. The three exceptions are:
+     he is not                 /ma:hu/
+
+     she is not                /ma:hi/
+
+     they are not              /ma:hum/
+Remember these forms are only used where there is an implied verb to
+be in the sentence.
+
+
+
+                                                   28
+                                         *18*
+                                                                                       1
+
+
+LESSON FOUR
+                                       NEGATION OF IMPLIED VERB "TO BE"
+                                                                           Exercises
+
+
+1 a. Leatn any new vocabulary in this lesson.
+     b. Read the examples aloud in class paying
+        teacher's guidance on pronunciation.     careful attention to your
+     c. Write out the examples in Arabic in
+        efforts to your teacher.            your notebooks and show your
+
+2.     Make the following sentences negative, read
+                                                   them aloud, write
+       them out in Arabic and then translate them into English.
+        1.    /ana jica:na/                              Ei.asa-P   t; \
+        2.    /hu:ma mucallimi:n/
+
+        3.    /nihna:ti vta:ra/
+
+        4.   /huwa 1-mudi:r/
+
+        5.   /hiya tabi:ba/
+
+       6.    /ana catsha:n/
+
+       ri.   /inta twirl/
+
+       8.    /nihna varha:ni:n/                                 L
+       9.    /intu:ma mitkhayyimi:n/                .1
+
+
+
+      10.    /inti mitkhayyima/                      u.k -
+                                                7k.t1/41rt.
+
+
+
+
+                                    *19*
+
+                                               2g
+NEGATION OF IMPLIED VERB "TO BE"                                     LESSON FOUR
+Exercises
+
+
+
+3.   Translate the following into Arabic. First read your translation
+     aloud in class paying close attention to your teacher's advice on
+     pronunciation, then write out your results in Arabic in your
+     notebook.
+      1.    Its not new. (referring to a car)
+      2.    It's not large. (talking about a house)
+      3.    Pm not tired. (woman talking)
+      4.    They're not here. (mixed group)
+      5.    She's not in the house.
+      6.    We're not hungry. (group of women)
+      7.    Its not large. (referring to a room)
+      8.    It's not expensive. (referring to a book)
+      9.    She's not a doctor.
+     10.    He's not happy.
+
+
+
+
+                  The Prophet's mission: "A mercy for all mankind"
+
+
+
+
+                                           *20*               30
+                             GENDER OF NOUNS
+
+                                    Lesson Five
+
+
+
+
+     Singular nouns in Hassaniyya are either masculine or feminine.
+Feminine nouns generally end in /ta:' marbu: to /, however there are a
+very few words not ending in /ta:' marbu:ta/ which are feminine.
+Examples - masculine nouns:
+     goodness              /khayr/
+                                                       5"/'
+     praise                /hamd/                     .A.4-P
+
+     man                   /ra:jil/
+
+Examples      feminine nouns: (ending in /ta:' marbu:ta/)
+     car                   /wa:ta/                 ;;J\...
+    ougiya                 iu:gi:yai
+                                                       ,
+    table                  /ta:bla/               741)1>
+
+    tent                  /khayma/                 -ja...0-P
+
+
+Examples      feminine nouns: (not ending in /ta:' marbu:tai)
+    house                 /da: r/
+                                                    i ')
+    woman                 /mara : /                .1\y,
+
+
+
+
+                                      *21*
+GENDER OF NOUNS                                        LESSON FIVE
+
+
+
+
+    With nouns referring to occupations, and adjectives referring to
+    mental and physical states, the feminine equivalent is formed by
+    adding a /ta:' marbu:ta/ to the masculineform.
+
+Examples:
+    nurse (m.)             /tabi:b/
+
+    nurse (1.)             /tabi:ba/
+
+
+    director (m.)          /mudi:r/
+
+    director (f.)          /mudi:ra/
+
+
+    married (m.)           /mitkhayyim/
+
+    married (f.)           /mitkhayyima/
+
+
+
+
+                              *22*
+                                           32
+LESSON FIVE                                            GENDER OF NOUNS
+                                                                  Exercises
+
+
+
+1 a. Learn any new vocabulary in this lesson.
+     b. Read the examples aloud paying careful attention to your teacher's
+        pronunciation.
+     c. Write out the examples in Arabic and then show your efforts to
+        your teacher.
+
+2.     Identify the following nouns as either masculine or feminine, and
+       check your results with your teacher.
+            room                /bayt/                        L)  a..
+
+
+            glass               /ka : s/
+
+            tent                /khayma/
+
+            woman               /mara : /
+
+            market              /marsa/
+
+            embassy             /siva: raj
+
+            house              /da : r/
+
+           key                 /muvta : h/
+
+           man                 /ra :jil/
+                                                            0-f `2
+           peace               /sala :m/
+
+           table               /ta :bla/
+
+           book                /ikta :b/
+
+
+
+                                  *23*            3
+GENDER OF NOUNS                                                         LESSON FIVE
+Exercises
+
+
+
+              ougiya              /u:gi:ya/
+
+              car                 /wa:ta/
+
+              desert              /ba:diya/
+
+              goodness            /khayr/
+
+              hospital            /tab/                             (....,i,
+
+
+
+
+              fish                ihu:t/
+
+              meat                /laham/
+
+              office              /maktab/
+
+              day                 /yawm/
+
+3.       Make the following nouns ,referring to occupations, and adjectives
+         referring to mental and physical states feminine by adding
+         /ta:' marbu:ta/. Check your results with your teacher.
+         a.   Nouns:
+              teacher             /mucallim/
+
+              pupil               /talmi:dhi/
+     1
+
+
+
+
+              director            /mudi:r/
+
+              doctor/nurse        /tabi:b/
+                                                            4.,_,.......4.44)
+
+
+              grandfather         /jidd/
+
+
+
+                                      *24*
+                                                :14
+LESSON FIVE                                   GENDER OF NOUNS
+                                                         Exercises
+
+
+
+        paternal uncle   /Cam/
+
+        maternal uncle   /kha:1/
+
+   b.   Adjectives:
+        married          /mitkhayyim/
+
+        thirsty          /catsha:n/
+                                               0
+        tired            /vitra:n/
+
+        hungry           ijica:n/
+
+        happy            /varha:n/
+
+        busy             /mishtan/
+
+
+
+
+                                                     1
+
+
+
+
+                           *25*
+                                        .15
+                             GENDER OF ADJECTIVES
+
+                                     Lesson Six
+
+
+
+
+      Adjectives   in             are either masculine or feminine.
+                           Hassaniya
+1.    Masculine nouns take the masculine form of adjectives.
+2.    Feminine nouns take the feminine form of
+                                                       adjectives. The
+      feminine adjective is formed by adding /ta:' marbu:
+      masculine form.                                         t a/ to the
+Examples:                Masc.                             Fem.
+      big               /ikbi: r/
+                                             "?          /ikbi: ra/           -65..)\
+
+      young, small /isqi:r/
+                                           4/4e %        /isqi:ra/         aft t
+      old               /kahal/                          /kahla/
+
+     new                /ijdi:d/        )-1 )--9    1    /ij di: da/     ; )))--1?
+     cheap              /hiyyan/              ..1
+                                              ..,)      /hiyyana/                    1:,..4P
+
+                        /wa : cir/
+     expensive
+                                           5,           /wa: cira/
+                                                                            -.4_i-s
+
+     beautiful      /zayn/                              /zayna/
+                                          Jti.                               -cts;L2)
+     hot            /ha:mi/                             /ha:mia/
+                                        & Le                                =Lk., Up
+                                                                              ...
+
+     cold           /ba:rid/            J } b,          /ba:rida/           a ..
+                                                                                    ., 6
+     tired          /vitra:n/                           /vitra:na/
+                                       .011t;                              7i..; k
+
+
+     tall           /twi:l/          Jf I               /twi:la/
+                                                                          -`11,"
+     short          /igsi:r/                            /igsi:ra/
+                                     ;%:"83- \                         -5. ,_ .r-to-
+
+
+                                       *26*
+
+
+
+                                                        `46
+LESSON SIX                                    GENDER OF ADJECTIVES
+                                                                    Exercises
+
+
+
+1 a. Learn any new vocabulary in this lesson.
+  b. Read the examples aloud paying close attention to your teacher's
+     guidance in pronunciation.
+  c. Write out the examples in Arabic, and show your efforts to your
+     teacher.
+2.   Make the following adjectives feminine by adding a /ta:' marbu:ta /.
+     Show your results to your teacher.
+         near           /grayyib/
+
+          far           /baci: d/
+
+          good (2)      /zayn/
+                        /maelu:m/
+
+          clean         /masgu :1/
+
+          dirty         /imsakh/
+
+          rich          /gha:ni/
+
+          poor          /fagi:r/                        1..11...,
+
+          easy, cheap   /hiyyan/                            %.4
+
+
+
+
+          difficult,    /wa:c.ir/
+           expensive
+          last          /ita:11/
+
+          another       /awkhar/
+
+          open          /muvtu:h/
+
+          closed        /magvu:1/
+                                    *27*
+                     NUMBER (Duals and Plurals)
+                             Lesson Seven -s.
+
+
+
+
+     In Hassaniya nouns have threeforms depending on the number of
+things being talked about: singular, dual (two of something) and
+plural.
+1.   The singular form of nouns has been discussed.
+2.   The dual is a unique feature of Arabic. The suffix /-ayn/
+             can be added to any noun to denote "two of". If the noun
+     is feminine ending in a /ta:' marbu: t a/ the
+                                                      latter must be
+     "opened" - i.e. pronounced and written as a regular
+     the /-ayn/ c:f suffix is added.
+                                                           /ta:'/ when
+Examples:
+     2 houses           /da:rayn/
+
+     2 cars            /wa: tatayn/
+
+     2 men             Ira : jilayn/
+
+     2 daughters       /mintayn/
+
+     2 books           /ikta:bayn/
+
+     2 tents           /khaymatayn/
+
+     2 rooms           /baytayn/
+
+     2 towns           /dashratayn/
+
+
+
+
+                                *28*
+LESSON SEVEN                                     NUMBER (Duals and Plurals)
+
+
+
+3.   The Plural:
+     Unlike English, the plural form of a noun in Hassaniya cannot be
+     stated in a simple rule. You must learn the plural form of a
+     noun at the same time as the singular. However, use your judge-
+     ment; do not waste time learning the pluralof nouns you rarely
+     use in the plural. An additional peculiar feature of Hassaniya is
+     the fact that "countable" n uns (like "books") revert to their
+     singular form when expressed in quantitites above 10, so really
+     the use of the plural is limited in "countables" to quantities be-
+     tween 3 and 10.
+
+Examples:
+     1.     Masculine nouns in singular and plural forms.
+
+            Noun    Singular                      Plural
+            man      /ra : jil/                  /rijja :1/
+                                   3-5;: }
+            room     /bay t/        t.::.-A)-)   /byu:t/
+
+            door     /ba:b/          c.....,t    /bi:ba:n/
+                                         r,
+            book     iikta:b/     c-, (.:31      /iktu:b/
+
+            dog      /kalb/         t__A..       /kla:b/
+
+          pen        /glam/                      /glu:ma/
+                                      cc1-9
+          camel      /jamil/                     /ijma:I/
+
+          boy        /walad/         .,-)...,    Jula:d/
+
+
+
+
+                                   *29*
+NUMBER (Duals and Plurals)                                           LESSON SEVEN
+
+
+
+
+     2.      Feminine nouns in their singular and plural forms .
+             Many feminine nouns ending in /ta : ' marburta/ drop the /ta : '
+             marbu : t a/ and add /a: t/ ,::-. to make the plural. Unfor-
+             tunately this is not a hard and fast rule but, as you will see,
+             is fairly common.
+Examples :
+
+             Noun       SingL. liar                  Plural
+             house       /da: r/             \>      /dya : r/
+
+             girl        /mint/                      /amna : t/
+
+             woman       /mara : /        A..,       /iclya: t/
+
+             car         /wa : ta/       z5          /wa : to : t/
+
+
+             cow         /bagra/         .)}.)       /bgar/               A
+             party       /havla/        ZA.,3..P     /havla : t/       c".Csa,
+
+             tent        /khayma/       Zi..e,..p    /khayma : t/
+
+             town        /dash ra/      O..../.1.3   /dshu : r/
+
+             ougi: ya    /u : gi: ya/                /ugi:ya : t/
+
+
+
+
+                                                         40
+                                          *30*
+LESSON SEVEN                                            NUMBER (Duals and Plurals)
+
+
+
+
+     In .}lassaniya adjectives describing the plurals of "things" (not
+people) are grammatically feminine when the noun is feminine in the sin-
+gular .
+Examples :
+
+         big houses           /dya:r ikba : ra : t/
+
+         new books            iiktu :b ijdi: da : t/
+
+         large rooms          /byu : t ikba : ra : t/
+
+         new cities           /dshu: r ijdi: da: t/
+
+Note :
+
+         Some adjectives have special plurals .         These must be learned in-
+
+                                        J
+         dividually .
+               tall     /twi:1/                         /twa :1/
+
+              large,
+                old
+                        /ikbi: r/
+                                         }k             /ikba : r/
+
+              tired     /vitra : n/     6 k..).;.;      /vta : ra/
+
+
+
+
+                                        *31*                41
+           NUMBER (Duals and Plurals)                              LESSON SEVEN
+           Exercises
+
+
+
+           1 a. Learn any new vocabulary in this lesson.
+             b. Read the examples aloud paying careful attention to your teacher's
+                guidance in pronunciation.
+             c. Write out the exercises in Arabic in your notebook, and then show
+                your efforts to your teacher.
+
+           2.   Make the following singular nouns dual by adding the suffix /-ayn/
+                   ci . Show your results to your teacher.
+                    a camel             /jamil/                        L.)-ce
+
+                    a boy               /walad/                         33.,
+
+                    a tent              /khayma/                      °E-41:1)
+
+
+                    a house             /da:r/                         ) \)
+                     a book             /ikta:b/                   L USk
+                    a pen               /glam/
+                                                                        crl-9'
+
+                     a man              /ra:jil/                     i-f. k/
+
+                     a key              /muvta:h/
+                                               _
+                                                                      L:j
+                     a glass            /ka : s/                    C)°")/
+           3.   Give the singular and English meanings of the following plurals.
+                     /u:la:d/             .,) _9_, k
+
+
+                     /amna:t/            2., L. I
+
+                     /rijja:1/
+                                          3 qi
+                                           *32*
+                                                           42
+1140..44
+LESSON SEVEN                                        NUMBER (Duals and Plurals)
+                                                                   Exercises
+
+
+       .    /dya:r/
+
+            /bgar/
+                                           >i?
+           /dshu:r/
+
+           /iclya:t/
+
+           /bi:ba:n/                   6 k-,-
+                                          . _ .
+
+
+           /ugi: ya : t/            ,:-- (...;,
+           /byu:t/                     c.----,y2.
+
+4.   Find out the plurals of these nouns with the help of your teacher.
+           glass           /ka:s/                       CY> ki
+
+           key             /muvta:h/
+                                                       0;.i'
+           embassy         /siva:ra/                   6,, 1;-.-,-
+
+           office          /maktab/                     c--.A.."
+                                                                /
+           hospital        /tab/                           c.....t.",
+
+
+           day             /yawm/
+                                                           ()).
+                                                           \
+           teacher         /mucallim/
+                                                          (1-52-'
+           pupil           /talmi: dhi/
+                                                     LS "\-"4;..
+           director        /mudi: r/
+
+                                    *33*               43
+    ..
+            1
+                                                                                                                                -Itki7t.CaketC., ' 41-0..tZtZ.-:,." INI______,
+                                    i :"                     0(
+                              I
+                          ;ti--$:\:.:177c&N--7--A\--..--&-stortc\ttN.N.-.4-,;554;:,
+                          l_.) 14
+                .                                       %
+                                                                          i
+                                                  (                                                                                                     e    ,
+                    .                                               -
+                              )stY                                                                                                                                                t_.
+                                                                              - 1-1
+                                                                                                                                                                                               nA_
+                        i).). --.                                               411
+                                                                                7vii ,                                                                   --
+                                                                                                                                                        =__I                                           =
+                                                                                                                                                                                                                        Ov
+                                                                                                                                                                                                                                   10.
+    ...
+                                                                                                                                                                                                  ._
+                                                                                                                                                                                                   ._
+                    .
+                         pri-s\,
+                        r, ,,`-q
+                                                      ,,..
+
+                                                                                 *S t
+                                                                                                        _L=3
+                                                                                                                                                                 i
+                                                                                                                                                                 1
+                                                                                                                                                                         ,                          '.
+                                                                                                                                                                                                                        ,inid
+                                                                                 ..1, , ..1.44
+                                                                                                        r- ... .
+                                                                                                                                                                                                                        7i
+                                                                                                                                                                 i
+                                                              ...
+                         *i
+                                                                                 '`,..."-   ,
+                                                                                                :- f                                                                              I/
+                              .
+                                                                                                                                                                         Ie. - f
+                                                                                                                               _ _ e .4
+                                                                                                                                            0
+                                                                                                _
+                                                                                                                                    1               .                                                                  101 i'l
+                                      \                                                                 .                                                    ,
+                                                                                                                                                                                                                         4..
+                                                                                                                                                                         . OW
+                                                                                                    ,                                                                                      ...,
+                                                                                  z
+.                                                                                       ,'1.-'-..' 'Fa' (lei IQ, ITOUU .
+                .7                                                                                                                        _.....
+                                                                                                                                                                                                               ,
+                                                                                                                                                                     I
+                                                                                                                                                                             .......
+                                                                                  ,..           "e --,
+    .                                                                                                                                                                                  -                           1           .
+                                                                                                                                                        ..1...m,
+        .
+                        P'?                     :,.            - ..                                                    -       -.
+                                                                        " :i .
+                                                                                                                                                                                                       ..... ....W. {
+                                                                                                                                    T :,---e>"... .,4
+                                                                                                                                                                                       .....       _
+                                                                                                                   ,
+                                  .       6.,
+'
+                s       8                             %*'"........ ....,...                                                -                                                  .                                    i     -. ci
+                                                             .-=.1z3,"?.13.1)=..
+                                                                                                                                                e
+                              "DUMMY" SUBJECTS
+                        There is/are, There was/were
+                                    Lesson Eight
+
+
+
+
+     As you have already seen, there is no equivalent in Hassaniya for
+the English verb "to be" (in the present tense at least). However,
+there is a way of conveying the idea of existence, "there is/there ar,"
+or "there was/there were" in Hassaniya. This word is:
+                      /kha:lig/
+                                         631-i
+and can be used in statements (affirmative and negative) as well as in
+questions when speaking about availability or existence of somethingor
+somebody.
+     Note that /kha:lig/      tfc' behaves like an adjective, that is, it
+takes the regular feminine singular  and feminine and masculine plural
+suffixes depending on who or what is beiag referred to.
+Example - Affirmative Statements
+     There is rice in the market today.
+     /kha: lig ma:ru vi 1-marsa il-yawm/cy.1\           j.1     .,
+
+
+    There is a tent in the house.
+    /kha:liga khayma vi d-da:r/
+
+
+    There are a lot of men in the street.
+    /kha:ligi:n ya:sir min ir- rijja:l vi sh-sha:ric/
+
+                                                 Jci.3"2 L,.    &.,:s3t)
+    There are a lot of markets in Kiffa.
+    /kha : liga : t ya:sir min il-marsa:t vi ki: fa/
+                                r
+                          ets.)-)               Jek                  a) CP
+
+
+                                      *35*
+THERE IS/ARE, THERE WAS/WERE                                       LESSON EIGHT
+
+
+
+
+Questions:
+     These statements can be made into questions simply by usinga
+rising intonation on the last words in your voice. There is no change
+in word order for questions with /kha:lig/.
+
+
+Examples - Negative Statements
+      The negative "there isn't/there aren't", or in the interrogative,
+"isn't there?/aren't there?" is formed by placing /ma/                 1,,   before
+/kha : lig/:
+      There isn't any rice in the market.
+      /ma kha:lig ma:ru vi 1-marsa/        ;1--0.J   , se   ..v I,.     C.,.' 6
+      There aren't a lot of men in the street.
+      /ma kha:ligi:n ya:sir min ir- rijja:l vi sh-sha:ric/
+
+                                           L; A         _;-'a ),      ('59) Lc'   l'
+
+
+
+
+                                    *36*       46
+LESSON EIGHT                            THERE IS/ARE, THERE WAS/WERE
+                                                            Exercises
+
+
+
+Translate these sentences into Hassaniya:
+      1.   Is there any meat today?
+     2.    Is there a mosque on Avenue Kennedy?
+     3. There are many small towns in Mauritania.
+     4.    Are there a lot of camels in the desert?
+     5. There are five windows in this room.
+     6.    Is there a doctor in the house?
+     7. There are many embassies in Nouakchott.
+     8. There is no one at home now.
+     9.    Are there two airports in Nouakchott?
+    10.    There is a beautiful dog over there.
+
+
+
+
+                                  4)
+                                 *37*              47
+                           SIMPLE SENTENCES
+
+                                Lesson Nine
+
+
+
+
+      You have seen earlier that phrases like "thenew car" in Hassaniya
+translate literally as "the car the new" with both noun and adjective
+preceded by the definite article /ill.
+     However, since there is no verb "to be" in Arabic, sentences on
+the pattern of "The house is big" can be formed witha noun plus the
+definite article followed by an adjective alone, translating literally into
+Hassaniya as "the house big".
+Examples:
+               The house is big.
+               /id-da:r ikbi:ra/
+
+               The car is small.
+               /il-wa:ta sqi:ra/
+
+
+      Note the difference in meaning between:
+1.             The big house...
+               /id-da:r l-ikbi:ra/
+
+and
+2.             The house is big.
+               /id-da:r ikbi:ra/
+
+
+     Make sure that you don't say one while meaning the other. Of the
+two, '"The house is big." is a complete sentence in itself and can stand
+alone, while "the big house" is not a complete sentence.
+
+
+
+                                   *38*
+
+                                          18
+LESSON NINE                                         SIMPLE SENTENCES
+
+
+
+
+Negation:
+    Simple sentences like "The house is big" are easy to build since
+there is no verb "to be" (in the present tense) in Hassaniya. You
+negate such sentences with the formula shown in Lesson 4.
+
+              The house isn't big.
+              /id-da:r ma:hi kbi:ra/
+
+
+              The book is not expensive.
+              /il-kita:b ma:hu wa:cir/
+                                              J1> 3'6
+
+
+
+
+                                               d9
+ SIMPLE SENTENCES                                           LESSON NINE
+ Exercises
+
+
+
+ 1 a. Learn any new vocabulary in this lesson.
+   b. Read the examples aloud paying close attention to your teacher's
+       guidance on pronunciation.
+   c. Write out the examples in Arabic in your notebook and show your
+      ,efforts to your teacher.
+
+ 2.   Translate the following sentences into Arabic. First read out your
+      translations aloud in class, then write them out in Arabic in your
+      notebook.
+        1.   The house is new.
+        2.   The town is large.
+       3.    The room is small.
+       4.    Meat is expensive.
+       5.    My office is big.
+       6.    The embassy is new.
+       7.    The woman is beautiful.
+       8.    My car is old.
+       9.    Her daughter is young.
+      10.    Muhammad is tall.
+      11.    The book is cheap.
+      12.    Ali is rich.
+      13.    The desert is hot.
+      14.    Today is hot.
+      15.    The door is open.
+      16.    The restaurant is shut.
+      17.    The shop is open.
+      18.    The glass is dirty.
+      20.    My house is near.
+
+3.    Make the sentences in #2 above negative.
+      Read your translations aloud in class, then write them out in
+      Arabic in your notebook.
+
+
+
+                                   *40*      50
+                           HAVE/HAVE GOT
+                              Lesson Ten
+
+
+
+
+     The possessive suffixes (Lesson 3) also function the equivalent
+to the English object pronouns "me", "you", "him",as"hcr",
+these suffixes used on conjunction with the preposition /'and/etc.
+                                                              giv'
+                                                                   and
+                                                                   the
+equivalent in Hassaniya to the English "have" or "have got".
+Examples:
+     I have             /cand-i/                   cs -Lis
+
+     you have (m.)      /cand-ak/                  .i.kLs
+                                                       .
+
+     you have (f .)     /cand-ik/                  $.)..:t.s
+
+     he has             / cand-u/                   0 .1..4..c.
+
+
+     she has            /cand-ha/                          S
+
+
+     we have            /cand-na/                  1; Ala
+
+
+     you have (pl.)     /cand-kum/                     .)..ig
+
+
+     they have          /cand-hum/
+                                            rcil '-kL
+                                               1
+
+
+
+    Although this translates literally as "near me", "near you", etc.,
+in Hassaniya it expresses the same idea of "possessing", "owning", or
+"having" as "I have ..." and "I have got..." do in English.
+
+
+
+
+                               *41*
+
+                                           1
+                                           1.
+                                1
+HAVE/HAVE GOT                                                  LESSON TEN
+
+
+
+
+Note:
+        1.   There are three forms of "you have" in Hassaniya. You must
+             distinguish between "you have" referring to either a man,
+             woman or a group of people.
+        2.   There is no equivalent to English "it has". Since all nouns
+             are either masculine or feminine you mustuse either "he has"
+             or "she has" when referring to a thing depending on its
+             gender.
+    3.       Note that since the last letter of /cand/ is a non-connector all
+             the suffixes stand alone unjoined.
+
+Negative of /cand/
+     The negative is formed by placing /ma/ I, before /cand/. /ma/
+is invariable.
+
+Examples:
+    I don't have                 /ma cand-i/
+
+    you (m.) don't have          /ma cand-ak/
+
+    you (f.) don't have          /ma cand-ik/
+
+    he doesn't have              /ma cand-u/
+
+    she doesn't have            /ma cand-ha/
+
+    we don't have               /ma cand-na/
+
+    you (pl.) don't have        /ma cand-kum/
+
+    they don't have             /ma c and-hum/
+
+
+
+
+                                   *42*
+                                                 52
+LESSON TEN                                                      HAVE/HAVE GOT
+Exercises
+
+
+
+1 a. Learn any new vocabulary in this lesson.
+     b. Read the examples out loud paying attention to your teacher's
+        advice on pronunciation.
+     c. Write out the examples in Arabic in your notebook and showyour
+        efforts to your teacher.
+
+
+2.     Read the following sentences aloud and then translatethem into
+       English. Use this exercise as writing practice whenyou have
+       finished your oral practice in class. Show what you write to
+       your teacher.
+        1.   /cand-i da: r isqi : ra/
+                                                Er...-je-,,01         \,   Ls -)2.-c
+        2.   /cand-u wa:ta/
+
+        3.   /ma cand-ha ikta:b/
+
+        4.   /ma cand-na fadhdha/
+
+        5.   /cand-hum khayma kbi:ra/
+
+        6.   /cand-ak ma ?/
+
+        7.   /cand-ik il-muvta:h/
+
+        8.   /ma cand-kum laham ?/
+
+        9.   /ma cand-i wa: ta/
+
+       10.   /cand-kum ma:ru ?/                            c
+                                                                ,,9
+
+
+
+
+                                        *43*
+HAVE/HAVE GOT                                              ..,..SSON TEN
+Exercises
+
+
+
+3.   Translate the following sentences into Arabic. First say them aloud
+     in class paying attention to your teacter's corrections and advice
+     on pronunciation, then write them out in Arabic in your notebook.
+
+      1.    Do you (pl.) have any bread?
+      2.    The man has a new car.
+      3.    We have a small house.
+      4.    She doesn't have a book.
+      5.    They don't have any fish.
+      6.    They have a new tent.
+      7.    I don't have any money.
+      8.    We don't have a car.
+      9.    Do you (m.) have the time?
+     /3.    Do you (f.) have a pen?
+
+
+
+
+                                     *44*
+
+                                                  4
+               4
+                               DEMONSTRATIVES
+
+                                 Lesson Eleven
+
+
+
+
+       The Hassaniya equivalents for "this", "that", "these" and "those"
+are:
+Examples:
+       this (m.)              /ha:dha/
+
+       this (f.)              /ha:dhi/
+
+       these (m. & f.)        /ha:dhu/
+
+       that (m.)              /dha:k/
+
+       that (f.)              /dhi:k/
+
+       those (m. & f.)        /dhu:k/
+
+
+       Note the "dagger/alif/" in the written Arabic of "this" (m. & f.)
+and "these".     (See the section on "dagger /alit /" in the Literacy
+Handbook).
+
+Examples:
+       1.   This is Mohammed.
+            /ha: dha muhammad/
+
+
+            This is Fatima.
+                                                                      . I
+            /ha:dhi fa:timatu/                              ) 19
+                                                       Z-14.4      Ls Aid
+
+
+
+                                        *45*
+DEMONSTRATIVES                                                LESSON ELEVEN
+
+
+
+
+           This is a new book.
+           /ha:dha kta:b ijdi:d/
+
+           This is a nice house.
+           /ha:dhi da:r zayna/                 21,Z)               \.)
+                                                               1
+           These are new houses.
+           /ha:dhu dya:r ijdi:da:t/
+
+   2.      That is Ahmad.
+           /dha:k ahmad/                                      A,c9\          _S\.$
+
+           That is Nafisa.
+           /dhi:k nafi:satu/
+                                                          1
+                                                                        4
+
+
+                                                                   ..       ---C-   '--)
+
+
+
+           That is a new pen.
+           /dha:k glam ijdi:d/
+                                               -)..)--c). \
+
+           That is an expensive car.
+           /dhi:k wa:ta wa:cira/            O.JS\c.           c7-;\_,       ..N.1 >
+
+          Those are new houses.
+          /dhu:k dya:r ijdi:da:t/      ,--d\).- )..-9         i 1-)) S .." -)
+
+
+
+
+                               *46*
+                                            56
+LESSON ELEVEN                                                 DEMONSTRATIVES
+
+
+
+
+    The other kind of sentence in which "this", "that", "these", and
+"those" are most commonly used is in the pattern:
+                        This (noun) is (adjective).
+                        This house is new.
+In the Arabic for sentences on this pattern you must use /ill, "the",
+with the noun. Thus the sentence "This house is new" literally trans-
+lates into Hassaniya as "This the house new."
+Examples:
+            This house is new.
+            /ha:dhi id-da:r ijdi:da/           °-)4 .)-4' k    ik;3\   L.S:k1'
+
+            That car is expensive.
+            /dhi: k it -wa : to wa : cira/
+
+
+
+
+                                                                       ,
+            These books are new.
+            /ha:dhu 1-iktu:b ijdi:da:t/ CA)4.) Ai? l     ,,3s'>) \
+This feature often poses a problem for English speakers. Contrast
+these examples with those on the previous page. In both English and
+Arabic each version means much the same thing; you simply have a
+choice as to how you wish to express yourself.
+DEMONSTRATIVES                                        LESSON ELEVEN
+Exercises
+
+
+
+1 a. Learn any new vocabulary in this iesson.
+  b. Read the examples aloud paying close attention to your teacher's
+     guidance on pronunciation.
+  c. Write out the examples in Arabic in your notebook and show your
+     efforts to your teacher.
+
+2.   Substitution Drill #1
+     a.  Read the model sentences.
+     b. Work out the Arabic for what is to be substituted; you may
+         have to change two items in some sentences.
+     c. Read each sentence aloud.
+     d. Write out each new sentence in Arabic in your notebook.
+
+     Model Sentence
+     This is a new restaurant.
+     /ha:dha matcam ijdi:d/
+
+     Substitute
+      1. .... a new house.
+      2. .... Ahmad.
+      3. .... my wife.
+      4. That ....
+      5. That .... hotel.
+      6. .... a large town.
+      7. That .... car.
+      8. .... a cheap restaurant.
+      9. That .... a big house.
+     10.   ....Nafisa.
+     11.   That .... the Post Office.
+     12.   .... a large office.
+     13.   That .... a tall man.
+     14.   .... my son.
+     15.   .... my daughter.
+
+                                   *48*
+LESSON ELEVEN
+                                          DEMONSTRATIVES
+                                                Exercises
+
+
+3.    Substitution Drill #2
+
+     Model Sentence
+     This town is large.
+     /ha:dhi dashra kbi:ra/
+
+     Substitute
+      1.   .... old.
+      2.   .... new.
+      3.   .... expensive.
+      4.   This house ....
+      5. That building ...
+      6.   That shop ....
+      7.   .... small.
+      8.   This room .... small.
+      9. This office ....
+     10.   That restaurant ....
+
+
+
+
+                                   *49*
+                      PRESENT -- INTRODUCTION
+                            Lesson Twelve
+
+
+
+
+     The Present Tense in Hassaniya obeys a regular and predictable
+pattern: each verb consists of a "stem", in many cases made up of 3
+letters which conveys the meaning of the verb.
+     "I", "you", "he", "she", etc. are indicrted by prefixes and suf-
+fixes added to the stem. These prefixes and suffixes remain absolutely
+constant from one verb to another.
+     The prefixes are added to the "stem" by one of the short vowels
+which we will call the "helper" vowel which remains the same within any
+one verb. You may hear some regional differences in Mauritania as to
+which short vowel is used as the "helper" vowel in some verbs, and
+you may find that the short vowels used in examples in this book are
+not always what you will hear in different parts of the country. In the
+early stages of learning Hassaniya, follow your teacher's pronunciation
+and advice. When you are on your own, keep your ears open and
+imitate what you hear used most often around you.
+     Here are three common verbs written in all the "persons":
+Examples:   "write"
+    I write             /niktub/
+
+    you write (n.)      /tiktub/
+
+    you write (f.)      /tiktubi/            ....5,...,S... )-
+
+
+
+
+    he writes           /yiktub/
+
+    she writes          /tiktub/
+
+    we write            /niktubu/
+
+    you write (pl.)     /tiktubuj
+
+    they write          /yiktubu/
+
+                                   *50*
+
+
+
+                                            60
+LESSON TWELVE                    PRESENT TENSE -- INTRODUCTION
+
+
+
+
+Examples:    "know"
+    I know            /nacraf/
+    you know (m.)     /tacraf/
+    you know (f ) .   /tacrafi/
+    he knows              lyacraf/
+    she knows             /tacraf/
+    we know               nacrafui
+
+    you know (pl.)        .tacrafu/
+
+    they know             yacrafuj
+
+
+    "speak-
+    I speak               nitkallam/
+
+    you speak (m.)        titkallarn/
+
+    you speak (f.)        'titkallami/
+
+    he speaks             yitkal..lam,
+
+    she speaks        ,   titkallam,
+
+    we speak              nitkallamu l
+
+    you speak (p1.)       titkallamu,'
+
+    they speak            yitkallamu
+
+
+
+
+                             *51*        61
+PRESENT TENSE -- INTRODITCTION                         LESSON TWELVE
+
+
+
+
+     As you can see, the prefixes and suffixes are quite regular:
+
+                                     verb stem
+     I                          n
+     you (m. )                  t
+     you (f.)                   t           i
+     he                         v,
+     she                        t
+     we                         n           u
+     you (pl.)                  t           u
+     they                       y           u
+
+
+     The only possible source of confusion may be that you (m.) and
+she are the same in pronunciation and writing. However, context will
+always tell you whether a man is being addressed or a woman spoken
+about.
+LESSON TWELVE                           PRESENT TENSE -- INTRODUCTION
+
+
+
+
+letter /Sra:'/   ,
+     If the last later of the verb stem is an /i/ represented by the
+                      ,   these changes occur:
+
+Example:
+     I go                 /nimshi/
+     you go (m.)           /timshi/
+
+      you go (f.)          /timshi/
+
+      he goes              /yimshi/
+
+      she goes             /timshi/
+
+      we go                /nimshu/
+
+      you go (pl.)         /timshu/
+
+      they go              /yimshu/
+
+
+      Note what has happened:
+1.    you (f.) -     Since   the verb "stem" ends in /i/, there is no
+                     need to add the /1/ that usually distinguishes you
+                     (f.) from you (m.). This means that now you
+                     (m.), you (f.), and she are all identical in form
+                     and pronunciation. Context will tell you which is
+                     intended.
+
+2.    plurals        For all the plurals we, you, and they, the final/i/
+                     is dropped and the /u/ which is the plural suffix
+                     marker is added directly to the second letter of the
+                     "stem" - in this case, the /shi:n/
+
+      These are not random changes. All verbs with /i/ as /the last
+letter of the "stem" behave like this model.
+
+                                      *53*            0
+                                                   IR Le
+PRESENT TENSE -- INTRODUCTION
+Exercises                                                          LESSON TWELVE
+
+
+
+
+1 a. Learn any new vocabulary in this less'on.
+     b. Read the examples aloud paying close attention to your teacher's
+        guidance on pronunciation.
+     c. Write out the examples in Arabic in your notebook and show your
+        efforts to your teacher.
+
+2.      Learn as many of these new verbs which behave like the examples
+        in this leson.
+       We have introduced each new verb in the "he" form - remember that
+       the "helper" vowel connecting the prefixes to the first
+       verb stem is constant within any one verb, so once youletter
+                                                               know
+                                                                    of the
+                                                                     the
+       "helper" vowel for one _)erson, you can predict the other persons
+       accurately.
+     a. Verbs that behave like /yiktub/, /yacraf/and /yitkallam/:
+        he finds          /yijbar/
+
+       he rides            /yirkab/
+
+       he enters           /yidkhal/
+
+       he closes          /yigval/
+
+       he sits            /yigcad/                   ...)..sZiu-
+
+
+       he drinks          /yishrubj
+
+       he hears           /yismac/
+
+       he returns         /yirjac/
+
+      he opens            /yiftah/
+
+      he hits             /yibut/
+
+                                     *54*     R4
+LESSON TWELVE                            PRESENT TENSE -- INTRODUCTION
+                                                                 Exercises
+
+
+
+        he lives                /yiskun/
+
+        he takes                /yigbadh/
+
+       he listens               /yissannat/
+
+       he works                 /yishtaghal/
+
+
+     b. Verbs that behave like /yimshi/:
+       he buys                  /yishri/
+
+       he wants                 /yibqi/
+
+       he smokes                /yikmi/
+
+
+3.     For further practice write out verb tables likethe examples in
+       this lesson, for all the persons of these verbs.
+       Keep a section of your notebooks for verbs and sample verb
+       tables.
+
+
+
+
+                                  *55*             P5
+                           INTERROGATIVES
+                            Lesson Thirteen
+
+
+
+
+      Generally, asking questions in Hassaniya is indicated by tone of
+voice and "rising intonation" -- you show  you are asking questions by
+raising your voice at the end of the sentence.   In written Arabic, un-
+less the question is introduced by a question word,  the only difference
+between a statement and a question is the question mark.
+     Here is a review of words that can be used to introduce questions
+in Hassaniya:
+1.   "Is it so?"             /ya:k ?/
+2.   "What?"
+
+    The Hassaniya for "what?" varies slightly in form depending on
+whether a man, a woman, or a group is being addressedor referred to:
+     "What?" (m.)            /shinhu ?/
+
+     "What?" (f.)            /shinhi ?/
+
+     "What?" (pl.)           /shinhum ?/
+
+
+3.   "Who?"     "Which?"
+
+     The Hassaniya for "who?" varies slightly in form depending   on
+whether a man, a woman, or a group is being addressedor referred to:
+     "Who?" (m.)            /minhu ?/
+                                                       ylr'J.
+     "Who?" (f.)            /minhi ?/
+
+     "Who?" (pl.)           /minhum ?/
+
+
+
+
+                                *56*
+
+
+
+
+                                           P6
+LESSON THIRTEEN
+                                                                        INTERROGATIVES
+
+
+
+
+4.          "How much?" (money -- price )
+            "How much?"                  /ba:sh ?/                                        I)
+
+
+5.          "Where?"
+           "Where?"                      /mnayn ?/
+
+
+6.         "How much?", "How many?"
+           How much/many?                /kam ?/
+
+           How many do you have...?      /kam cand-ak min..             ?/...
+
+7.         "Why?"
+
+           "Why?"                        /cala : sh ?/                             3,1)....U.
+
+
+
+8.         "When?"
+
+           "When?"                       /aynta ?/
+     ..,
+9. ' "How long ...?"
+           The question "How long have you been         is formed in Hassaniya
+           by /kam/ + /1/ or /11/ + relevant suffix pronoun.
+           "How long have you (m.)      /kam 1-ak... ?/
+             been...?"
+           "How long have you (1.)      /kam 1-ik... ?/             C
+            been...?"                                                          a
+
+
+
+
+           "How long has he             /kam 1-u... ?/              C
+            been...?"
+           "How long has she            /kam it -ha... ?/   c
+            been...?"                                         111        III
+
+
+
+
+                                       *57*                 P7
+INTERROGATIVES                                               LESSON THIRTEEN
+
+
+
+
+      "How long have we                /kam           ?/                        6:(
+        been...?"
+      "How long have you (p1.)         /kam il-kum.     ?/              cc(i
+        been...?"                                                               (
+      "How long have they              /kam il-hum.. ?/
+         been...?"                                                       '43
+
+      The answer "I've been...", "he's been...". "we've bean..." etc.
+is expressed by /1/ or /i1/ + the relevant suffix pronouns.
+      I have been in Nouakchott for a month.
+      /1-i shahr vi nu :akshu : t/
+                                                              Li)
+
+
+
+
+      We've been working for two hours.
+      /nihna nishtaghalu sa:catayn/                                 A.;61,:u*
+
+
+
+
+10.   "Which?"
+      "Which?"                         /aynta/
+
+
+11.   "Did /Do /Does" (Interrogative Word)
+
+      "Did/Do/Does"                    /mahalla/
+
+
+
+
+                                     *584:         Rs
+LESSON THIRTEEN                                             INTERROGATIVES
+                                                                     Exercises
+
+
+
+1 a. Make sure you know all the interrogatives in this lesson.
+     b. Write out the vocabulary from this lesson in Arabic for revision
+        in your notebook.
+
+2.      Since this is primarily a revision lesson, all the exercises will be
+        translation from English into Arabic.
+        Translate the following sentences into Arabic.
+     a. Re ,d your translations aloud in Arabic, andthen write them
+        out in your notebook.
+     b. For further practice vary the vocabulary where sense allows.
+         1.   What's your name? (to a man)
+         2.   What's your job? (to a woman)
+        3.    How many children do you (f.) have?
+        4.    How much is this?
+        5.    How much is a kilo?
+        6.    What are these?
+        7.    When do you get up every day? (to a man or a woman)
+        8.    How much is a kilo of meat?
+        9.    Where do you live? (to a man or a woman)
+       10.    Why don't you (m.) sit down?
+       11.    When is he coming?
+       12.    What does she want?
+       13.    How long have you (f.) lived in Mauritania?
+       14.    Who is she?
+       15.    Which one do we want?
+INTERROGATIVES                                          LESSON THIRTEEN
+Exercises
+
+
+
+        16.   Who art. they?
+        17.   What's the news?
+        18.   Why are you doing that?
+        19.   How many brothers/sisters do you (m.) have?
+        20.   Where are you (f.) going?
+        21.   When are you (m.) going to America?
+        22.   Where are they?
+        23.   Who is he?
+        24.   What's the time?
+        25.   Why don't you (f.) come with m)?
+
+
+2.      Substitution Drill
+     a. Read the model sentence.
+     b. Work out the Arabic to be substituted.
+     c. Read out the new sentences to your teacher.
+     d. Write out the new sentences in Arabic in your notebook.
+       Since this is a question and answer drill, provide an answer to
+       each question from the alternatives on the next page,or provide
+       your own.
+
+
+
+
+                                   *60*
+                                                 70
+LESSON THIRTEEN
+                                                                 INTERROGATIVES
+                                                                          Exercises
+
+
+         Model Sentence
+   Q.    How long have you (f.) been working in Mauritania?
+         /ham 1-ik tishtaghali vi mu:ri:ta:niya ?/
+                     **    ...I"'
+                          UtJ
+                                       L_Sts-''''
+         Substitute
+             1.           you (m.)
+             2.           they been living ...
+             3.           he been living ....
+             4.           she ....
+             5.           learning French?
+             6.           they ....
+             7.           you (m.) been living ....
+             8.           you (f.) been living ....
+         9.               they been speaking Arabic?
+        10.               in the hospital?
+
+  A.    1.        a year                              6.   a week
+        2.        two years                           7.   two weeks
+        3.        six months                          8.   a year and a half
+        4.        a month                             9.   a long time
+        5.        two months                        10.    a very long time
+                     PRESENT TENSE - VARIATIONS
+
+                             Lesson Fourteen
+
+
+
+
+      Although the patterns shown in Lesson 12 will apply to the vast
+majority of verbs you will have     to use, there are two features you must
+be aware of from the outset in learning Hassaniya:      1) a very few com-
+mon verbs have an alternative prefix for the /y/ indicating        "he" and
+"they"; 2) these same verbs usually dispense with
+join the prefixes to the first letter of the verb stem. a "helper" vowel to
+
+Example:
+    I see                /nshu:v/
+
+    you see (m.)         itshu:v/
+
+    you see (f.)         /tshu : vi/
+
+    he sees              /ishu:v/
+
+    she sees             /tshu:v/
+
+    we see               /nshu:vu/
+
+    you sec (pl.)       /tshu:vu/
+
+    they see            iishu.vu/
+
+
+
+
+                                  *62*
+LESSON FOURTEEN
+                                         PRESENT TENSE - VARIATIONS
+
+
+
+
+     These are not random changes.
+vowel, either /wa:w/ 5 or /ya:'/ They   occur in verbs with a long
+of a 3-letter verb stem.           ,..5    as in the middle letter
+Examples:     "say"
+    I say              ingu:1/
+    you say (m.)       /tgu:1/
+    you say (f.)       /tgu:lij
+    he says            /igu:1/
+    she says           /tgu :1/
+    we say             /ngu:lu/
+    you say (pl.)      /tgu:lu/
+   they say            /igu:lu/
+
+   "sell"
+   I sell             /nbi:c/
+   you sell (m.)      /tbi : c/
+
+   you sell (f.)      /tbi:ci/
+   he sells           /ibi:c/
+   she sells          /tbi: C1
+
+   we sell            /nbi:eu/
+  you sell (pl.)      /tbi: cu/
+  they sell           /ibi:cu/
+
+                                  *63*
+ PRESENT TENSE - VARIATIONS
+                                                                    LESSON FOURTEEN
+
+
+
+
+      Note that apart from the "he" and "they" forms
+ "helper" vowel, all the other pr.fixes and suff,xes areand the lack of a
+                                                         identical
+ models in Lesson 12. This feature also applies                    to the
+ that have only 2 letter stems.                 to those  very few  verbs
+ Example:
+      I pour              /nsubb/                  ._.,         .
+                                              -_.4.....)
+
+      you pour (m.)      /tsubb/
+
+     you pour (f.)       /tsubbi/
+                                            ...
+     he pours            /isubb/            ...a
+
+                                           ..--'1.4.0 \
+
+     she pours           / tsubb/             ..S
+
+                                           4---A4)
+
+     we pour             /nsubbu/              ..3
+                                                          ..)
+
+
+     you pour (pl.)      /tsubbu/
+                                           :9LP-5
+     they pour           /isubbu/
+                                                          k
+
+
+
+    Pay special attention to the kind of verbs discussed in this lesson.
+They are not irregular verbs since all verbs showing  these features will
+behave in the same way. So always be careful of
+with /wa:w/ .,                                    these
+                    or /ya:'/ LS as the middle letter   verbs: 1) verbs'
+                                                           of a 3-letter
+stem and 2) verbs that have only 2-letter stems.
+
+
+
+
+                                *64*
+
+                                               74
+LESSON FOURTEEN
+                                            PRESENT TENSE       VARIATIONS
+                                                                  Exercises
+
+
+1 a. Learn any new vocabulary in
+                                      this lesson.
+   b. Read the examples aloud paying close
+       guidance on pronunciation.              attention to your teacher's
+   c. Write out the examples in Arabic in
+       your efforts to your teachers.        your notebook and show
+2.    Learn as many of these new verbs as you can which behave
+      the examples in this lesson. Remember:                          like
+        i. They do not have a "helper" vowel connecting
+           to the first letter of the verb stem.             the prefixes
+      ii. They have the alternate pr
+                                         ix /i/ instead of /y/ in pronuncia-
+           tion to indicate "he" and "they".
+           other persons remain uixhanged. The prefixes indicating the
+    We introduce each new verb in both the "I" form
+    form to reinforce this feature.                       and the "he"
+    I get up             /ngu:m/
+    he gets up           /igu:m/
+    I visit              /nzu : r/
+   he visits            /izu : r/
+   I go (to)            /ngi: s/
+   he goes (to)         /igi:s/
+   I put                /ndi: r/
+                                                    ..).1.A.)
+   he 'puts             /idi:r/
+   I wait               /nhani/
+   he waits            /ihani/
+   I increase          /nzi: d/
+  he increases         /izi:d/
+
+                                     *6E*
+                                               75
+PRESENT TENSE - VARIATION                              LESSON FOURTEEN
+Exercises
+
+
+
+Verbs with a doubled middle letter of the verb stem behave in the same
+way as the examples in this lesson.
+
+     I let               /nkhalli/
+
+     he lets             /ikhalli/
+
+     I ask               /nsawwal/
+
+     he asks             /isawwal/
+
+     I do                /ncaddal/
+
+     he does               c
+                         /1 addal;
+
+
+     I look at           Inkharras/
+
+     he looks at         /ikharras/
+
+     I look for          /nlawwad/
+
+     he looks for        /ilawwad/
+
+     I pay               / nkhallas/
+
+     he pays             /ikhallas/
+
+3.   For further practice write out verb tables like those in thislesson
+     for 9l1 the persons or the verb.
+     Keep a section of your notebook for verbs and sample verbtables.
+     Make sure you learn these verbs and their variations fromthe
+     examples ii. Lesson 12.
+
+
+                                     *66*
+
+                                                  7.
+                      PRESENT TENSE          CONTINUED
+
+                              Lesson Fifteen
+
+
+
+
+     Three important verbs to           pay special attention to are the
+following:
+Example:     "want"
+     I want              /ndu : r/
+
+     you want (m.)       /iddu : r/
+
+     you want (f .)      /iddu:ri/
+
+     he wants            /idu:r/
+                                                     ) 9 .)1
+                                                           ---
+
+
+     she wants           /iddu:r/
+
+     we want             /ndu:ru/
+
+     you want (pl.)      /iddu:ru/
+
+     they want           /idu:ru/
+
+Note that the /t/         prefix indicating "you" (m. ), "you" (f .) and
+and "you" (pl.) is assimilated to the /d/ of the verb with an "upbeat
+added at the beginning for more facility in pronunciation.
+The /y/ of "he" and "they" is replaced by /1/.
+
+
+
+
+                                      *67*
+
+
+
+
+                                                i7
+ PRESENT TENSE - CONTINUED
+                                                                 LESSON FIFTEEN
+
+
+
+     Pay special attention to this very common verb and learn it by
+heart:
+
+Examples:     Itcantt
+
+     I can                      /ngidd/
+
+     you can (m.)               /tgidd/
+
+     you can (f . )             /tgiddi/
+
+     he can                     /igidd/
+
+     she can                    /tgidd/
+
+     we can                     /ngiddu/
+
+     you can (pl.)              /tgiddu/
+
+     they can                  /igiddu/
+
+    Note that in this verb the final letter of the "stem" is doubled if
+followed by a vowel.
+
+
+
+
+                  Plaited Kufic ornamentation
+                  "God gathers mankind for the Day ofJudgment"
+
+
+
+
+                                          *6P
+ LESSON FIFTEEN
+                                          PRESENT TENSE - CONTINUED
+
+
+
+
+      Pay special attention to this very useful verb
+ heart:                                              and learn it by
+
+ Examples: "come"
+     I come              /nji/
+
+     you come (m.)       /tji/
+
+     you come (f.)      /tji/
+
+     he comes           /iji/
+
+     she comes          /tji/
+     we come            /nju/
+
+     you come (pl.)     /tju/
+
+     they come          /iju/
+
+
+     Note that this is a two-letter verb "stem" with
+the last letter, so the changes                         /ya:/ c5
+                                outlined in Lesson 14 apply.       as
+
+    Take special care in learning these verbs.
+
+
+
+
+                                 *69*            79
+PRESENT TENSE                                               LESSON FIFTEEN
+
+
+
+
+1.  There is no "infinitive" per se in Hassaniya. Therefore the sen-
+tence "I want to go" is rendered in this way:
+
+Examples:
+            I want to go.
+            indu:r nimshi/                                                                 ..., .., -.)
+                                                              L.     r-`4:4-4-3
+
+
+
+
+           (which translated literally means "I want I go".)
+
+                     He wants to see Ahmad.
+                     /idu:r ishu:v ahmad/           A.c1) \ j .......-:-' \ ./."-'\
+
+            (literally "he wants he sees Ahmad".)
+
+2.   The negative of Present Tense verbs is formed by putting /ma/L0
+     before the verb.
+Example:
+            I don't want to go.
+                                                               .                             .
+            /ma ndu:r nimshi/                                                     ....)   ..k.)    is
+                                                       cs.".....si
+
+            She doesn't want to come.
+            /ma iddu:r tji/
+
+            We don't want to go.
+            /ma ndu:ru nimshu/
+
+
+
+
+                                    *70*
+                                                80
+LESSON FIFTEEN
+                                                            PRESENT TENSE
+                                                                     Exercises
+
+
+1 a. Learn any new vocabulary in this lesson.
+ b. Read the examples aloud in class paying
+    teacher's guidance on pronunciation.    careful attention to your
+
+ c. Write out the examples in Ai abic in your notebook
+    efforts to your teacher.                           and show your
+
+    NOW that you have seen the different forms that
+    may take. we want you to practice using them allthe
+                                                     in
+                                                        Present Tense
+                                                        a variety of
+    exercises.
+    Translation and Multiple Substitution Exercises
+    Make as many sentences as you can by translating
+    substitution drill:                                     this multiple
+
+
+                                  you (m. & f.)
+         \hat                     he;she
+                 do does                                        do
+        Where                                         want to
+                                  you tp.)                      go
+                                  they
+
+                                         the cinema
+                                         the market
+        He She                           the office
+   A.             want to go to
+        We                               the sea
+        They                             the desert
+                                         the clinic
+  For writing and comprehension write out the translation of thi3
+  question and answer pattern. if you want to extend
+  you can substitute other places in the answer.        this exercise
+  Use this exercise as a model for building up your multiple substi-
+  tution question and answer drills using other vocabulary.
+
+
+
+
+                                                      81
+                                    *71*
+PRESENT TENSE                                          LESSON FIFTEEN
+Exercises
+
+
+
+3.   'Substitution Drill
+     a.       Read the model sentence.
+     b.       Work out the Arabic to be substituted.
+     c        Write out the new sentences in Arabic.
+     d.       Read the new sentences aloud.
+
+     Model Sentence
+
+     I want to see Ahmad.
+         ndu:r nshu:v ahmad.
+
+     Substitute
+         1.   She    ....
+              They      ..
+      3       He doesn't
+
+              Do you (r.)
+      5       ....the house.
+                     at ten o'clock.
+               ..    the city.
+      8       1 don't
+     9        Does he .
+
+     10       Do you tp
+
+
+
+
+                                       *7 9*
+LESSON FIFTEEN                                                                PRESENT TENSE
+                                                                                          Exercises
+
+
+
+4.   Sentences for Reading and Repetition
+     Read these sentences aloud paying careful attention. to your
+     pronunciation .
+      1.   What do you (f . ) want to do?
+           /ash iddu : ri tcaddali ?/                                                 \,
+                                                                                (i. , -'     Li3 \
+      2.   Who do you (m . ) want to see?
+           /minhu iddu : r tshu : v ?/             (
+                                                         .....-0..7-x-x)
+      3.   I don't want to go.
+           /ma ndu : r nimshi/
+      4.   Why doesn't he want to go?
+           / cala : sh ma idu : r yimshi ?/
+      5.   Do you (m . ) speak English?
+           /titkallam ingli : zia ?/                                f.
+
+
+
+      6.   Do you (f . ) speak Arabic?
+           /titkallami carabi ?/                                         C.
+
+                                                                              <Ji''-'-c
+      7.   When does he want to come?
+           /aynta idu : r iji?/
+                                                          fQje.                   -'-)k.     L-, -' \
+      8.   Why do they want to do that?
+           /Cala : sh idu : ru icaddalu ha : dha ?ic. c,?     .31
+
+      9.   What do you (f . ) want to say?
+           /ash iddu : ri tgu : li ?/
+     10.   We want to see the house.
+           /ndu: ru nshu : vu d-da : r/
+                                                       i \ -'''') \ )" ..,-";                .1 ) -)j
+     Write out these sentences using different persons of the verb where
+     the sense allows .
+     Use vocabulary from previous lessons.
+     Read all your own sentences out loud.
+     Listen for these verbs in other people's speech.
+
+
+                                      *73*                R3
+PRESENT TENSE                                         LESSON FIFTEEN
+Exercises
+
+
+
+5.   Translate these sentences into Arabic.
+     Read your translations out loud paying careful attention to your
+     pronunciation and then write them out in Arabic in your notebooks.
+
+      1.    Does he want to come?
+            Who does she want to see?
+      :3.   When are you (f.) coming?
+      4. I don't want to go.
+      5. When do you (m.) get up in the morning?
+      6. I want to visit Star.
+      d. Where do you (f.) work?
+      8. What do you (m.) want to drink?
+      9.    Do you (m.) smoke?
+     10.    What does she want to buy?
+      11.   Where do you (pl.) want to sit?
+      12.   I don't smoke.
+      13    What do you (f.) want to eat?
+      14    Where do they want to go?
+      15    de doesn't want to go.
+      16    When is he coming?
+      17.   What do you tf. ) want to buy?
+      18.   Do you (m.) know Muhammad?
+      19    He doesn't speak English.
+      20    Where do ou (m.) work?
+      ')1   I want to ask a question.
+            Whc...n can I see Muhammad?
+            Where can I find
+      24    I don't want that
+      25.   We want to go to the sea.
+
+
+
+
+                                              R4
+                                  IMPERATIVES
+
+                                  Lesson Sixteen
+
+
+
+
+     The imperative (or "command" form) in Hassaniy? is formed in the
+following ways:
+     1.      When addressing any individual or group. simply put /I/ as
+             an upbeat in front of the first letter of the verb "stem".
+             When addressing a woman, /i:/ is also added after the last
+             letter of the verb stem
+     3.      When addressing a group of men or women. lu is added in-
+             stead of   after the last letter of the verb stem.
+
+
+Examples:
+                      addressing              addressing           addressing
+                         a man                 a woman              a group
+
+     work!            /ishtaghal/             ,ishtaghli/          /ishtaghlu/
+
+
+
+     write!               tU b                                     /iktubu/
+
+
+
+     but .             ishri                   ishri'              /ishru.
+
+                      L.1 I)" \               ,.; ./'                2.}...f.., 1
+
+     listen!           issant                  Issanti;        .   i issantu
+
+                      :..,:,; I                LS`'"''    1
+                                                                     ..5;;;.ja   1
+
+
+
+
+     speak!            itkallam               ,' itkallam' /       /itkallamu/
+                            /
+                          ..,5                     .1 /
+
+                         ((; 1                     A .' \             ".
+                                       *75*
+
+
+
+
+                                                   R 5
+IMPERATIVES                                                             LESSON SIXTEEN
+
+
+
+
+      There is a special forth of the imperative for "come!" It is not re-
+lated to the verb you !iavie learned meaning "to come".
+
+     come! (m. & f.)               /wahay/
+                                                                          U),
+     come! (to a group)            /wahu/
+
+Note that this form is only used as a command. "Come here!" is:
+     /wahay ila:h/
+
+
+Negative Imperative:
+The negative of the imperative i.e. "Don't go", "Don't speak" is
+formed in Hassaniya by putting the negative particle /1a/ in front of
+the second person singular or plural (masculine or feminine where
+relevant) of the verb:
+Examples:
+     Don't go!                     /la timshi/
+     (to a man)
+     Don't open the door!          /la tuvtahi il-ba:b/                           \
+     (to a woman)
+
+
+
+
+                  Squared design: 41-amdu 1-illahh"Praise to God"
+                                               Turkish minaret, 16th century AD
+
+
+                                       *76*           R6
+LESSON SIXTEEN                                             IMPERATIVES
+                                                                Exercises
+
+
+
+1 a. Learn any new vocabulary in this lesson.
+     b. Read the examples aloud in class paying attention to your teacher's
+        guidance on pronuncation.
+     c. Write out the examples in Arabic in your notebook and show your
+        teacher your efforts.
+
+
+2.     Translate the following commands into Arabic, and then make them
+       negative.
+       Remember that there is a slightly different form of the command for
+       addressing a man, a woman and groups.
+
+       1.   Buy some meat! (to a man)
+       2.   Come in! (to a group)
+       3.   Come here! (to a man)
+       4.   Open the door! (to a man)
+       5.   Take it! (to a man)
+       6.   Enter! (to 2 woman)
+       7.   Speak to me! (to a man)
+       8.   Get in the car! (to a group)
+       9.   Listen to me! (to a woman)
+      10.   Stay there! (to a group)
+
+
+
+
+                                    *77*
+
+                                                R7
+                        NOUNS PLUS ADJECTIVES
+                           Lesson Seventeen
+
+
+
+
+      Adjectives are placed after the noun in Hassaniya. Thus a phrase
+like "a big house" literally translated from Hassaniya would be ''a house-
+big" .
+
+1.       Indefinite :
+Masculine nouns take the masculine form cf the adjective :
+
+Examples :
+
+         a large room    /bayt
+
+         a new book      /ikta :b ijdi:c1/                                  c--- L.-) 1
+
+
+
+Feminine nouns take the feminine form of the adjective :
+
+Examples :
+
+         a big town      idashra ikbi: ra/                                             ..)
+
+
+
+         a young girl    !mint isqi: ra/                                         (Lk.' 419
+
+
+
+
+         a new house      da : r ijdi: da/                           t
+
+
+
+
+                                    *78*
+
+
+
+                                             R
+
+
+                                             IIIIIIMEN111111111011111Mill
+LESSON SEVENTEEN                                      NOUNS PLUS ADJECTJVES
+
+
+
+
+2.   Definite:
+If the noun has the definite article "the ", /i1 /, the adjective followingi it
+must also be prefixed by /ill. Thus the phrase "the big house" lit-
+erally translated into Hassaniya would be "the house tlie big".
+
+Examples:
+     the large room        /il-bayt il-ikbi:r/                           _>)
+
+
+
+     the new book          /1-ikta : b 1-ijdi : d/        A.) .0) ))
+
+     the big town          /id-dashra 1-ikbi:ra/
+
+     the new house         /id-da:r 1-ijdi:da/                   .A-4)     k       3
+
+
+Notes:
+     1.     The rubs for joining thy: definite article Al/ to adjectives are
+            identical to those for nouns.
+     2.     Some nouns not ending   /ta:' marbu: t a/ are feminine.
+            These nouns take the feminine endings witl- a following
+            adjective.
+
+Examples:
+     the new house         iid-da:r 1-ijdi:da/             7t)
+                                                                               1
+
+     the old woman         /il-mara: il-kahla/
+                                                                 ;"r:          s }.\
+
+
+
+
+                                       *79*
+                                                     R9
+NOUNS AND ADJECTIVES                                  LESSON SEVENTEEN
+Exercises
+
+
+
+1 a. Learn any new vocabulary in this lesson.
+     b. Read the examples aloud paying ^arefulattention to your
+        teacher's guidance in pronunciation.
+     c. Write out the exercises in Arabic, and then showyour efforts
+        to your teacher.
+
+2.     Translation
+       Translate the following phrases into Arabic.
+       First say them aloud paying attention to your pronunciation,
+       then write them out in Arabic in your copy book paying care-
+       ful attention to spelling. Show your efforts to your teacher.
+       If you have made any mistakes, make sure you understand
+       what is wrong before going on.
+       1.   a small room
+
+       2.   an expensive house
+
+       3.   a clever merchant
+
+       4.   an old car
+
+       5.   a young girl
+
+       6.   a tall man
+
+       7.   a beautiful woman
+
+       8.   a poor man
+
+       9.   a large tent
+
+      10.   an old road
+
+
+                                   *80*      90
+LESSON SEVENTEEN                                                 NOUNS AND ADJECTIVES
+                                                                             Exercises
+
+
+
+     11.   a cheap book
+
+     12.   a small table
+
+     13.   a big camel
+
+     14.   a new shirt
+
+     15.   a rich man
+
+3.   Make your translations of the phrases in #2 above definite and
+     show the results to your teacher:
+
+
+
+
+                           "Three things strengthen a nation's defences:
+                                gentleness, justice, and generosity"
+
+
+
+
+                                             *81*
+                             PREPOSITIONS
+
+                            Lesson Eighteen
+
+
+
+
+     The following is a review of important prepositioris:
+1.   before (2)                    /sa:big/
+
+                                   /gbal/
+                                                                   L
+
+
+2.   after (3)                     /ca:big/
+
+                                   /bacad/
+
+                                   /ura/
+
+
+3.   to ....from                   /min....ila/              c?'
+4.   above, upstairs, on           /fawg/
+
+
+5.   under, downstairs, below      /taht/
+
+
+6.   in                            /vi/                                L
+7.   in, to, towards               /shu:r/
+
+8.   on                            /cala/
+
+
+
+                                  *82*
+                                              92
+LESSON EIGHTEEN                            PREPOSITIONS
+
+
+
+
+9.     with                /maca : /
+
+
+10.    for, to             AU
+
+
+11.    at, near (2)        /cand/
+
+                           /hdha/
+
+
+12.    behind              /ura/
+
+J 3.   near (to)           /grayyib min/
+
+
+14.    far (from)          /baci:d min/
+
+
+15.    in front of         /gudda:m/
+
+
+16.    between             /bayn/
+
+
+17.    about, concerning   /can/
+
+
+
+
+                                *83*
+PREPOSITIONS,                                                      LESSON EIGHTEEN
+Exercises
+
+
+
+1 a. Learn any new vocabulary in this lesson.
+     b. Read the examples aloud paying careful attentionto,your
+        teacher's guidance on pronunciation.
+     c. Write out the examples in Arabic in your notebook and show
+        your efforts to your teacher.
+
+2.       Translation and Substitution Drill
+     a. Read the model sentence aloud.
+     b. Work out the Arabic of what has to be substituted.
+     L   Read the new sentence aloud.
+     d. Write out each new sentence in Arabic in your notebook.
+         Model Sentence
+         1.   I came before him.
+              /ana jayt sa:big-u/
+                                                   .              _
+         Substitute
+              She                her.
+              We                 them.
+              They               us.
+              He                 you (f.)
+
+         2.   They came after us.
+              /jaw ca: gb -na/                              L.:_j k.s   ,,.P ,
+         Substitute
+              I           you (m.)
+              She         me
+
+              He          them.
+              We          you (f.)
+
+                                            *84*       94
+LESSON EIGHTEEN                                                PREPOSITIONS
+                                                                          Exercises
+
+
+
+   3.   I walked from my house to the office.
+        /mashayt min da:r-i ila-l-maktab/
+                                                                                          1.-....3.1:11,--
+                                                                                  -,i.'
+        Substitute
+         her             mosque
+         his             ministry
+         our             clinic
+         their           sea
+
+   4.   He's going to Dakar.
+        /huwa ma:shi shu:r daka:r/              J ts ..)      _ -''''
+        Substitute
+        I'm              America.
+        They're          Atar.
+        She's            Nouadhibou
+        He's             Rosso.
+
+   5.   Is the Post Office far from here?
+                /ba:k/
+        /mahallaAil-bu:sta baci:d min hu:n ?/ ......1...QJ.
+                                                               -ci.12.....a.....).13(     ...(1,
+
+        Substitute                                                        s a_P 3"
+        ministry         the office?
+        hospital
+                         the sea?
+        market
+        sea              Nouakchott?
+        embassy
+        bank             the P.C. office?
+
+
+                                    *85*
+
+                                           45
+PREPOSITIONS                                            LESSON EIGHTEEN
+Exercises
+
+
+
+3.    Translation
+      Translate the following sentences into Arabic:
+
+      1.    Before Peace Corps I studied at the university.
+      2.    After the summer I worked in an office.
+
+      3.    The restaurant is open from one to fiN. e o'clock.
+
+      4.    He's upstairs, on the roof.
+      5.    It's under the table.
+      6.    The president has two houses in Rosso.
+
+      7.    Peace be upon you.
+
+      8.    Tilt child is next to his mother.
+      9.    I want to talk with him.
+
+     10.    My girlfriend and her friend want to go with me.
+
+     11.    The old dog's at Ahmad's.
+
+     12.    The shop is near the nosque, to the left.
+     13.    His speech is about independence.
+
+     14.    The Iraqi bank is in front of the school.
+     15.    The Moroccan restaurant is between the shop and the
+            office.
+
+
+      For further practice make up substitution drills from tnese
+      sentences using ne examples ',n #2 above as models   .
+
+
+
+
+                                    *86*9 6
+                              THE GENITIVE
+                             Lesson Nineteen
+
+
+
+
+    In Hassaniya phrases corresponding to the English' "the door of the
+house" have the form of
+           noun + article + noun
+           (the door of the house)
+           /ba:b id-da:r/                      /   1   .:..) \   c.... l.,
+
+    Where the possessor is a person, the article is omitted. Thus a
+phrase like "Mohammed's house" becomes
+           /da:r muhammad/                                              ..)
+
+           (house Mohammed)
+In Hassaniya the "thing possessed" always precedes the "possessor".
+There is no equivalent to the English " 's" to express possession.
+
+If the first noun (that is, "the thing possessed") is feminine and ends
+in a /ta:' marbu: to /, it is "opened" in pronuncation and pronounced
+as a /ta:'/. This is only a pronunciation feature and in written
+Arabic the /ta:' marbu: ta/ will always appear as a /ta:' marbu: ta/.
+The transliteration, however, indicates this "opening".
+Example:
+           /wa: tat muhammad/
+                                                                      _9
+
+           /Muhammed's car)
+
+           /wiza:rat is-sihha/          Lti).'              6i
+           (The Ministry of Health)
+THE GENITIVE                                            LESSON NINETEEN.
+Exercises
+
+
+
+1 a. Learn any new vocabulary in this lesson.
+     b. Read the examples aloud paying careful attention to your
+        teacher's guidance on pronuncation.
+     c. Write out the examples in Arabic in your notebooks and show
+        your efforts to your teacher.
+
+2.     First read the Arabic sentences aloud, then translate them
+       into English. Use this exercise as writing practice.
+       1    /zawjat muhammad/
+
+       2.   /sa:hib cal/
+
+       3.   /sa : hibat fa: timatu/
+
+       4.   /wa:tat ahmad/
+
+       5.   /ism zawj-ha/
+
+       6.   /da:r sa:hib-i/
+
+       7.   /ism zawjat-ak/
+
+       8.   /wiza:rat it-tacli:m/
+
+       9.   /ca:simat wilaya:t mutahida/     6   AS1,
+
+      10.   /da:r yusuf/
+
+      11.   /muvta:h
+
+      12.   /khaymat ab-i/
+
+
+
+                                      *88*         98
+LESSON NINETEEN
+                                                            THE GENETIVE
+                                                                Exercises
+
+
+     13.    /bi:ba:n id-da:r/
+
+     14.    /muvta:h il-buti:g/
+
+     15.    /maktab ish-shari:ka/
+
+3.   This same genitive construction is used in
+                                                   men's names consisting
+     of the noun /cabd/ )1/4-!-1. II servant", followed
+     of the 99 names of God.                             by one
+
+     e.g.
+                                                                 %...,
+            Abdallah              /Cabd alla:h/                =.3.1\ .)..,..s"
+     (lit. "servant of God")
+
+            Abd il-Qadir        I cabd it -qa:dir/
+     (lit. "servant of the Omnipotent One")
+
+            Abd ir-rahman        /cabd ir-rahma : n/
+     (lit. "servant of the Compassionate One")
+
+
+     Find out as many names of this type as you can and keep a record
+     of them.
+
+
+
+
+                                                       99
+                                    *89*
+THE GENITIVE                                              LESSON NINETEEN
+Exercises
+
+
+
+4.   This genitive construction is also used in forming the names of
+     ministries . Find out the names of the ministries listed below, and
+     learn those that you find you need to know especially in connec-
+     tion with your work.
+
+     Ministry of Health         /wiza: rat is- sihha/
+
+     Ministry of Education      /wiza : rat it-tacli:m/
+
+     Ministry of Agriculture /wiza : rat iz-zira :Cal      ;ts li:,) \
+
+     Ministry of the Interior
+
+     Ministry of Foreign Affaies
+
+     Ministry of Defense
+
+     Ministry of Justice
+
+      Ministry of Finance
+
+      Ministry of Information
+
+      Ministry of Commuriications
+
+
+
+
+                                      *90*
+
+                                               100
+                     VERBS + SUFFIX PRONOUNS
+                            (Direct Object)
+                            Lesson Twenty
+
+
+
+
+      You have already seen that the suffix pronouns, besides indicating
+ possession, can also cover the equivalent of  the English "me", "you",
+ "him", "her", etc. , which we have called
+ saw the suffixed pronouns used in this sensethe object pronouns. You
+                                                 with / and/ to give the
+ equivalent in Hassaniya of "have/have got".
+     These suffix pronouns can also be used with verbs as object pro-
+ nouns to give us sentences like "I know him", "they know me", etc.
+     Except for the fact that
+/-ni/, all the other suffixes arewith verbs "me" changes from /-i/ to
+                                  the same as you have alreadylearned.
+
+Examples:
+    They know me.                /yacrafu-ni/
+
+    She knows you. (m.)          /tacraf-ak/
+
+    He knows you. (f .)          /yacraf-ik/
+
+    I know him.                  /nacraf-u/
+
+    They know her.               /yacrafu-ha/
+
+    She knows us.                /tacraf-na/
+
+   They know you. (pl.)          /yacrafu-kum/
+
+   I know them.                  /nacraf-hum/
+
+
+
+
+                              *91*
+
+                                                101
+VERBS +. SUFFIX PRONOUNS                                     LESSON TWENTY
+
+
+
+
+     Only a few common verbs take the direct object in this way, e.g.
+"to know", "to give", "to close",   "to open", "to
+with your teacher which other verbs take the directspeak", etc. Discuss
+                                                     object.
+     Don't forget that in sentences like "I want you (m.) to come",
+since there is no infinitive, the second verb must agree with the suffix
+pronoun.
+Examples:
+     I want you (m.) to                                                _   <,
+                                         /ndu:r-ak tji/
+       come.                                                  ..5...       9 --3 -A-;
+     He wants me to go.                  /idu:r-ni nimshi/
+                                                                                 -)1
+Further Use of Suffixes:
+      The suffix pronouns used to denote "me", "you", "his",
+etc. can also be, used with prepositions. The prepositioncyou will"her",
+                                                                   prob-
+ably use most frequently with the suffix pronouns is /ma a:/ t", "with".
+
+Examples:
+    with me                    c
+                           /ma a:-ya/
+
+    with you (m.)          /ma c a:-k/
+
+    with you (f.)          /maca: -k/
+
+                              c
+    with him               /ma a:-h/
+
+    with her               /ma ca:-ha/
+
+    with us                   c
+                           /ma a:-na/
+
+    with you (pl.)         /mac a:-kum/
+
+    with them             /maca: -hum/
+
+
+                                   *92*
+
+                                               102
+LESSON. TWENTY                                     VERBS + SUFFIX PRONOUNS
+
+
+
+
+     Another preposition, /bi/               ,   (an alternative for "in") when
+used together with the suffix pronouns gives the equivalent to "be-
+cause" in Hassaniya:
+
+Examples:
+    because I                /bi: -ya/
+
+    because you (m.)        /bi: -k/
+
+    because you (f.)        /bi: -k/     .
+
+
+
+
+    because he              /bi:-11/
+                                                             ..
+    because she             /bi: -ha/
+                                                           Le.
+    because we              /bi: -na/
+
+    because you (pl.)       ibi:-kum/
+
+    because they            /bi: -hum/
+
+
+
+
+                                 *93*
+                                                    103
+VERBS + SUFFIX PRONOUNS                               LESSON TWENTY
+
+
+
+
+    The Hassaniya equivalent for "to" or "for me" is /1/        or
+/ill 31   plus the relevant suffix pronoun.                3
+Examples:
+    to me               /1-i/
+
+    to you (m. )        /1-aki
+
+    to you (f )
+              .         /1-ik/
+
+    to him              /1-u/
+
+    to her              /la -ha/
+
+    to us               /il-na/
+
+    to you (pl. )       /il-kum/
+
+    to them             /il-hum/
+
+
+    Pay attention to the variations in this example
+                                                  .
+
+
+
+
+                                           1 n4
+                                   *94*.
+LESSON TWENTY                                    VERB + SUFFIX PRONOUNS
+                                                                  Exercises
+
+
+
+1 a. Learn any new vocabulary in this lesson.
+     b. Read the examples aloud in class paying careful attention to your
+        teacher's guidance and pronunciation.
+     c   Write out the examples in Arabic in your notebook and show your
+         efforts to your teacher.
+
+2.       Substitution Drill
+     a. Read the model sentence.
+     b. Write out the Arabic of what is to besubstituted.
+     c. Read the new sentences aloud and then write themout in Arabic.
+
+         Model Sentence
+         Ahmad knows her.
+         /ahmad yacraf-ha/
+
+         Substitute
+          1.   .... him.
+          2.   .... them.
+          3.   Fatima ....
+          4.   I   ....
+          5.   She .... me.
+          6.   The directors     .   her.
+          7.   We don't .... them.
+          8.   The tailors don't .... her.
+          9.   Youssouf doesn't .... you (f.).
+         10.   Does she .... me?
+
+
+
+                                        *95*
+                                                 1(5
+VERBS + SUFFIX PI:ONOUNS                                                  LESSON TWENTY
+Exercises
+
+
+
+3.      Reading and Repetition Drill
+     a. Read these sentences aloud.
+     b. Write them out in Arabic in your notebook.
+        1.   I want you (m.) to visit me.
+             /ndu:r-ak tzu : r -ni/                                               5:)._) A;
+                                                          ...
+
+       2.    She wants me to go with her.
+             /iddu:r-ni nimshi maca:-ha/
+                                                                    ...
+
+       3.    He wants to visit you (f.)
+             /idu:r izu:r-ik/
+
+       4.    He wants me to go with him.
+             /idu:r-ni nimshi maca:-h/          0 1.51,         (...s-j.,x'               \,
+       5.    I want you (f.) to come with me.
+             /ndu:r -ik tji maca:-ya./                U lsz_p
+                                                                          L.5.
+                                                                              i
+       Write out these sentences using differentpersons of the verb and
+       different suffix pronouns where sense allows.
+
+
+
+
+                                      *96*
+                                                in
+LESSON TWENTY                                  VERBS + SUFFIX PRONOUNS
+                                                                  Exercises
+
+
+
+4.     Substitution Drill
+     a. Read the model sentence.
+     b. Work out the Arabic of what is to be substituted.
+     c. Read the new sentences aloud.
+     d. Write the new Sentences out in Arabic in your notebook.
+
+       Model Sentence
+       He is coming because he wants to see you (m.) .
+       /iji bi:-h idu:r ishu:v-ak/          S3yr-'-`
+       Remember when you change the subject of the verb you must also
+       change the suffix pronoun following /bi:/ "because". The subject
+       of the second verb must also be changed. In this drill the you
+       (m.) will remain constant.
+
+       Substitute
+       1.   She ....
+       2.   They
+       3.   We     ....
+       4.   I    ...
+       5.   You .
+
+       6.   He    ...
+       7.   You ,
+
+
+
+
+                                     *97*        X17
+                                  THE FUTURE
+                               Lesson Twenty-One
+
+
+
+
+       The future is indicated in Hassaniya by placirig the invariable
+word
+
+                   /1a:hi/
+in front of the verb. It corresponds in use exactly to "shall" or "will"
+in English.
+Examples:
+       I'll go               /la:hi nimshi/
+
+       you'll go (m.)        fla:hi timshi/
+
+    you'll go, (f.)          /1a:hi timshi/
+
+    he'll go                 /1a:hi yimshi/
+
+    she'll go                /1a:hi timshi/
+
+    we'll go                 /la:hi nimshu/
+
+    you'll go (pl.)          /la:hi timshu/
+
+    they'll go               /1a:hi yimshu/
+
+
+
+
+                                    *98*
+
+                                              1n8
+LESSON TWENTY                                                      THE FUTURE
+
+
+
+
+    Unlike the present tense, the future is made negative by using
+/ma:ni/, /ma:nak /, /ma:nik/, etc.
+
+Examples:
+     I won't go           /ma:ni la:hi nimshi/
+
+     he won't go          /ma:hu la:hi yimshi/
+
+    we won't go           /ma:na la:hi nimshu/
+
+    they won't go         /ma:um la:hi 'yimshu/
+
+
+    Remember that in Arabic statements about the futureare generally
+accompanied by the expression /in sha'alla:h/, ("if God wills it...").
+
+
+
+
+                    The name Muhammad is repeated in this design
+
+
+
+
+                                     *99*                  1.19
+THE FUTURE                                                                      LESSON TWENTY-ONE
+Exercises
+
+
+
+1 a. Learn any new vocabulary in this lesson.
+     b. Read the examples aloud in class paying careful attention toyour
+        teacher's guidance on pronunciation.
+     c. Write out the examples in Arabic in your notebooks and show your
+        efforts to your teacher.
+
+2.      Reading and Repetition Drill
+        Read each sentence aloud paying attention to your pronunciation.
+        1.   I'll see you (m.) tomorrow.
+             /1a:hi nshuv-ak is-subh/
+
+
+        2.   He'll come the day after tomorrow.
+             /1a:hi iji in-nha:r illi ma:hu is- sub;,/
+
+
+        3.   They'll go next week.
+             /1a:hi yimshu 1-isbu:c it -jay/
+                                        &\                          >)           2 -2
+       4.    I'll visit you (f.) in two weeks.
+             /1a:hi nzu:r-ik ca :gib isbu:cayn/
+                                Ls ...).-"A       c--;-'-:'   is
+                                                                          .."
+       5.    He'll arrive tomorrow, God willing.
+             /la:hi yu:sal.is-subh in shat' alla:h/
+                            k    s 1.,".,J ',.A               40,..1 \   3-10 y    ,   c-=5"   .)
+       Write out these sentences in Arabic in your notebook.
+       To generate new sentences change the persons of the verb wher-
+       ever sense allows.
+
+
+                                          *100* 110
+LESSON TWENTY-ONE
+                                                             THE FUTURE
+                                                                  Exercises
+
+
+3.      Substitution Drill
+     a. Read the model sentence.
+     b. Work out the Arabic of what has to be substituted.
+     c. Read the new sentences aloud.
+     d. Write out the new sentences in Arabic in
+                                                 your notebook.
+       Model Sentence
+       I'll come on Friday.
+       /la:hi nji yawm il-jumaca/
+
+       Substitute
+        1.    He'll ....
+        2. .... tomorrow.
+        3. She'll .,...
+        4. Will you (f.) ....
+       5. He won't ....
+       6. She won't ....
+       7. We'll ....
+       8. .... at half past five.
+       9. I won't ....
+      10.    They'll visit us ....
+      11.    We'll go to Dakar ....
+      12.    I'll visit you (m.) ....
+      13.    Will you (f.)      9
+      14.    They won't ....
+      15.     .... in the morning.
+      16.    I'll see you (f.) ....
+      17.         on Monday.
+      18.       next week.
+      19. I'll go ....
+      20.    .... in the afternoon.
+
+
+
+                                      *101*      1.11
+                                ADVERBS
+
+                         Lesson Twenty-Two
+
+
+
+
+    The following is a list of the most common adverbs of frequency in
+Hassaniya:                                                  .f
+    always, often              /da':iman/
+                                                            ,,
+
+     usually                   /c a:datan/                   a
+
+
+                                                      ads
+                                                                   ,
+     sometimes, occasionally   /marra marra/                     6 ...co
+
+
+
+
+     never, seldom,            /abadan/
+       rarely
+     almost, approximately     /tagri:an/
+
+     every day                 /kull nha:r/
+
+     every week                /kull isbu:c/
+
+
+
+     The Arabic equivalents of many adverbial phrases in English are
+ expressed by /bi-/ plus the appropriate noun.
+ Examples:
+      slowly                    /bi-shu:r/
+
+      quickly                   /bi-l-cajala/
+LESSON TWENTY-TWO                                            ADVERBS
+                                                             Exercises
+
+
+
+Translate the following sentences into Hassaniya:
+     1.   Those girls usually get up at seven o'clock.
+     2.   Muslims always pray on Fridays.
+     3.   They never drink wine.
+     4.   Abdellahi rarely comes to visit me in the afternoon.
+     5.   The secretary sometimes speaks French with me.
+     6.   You (pl.) sometimes work on Saturdays.
+     7.   Occasionally, Steve and Dave eat together.
+     8.   Good students never sleep in class!
+     9.   The Peace Corps director is always late in the morning.
+    10.   Yous§ouf always makes tea for us.
+
+
+
+
+                                *103*
+
+                                                i 13
+                                         ---.9..ini
+
+
+                         THE ACTIVE PARTICIPLE
+                           Lesson Twenty-Three
+
+
+
+
+     As you have seen, the Present Tense in Hassaniya oftencovers
+both the English Simple Present (used to describe habitual action)and
+also the Present Continuous (used to describe what is happeningat the
+time of speaking).
+Examples:
+     I sit here everyday. (habitual action)
+     I am sitting now.       (describing what is happening at the
+                              time of speaking)
+     This applies    to most verbs, but with certain verbs describing
+states of being and motion/action, if is possible to usea kind of adjec-
+tive derived from the verb to describe what is happeningat the time of
+speaking, overlapping in meaning with the Present Tense. We call this
+adjective the "active participle" and it is formed by putting an /alif/
+between the first and second letters of a three-letter verb stem.
+
+  jp1 les: (Some of the most frequently used "active participles")
+Examples
+     going                /ma: shi/
+
+    coming                /ja:i/
+
+    knowing               /ca:rif/
+
+    writing               /ka : tib/
+
+    hearing               /sa:mic /
+
+    living                /sa: kin/
+
+    standing              /wa: gif/
+
+
+                                       *104*
+
+
+
+
+                                               114
+LESSON TWENTY-THREE                                  THE ACTIVE PARTICIPLE
+
+
+
+
+     returning            /ra:jic/
+
+     buying               /sha:ri/
+
+     understanding        /fa:him/
+
+
+     Since these "active participles" are really adjectives, they must
+"agree" with whomever is speaking or being referred to male, female,
+or a group of men or women.
+    Thus      when   a   woman   is    speaking      or   being   referred to,
+/ta:' marbu:ta/ must be added.
+Examples:
+    I understand.                     /ana fa.: hima/                 ;Le) L
+    (woman talking)                                                            I:1
+
+
+    She knows.                        /hiya ca : rif a/
+                                                                    '1-9}1-5   (.?
+    We understand.                    /nihna
+                                         _ fa:hiri,.t:n/
+    (inen talking)
+
+    They understand.             /hu:ma fa:himi:n/
+    (talking about a group of men)                                6-4P 6 U.);)
+
+    We know.                          /nihna:ti ca:rifa:t/ (__, 6,,;1s
+    (women talking)
+                                         _
+
+    They understand.             /huma : ti fa :hima: t/      ,_-. 19 t; j 6.,-9
+    (talking about a group of women)
+
+
+
+
+                                 *105*              115
+THE ACTIVE PARTICIPLE                                    LESSON TWENTY-THREE
+
+
+
+
+    When one of these "active participles" ends inan /i/, that final /i/
+changes to /y/ when a suffix is added.
+Exami. les:
+
+       She is coming.           /hiya ja: ya/                       jt) Ls,
+
+
+       They (m.) are going.     /hu:ma ma:shyi:n/
+                                                                 6-4---LL.    \,,
+       They (f.) are buying. /huma:ti sha:rya:t/           <-:--- bi 12>   Ls 6_,
+
+    The negative of the "active participle" is formed by putting
+/ma:ni/ , /ma:nak/ , ma:nik/ , etc. in front of it.
+                   ,
+Examples:
+       I don't understand.      /ma:ni fa:him/
+       (man talking)
+                                                                   e6 & t'
+       We don't know.           /ma :na ca : rifa : t/
+       (women talking)
+
+
+       They are not coming.    /ma:hum ja: yi:n/
+       (referring to group of men)
+                                                                              eu
+Note
+       The "active participle" does not always translate backinto, English
+       as the Present Continuous and in many cases you coulduse either
+       the Present Tense or the Active Participle with no difference in
+       meaning. The only way you will really learn to use them is by
+       listening to Mauritanians talking and by copying whatyou hear
+       people around you saying.
+
+
+
+
+                                   *106*
+
+                                                116
+LESSON TWENTY-THREE                               THE ACTIVE PARTICIPLE
+                                                                      Exercises
+
+
+
+1 a. Learn any new vocabulary in this lesson.
+  b. Read the examples aloud paying close attention to your teacher's
+     guidance on pronunciation.
+  c. Write out the examples in Arabic in your notebook and showyour
+     efforts to your teacher.
+
+2.   Remember that in many cases the active participle in Hassaniya
+     overlaps in sense with both the Present Simple and the Present
+     Continuous Tense in English, and in many sentences in Hassaniya
+     either the Present Tense or the Active Participle could be used.
+
+     Reading and Repetition Drill
+     Read the following sentences aloud paying careful attention to
+     your pronunciation.
+     1.   He's going to the market.
+          /huwa ma: shi shu : r il-marsa/
+
+     2.   I don't know. (woman talking)
+          ima:ni ca:rif a/                                   LP              ,    Lk
+
+
+     3.   She's writing a letter.
+          /hiya ka:tiba bra:wa/
+
+     4.   He's coming back tomorrow.
+          /huwa ra:jic is-subh/
+
+     5.   I undertand. (man talking)
+          /ana fa:him/
+
+     6.   I'm coming now.    (man talking)
+          /ana ja:i dhark/                              .)        cs 1.1),       LI
+
+
+
+                                    *107*   117
+                                                                             VI11===,...
+
+
+
+THE ACTIVE PARTICIPLE                                      LESSON TWENTY-THREE
+Exercises
+
+
+
+       7.   I don't know Ali. (woman talking).
+            /ma:ni ca:rifa Cali/
+                                                            csks   ,t_s%   is
+      8.    Why are you standing here? (addressing a man)
+            / calaysh inta wa:gif hu:n ?/    C
+                                                 Z .)."               "-L\
+
+      9.    She's going to the clinic.
+            /hiya ma:sniya shu:r it-tab/
+
+     10.    He's not going to the cinema.
+            /ma:hu ma:shi shu:r is-si:nama/
+                                                              J
+                                                   %
+
+
+
+
+                                                       -           CS`'' L      }fr
+
+3.   Make the sentences in #2 above plural. Remember you must
+     distinguish between masculine and feminine particles.
+
+4.   Translate the following sentences using the Active Participle.
+      1.    I understand. (man talking)
+      2.    She is coming.
+      3.    They (m.) are going to the desert.
+      4.    We know.   (talking on behalf of a mixed group)
+      5.    He is standing near the car.
+      6.    She isn't coming with us to the sea.
+      7.    He's writing a letter.
+      8.    They (f.) are returning tomorrow.
+      9.    They (m.) understand biology.
+     10.    We don't speak French. (talking on behalf of a mixed group)
+
+
+                                     *108*
+                                             118
+                         THE INDIRECT OBJECT
+                            Lesson Twenty-Four
+
+
+
+
+     The indirect object such as in the phrase "to me" of "He gave it
+to me", is expressed in Hassaniya by the preposition 1/4/1-/ or ill-I or
+71.a-Tplus the relevant suffix pronoun. (For a paradigm of /1-/ see
+Lesson 20 of The Grammar Handbook.)
+     The following examples show' one verb ("give" in the past tense;
+using all the relevant combinations of verb plus directobject (it) plus
+indirect object. In this case the "it" is rendered masculine -don'tfor-
+get that "it" will be either masculine or feminine depending on the gen-
+der of the object being referred to.
+Examples:
+    you (m.) gave it (m.) to me           /catayt-u 1-i/
+
+    we gave it (m.) to   y (f.)           /catana-u 1-ik/
+
+    we gave it (m.) to you (m.)           /catana-u 1-ak/              9
+
+
+
+
+                                                                 IS
+                                                                           L....1,e.
+
+
+    I gave it (m.) to him                 /catayt-u 1-u/
+
+    I gave ii (m.) to her                 /catayt-u la-ha/
+
+    they gave it (m.) to us               /cataw-u it -na/
+
+    she gave it (m.) to you (pl.)         /catat-u il-kum/
+                                                                (61.
+    he gave it (m.) to them               /cata-u it -hum/      01)1 O 1c.
+
+
+
+
+                                  *109*
+
+
+
+
+                                             119
+THE INTiIRECT OBJECT                                             LESSON TWENTY-FOUR
+Exercises
+
+
+
+1.      Translate the following English sentences into Hassaniya, paying
+        close attention to the indirect object suffixes.
+        1.   She gave it to me.
+                                                                     ,
+        2.   My mother sends it (a letter, f. ) to me every week.
+        3.   The teacher wrote it (the word, f.) for us.
+        4.   My friend took it (the book, m.) to her.
+        5.   The boys gave us some water.
+
+2.      Substitution
+     a. Read the model sentence:
+     b. Work out the Arabic for what is to be substituted.
+     c. Read each new sentence aloud.
+     d. Write out each new sentence in Arabic in your notebook.
+       Model Sentence
+       He gave it to me.
+       /cata-u 1-i/
+                                                        01-'8-
+
+       Substitute
+        1.                        to her.
+        2.   She
+        3.          sent
+        4.   We                      to him.
+        5.                        to them.
+        6.   I gave
+        7.                         to you (f.).
+        8.   You (m )                         to us.
+        9.   They                   it (f.)
+       10.                 told                to me.
+
+                                        *110*
+                                                    1 20
+                              PAST TENSE
+                          Lesson Twenty-Five
+
+
+
+     The past tei se in Hassaniya obeys a regular and predictable
+pattern. The different persons are indicated by suffixes only added to
+the last letter of the verb stem. These suffixes remain absolutely
+constant from one verb to another.
+     Here are three common verbs written out in all the iersons.
+Examples:
+1.   I wrote            /iatabt/
+
+     you wrote (m.)     /katabt/
+
+     you wrote (f.)     /katabti/
+
+     he wrote           /katab/
+                                                       /
+     she wrote          /katabat/
+                                                       /
+     we wrote
+                                                        /
+                        /katabna/
+                                                        /
+     you wrote (pl.)    /katabtu/
+                                                  y---')
+     they wrote         /katabu/
+
+
+2.   I knew             /craft/
+
+     you knew (m.)      /craft/
+
+     you knew (f.)      /craft/
+
+
+
+
+                                           121
+PAST TENSE                              LESSON TWENTY-FIVE
+
+
+
+
+     he knew           icro./
+
+     she knew          /crafat/
+
+     we knew           /crafna/
+
+     you knew (p1.)    /craftu/
+
+     they knew         /crafu/
+
+
+3.   I spoke           /tkallamt/
+
+     you spoke (me.)   /tkallamt/
+
+     ,,ou spoke (f.)   /tkallamti/
+
+     he spoke          /tkallam/
+
+     she spoke         /tkallamat/
+
+     we spoke          /tkallamna/
+
+     you spoke (pl.)   /tkallamtu/
+
+     they spoke        /tkallamu/
+
+
+
+
+                                *112*
+LESSON TWENTY-FIVE                                            PAST TENSE
+
+
+
+
+     As you can see, the suffixes indicating the differentpersons are
+quite regular and predictable:
+
+                        Verb Stem Suffix
+        I                          t
+        you (m.)
+        you (f.)                   ti
+        he
+        she                       at
+        we                        na
+        you (pl.)                 to
+        they
+
+Note:
+
+        The "he" form of the past tense is indicated by the verb stem
+        standing alone. Since there is no infinitive in Arabic and the "he"
+        form shows the basic stem of the verb, foreigners learning Arabic
+        often refer to, verbs in this form. Thus we can speak of the verb
+        /katab/ 3r Lraf when talking about the verb in its simplest or
+        "infinitive" form.
+        Note also that the only possible source of confusion may be that
+        "I" and "you" (m.) are the same in pronunciation and writing.
+        However. in conversation. context will tell you. which is intended.
+
+
+
+
+                                            123
+                                   *113*
+PAST TENSE                                                          LESSON TWENTY-FIVE
+
+
+
+
+4.   The negative of the Past Tense is formed by putting /ma/                             1.,
+     before the verb.
+Examples:
+            I didn't speak.
+
+                                                                                                '
+                                                                                 ...le
+            /ma tkallamt/                                               c.   ,.ak---)
+
+            He didn't write this letter.
+            i ma katab 1 -bra        ha                     1_,
+                                                         _A,/                c......-Dr
+
+5.   The suffix pronouns representing "me". "you". "him". "her". etc.
+     can be added to the Past Tense verb in exactly the same way as
+     with the Present Tense.
+Example :
+
+            I wrote it. (indicating a letter)
+            'ana katabt-ha/
+
+
+
+
+                   "In the Name of God, Most Gracious, Most Merciful"
+
+
+
+
+                                          *114*       124
+.   PAST TENSE                                                   LESSON TWENTY-FIVE
+                                                                           Exercises
+
+
+
+    1 a. Learn any new vocabulary in this lesson.
+         b. Read the examples aloud paying carefulattention to your teacher's
+            guidance on pronunciation.
+         c. Write out the examples in Arabic in your notebook andshow your
+            efforts to your teacher.
+
+    2.     To help you identify the Past Tense we give here some common
+           verbs in both the "P' and "he" forms to show the basic verb
+           stem and one other person.
+           I did          /caddalt/
+
+           he did         /caddall
+                                                        LY,5
+           I took         /gbadht/                (-----',04-4-9
+
+
+           he took        /gbadh/
+                                                   _       _
+           I slept        /rgadt/                (......-- ,L9
+
+
+           he slept       /rgad/                       AJ
+           I worked       /shataghal-/
+
+           he worked      /shataghal/
+
+           I asked        /sawwalt/
+
+           he asked       /sawwal/
+
+           I called      /cayyatit/
+
+           he called     /cayyat/
+                                                                 ow.
+
+
+
+
+                                                         125
+PAST TENSE                                      LESSON TWENTY-FIVE
+                                                                      Exercises
+
+
+
+   .I looked for       /lawwadt/                    c2
+   he looked for       /lawwad/
+                                                               ..1%
+                                                        ,.) ..")
+
+   I washed            /ghsalt/                  ,...-X.,1
+   he washed           /ghsal/
+                   .
+                                                                1
+   I paid              /khallst/                           1
+                                                L.----4-4:8i)
+
+   he paid             /khallas/
+                                                    U:4
+   I found             apart/                     (.....-frP,
+
+   he found            /jbar/
+                                                        _Xs".).
+
+   I entered           /dkhalt/                   LLA_,CP )
+
+
+   he entered          /dkhal/
+                                                     L)`)
+   I closed            /gvalt/                        2;
+                                                           .
+   he closed           /gval/
+                                                       c-
+    I sat              /gcadt/
+
+   he sat              /gcad/                         .).-5?-9.
+
+
+   I drank             /shribt/                   L.7-0-a..7;ix'
+
+
+   he drank            /shrib/                     (......d.X-'
+
+
+
+
+                                  *116*   126
+ LESSON TWENTY-FIVE
+Exercises                                                       PAST TENSE
+
+
+
+
+      I returned            /rjact/                         j
+      he returned           Mac/
+
+      I lived               /skint/
+
+      he lived              /skin/                      /
+                                                     'Ll->.-'
+
+      If you find it useful, write out verb tables like the examples in
+      this -..sson for all the persons of these verbs.
+
+
+3.   Translation and Substitution
+     Translate the following sentences into Hassaniya, making appropriate
+     substitutions.
+     Where alternatives are given, write out the new sentences in full.
+     1.   What did you (f.) do yesterday?
+                    you (m.) day before yesterday?
+                                last week?
+                                on Thursday?
+                                last night?
+     2.   Where did you (m.) work in America?
+                     they
+                     he
+                     she
+
+     3.   What did he ask you (m.)?
+     4.   How much did you (f .) pay?
+                         you (m )
+                         they
+                         he
+                         she
+ PAST TENSE                                          LESSON TWENTY-FIVE
+ Exercises
+
+
+
+          5.   Did you find Ali?
+                               him?
+                               Fatimatu?
+                               her?
+                               them?
+          6.   What did you (m.) drink?
+          7.   When did they return from Kaiddi?
+                         he
+                         she
+                         you (m.) ...
+                         you (f..) ....
+                         you (p.) ....
+          8.   Who took the horse?
+                               it?
+      9.       We worked all day.
+               He
+               She
+               They
+     10.       I lived in Sydney, Australia.
+               They
+               She
+               He
+
+
+
+4.   Transformation Drill
+     Make the following sentences negative:
+     1.        Ahmad paid.
+               /ahmad dfac/                          6j.   A4-1
+     2.        I worked yesterday.
+               /shataghalt ya:mis/
+
+
+                                       *118*   128
+LESSON TWENTY-FIVE                                                    PAST TENSE
+Exercises ,
+
+
+
+      3.   He looked for me.
+           /lawwad-ni/
+
+     4.    She closed the door.
+           /gvalat it -ba:b/
+                                                                  (-- Y\    -LA-k-z;
+
+     5.    I took the car.
+           /gbadht il-wa:ta/
+
+     6.    She slept all day.
+           /ragadat nha:r ka:mil/
+
+     7.    The Volunteers returned after two years.
+           /il-mutatawwci:n rjacu bacad Cami:n1
+
+           The taximan called me.
+                                           6A-0 IS   A-v..>
+                                                              .,,-. i (5. .-Ps
+                                                      J
+     8.
+
+           /il-taksima:n cayyat-l-i./
+                                                                             ,
+                                                              pials   ,i.
+     9.    You (pl.) washed the tea glasses.
+           /ghsaltu il-ki:sa:n atay/
+
+    10.    We knew Arabic before
+               we came to Mauritania.
+           /crafna 11-
+                    .
+                       c arabi sa:big ma jayna shu:r mu:ri:ta:nia/
+
+              - U-9.ss i Y1       1,-A-P    b 3, 1,..3
+                                                              L.5J.," LL)-c
+
+
+
+
+                                  *119*       I PD
+                           RELATIVE PRONOUNS
+
+                            Lesson Twenty-Six
+
+
+
+
+   The relative pronoun (i.e. "who", "which", "whom,' "when," used
+when referring to both people and objects) in Hassaniya is:
+                /illi/                  cso
+The word is constant and unchanging when referring to either mas-
+culine or feminine, singular and plural nouns.
+Examples:
+    The man who came yesterday ...
+    /ir-ra:jil illi ja ya:mis .../            c.,-- -) ts       L) \ 3-4)    `;)l
+
+
+    The woman who was here ...
+     /il-mara: illi ka:nat hu:n .../           c)_,;)   <--.'   6 Ls" .i\J..
+    The men whom I saw ...
+                                                                           _ ,,
+     /ir- rijja:l illi shivt-hum .../                           Ls" 3 t-e .)\
+                                                                 ...
+
+
+
+     The women who walked ...
+     /il-cilya:t illi mashaw .../                                      c7- uLi73
+                                                  .7119 &\
+     The mosque which is in the square ...
+     /il-masjid illi vi-l-gac .../
+
+     The house which is near the market
+     /id-da:r illi gri:ba min 1-marsa .../
+                                              `ido°} 69 ").-'2)        Li" )\;)\
+
+                                     *120*
+
+
+                                              130
+LESSON TWENTY-SIX                                  RELATIVE PRONOUNS
+                                                              Exercises
+
+
+
+Translate the following sentences into Hassaniya, paying close attention
+to the usage of /illi/ as a relative pronoun.
+      1.   The boy who is playing in the street is your bKother.
+      2.   I saw a man who had no legs.
+     3.    We know a woman who is 98 years old.
+     4.    The minister who gave a speech yesterday is ill today.
+     5.    Did you talk to the girl who is standing over there?
+     6.    He hit the man who had hit him first.
+     7.    Students who study hard will pss.
+     8.    People who are ill should go to the hospital.
+     9.    The marabout who was here yesterday is not here now.
+    10.    I spoke to a woman who came to my door.
+                  THE PAST TENSE            SPECIAL CASES
+                            Lesson Twenty-Seven
+
+
+
+
+    The following three examples are representative of verbs which
+have a long vowel as one of their root letters.
+
+1.   In verbs ending in /i:/ --:-.5 in the Present Tense, the /i/
+     becomes either /ay/ or stays as /i:/ in the fitst and second persons
+     singular and plural. This pronunciation varies from region to re-
+     gion in Mauritania.
+
+Examples:
+     I went                /mashayt/    .
+                                                         ...      e%
+                                                      i...m....."Amb.....
+
+
+
+
+     you (in.) went        /mashayt/              C
+                                                      ....
+                                                                       0
+
+
+
+     you (f .) went        /mashayti/
+                                                         ...     A
+
+                                                  SSj.....""k."
+
+
+     he went               /masha/
+
+     she went              /masha:t/             LI. LL...
+
+     we went               /mashayna/
+
+     you (pl.) went        /mashaytu/
+
+     they went             imashaw/
+
+     These are not random changes, and any verb ending in Ii/ L-S
+in the Present Tense will behave like the above example in the Past
+Tense.
+
+
+
+
+                                  *122*
+LESSON TWENTY-SEVEN                   THE PAST TENSE - SPECIAL CASES
+
+
+
+
+2.   In verbs with /wa:w/ >        as the middle letter of the verb
+     stem in the Present Tense, drop the /wa:w/ in the Past Tense,
+
+
+     I saw              /shivt/
+
+     you (m.) saw       /shivt/
+
+     you (f . ) saw     /shivti/
+
+     he saw             /sha:v/
+
+     she saw            /sha : vat/
+
+     we saw             /shivna/
+
+     you (pl.) saw      /shivtu/
+
+     they saw           /sha : vu/
+
+     These are not random changes       any verb with /wa:w/ ..9    as
+the middle letter of the verb stem in the Present Tense will behave like
+the above examples in the Past Tense.
+PAST TENSE - SPECIAL CASES                     LESSON TWENTY-SEVEN
+
+
+
+
+3.   Verbs with /i:/      as the middle letter of the verb stem behave
+     like the example below:
+Examples:
+     I sold              /bict/
+
+     you (m.) sold       /bict/
+
+     you (f.) sold       /bicti/
+                                                      .
+
+
+     he sold             /ba:c/                  yL
+     she sold            /ba:Cat/
+
+     we sold             /bicna/
+
+     you (pl.) sold      /bictu/
+
+     they sold           /ba:cu/
+                                                .ys
+
+Past Tense of the Verb "To B 's" :
+    Although Hassaniya does not have a verb "to be" in the Present
+Tense, it is expressed in the past.
+Examples:
+     I was               /kint/
+
+     you were (m.)       /kint/
+
+     you were (f.)       /kinti/
+
+     he was              /ka:n/
+
+
+                                    *124*
+.   LESSON TWENTY-SEVEN                        PAST TENSE          SPECIAL CASES
+
+
+
+
+         she was             /ka:nat/
+
+         we were             /kinna/
+
+         you were (pl.)      /kintu/
+
+         they were           /ka:nu/
+
+
+    Special Note:
+        When /ka:n/ cU U          is placed in front of /kha:lig/ or /cand/,
+                5 it makes the equivalent of the Past Tense. /ka:n/
+         remains constant throughout the       different personal pronouns.
+
+    EIamples:
+         There were many people in the mosque.
+         /ka:n kha:lig ya: sir min in-na:s vi l-masjid/
+
+
+         He had a fever.
+         /ka:n cand-u il-humma/                                        AiS
+                                                          fs-S 1C4j1
+
+
+
+
+                                       *125*
+                                                    1:15
+PAST TENSE - SPECIAL CASES                        LESSON TWENTY-SEVEN
+Exercises
+
+
+
+1 a. Learn any new vocabulary in this lesson.
+     b. Read the examples aloud paying attention to your teachers' guidance
+        on pronunciation.
+                                                                             -
+
+
+
+
+     c. Write out the examples in Arabic in your notebook and show your
+        efforts to your teacher.
+
+2.     To give you further practice in identifying the Past Tense we list
+       some common verbs in the "I" and "he" forms which has /i:/ as
+       the last letter and /wa:w/ as the middle letter of the verb stem in
+       the Present Tense.
+
+     a. I want             /mashayt/                     .__-_,,,,,,
+
+       he went             /masha/
+
+       I bought            /shrayt/
+
+       he bought           /shara/
+
+       I wanted            /bghayt/
+
+       he wanted          /bgha/
+
+       I smoked           /kmayt/
+
+       he smoked          /kma/
+
+       I came             /jayt/                           C:.,-P
+                                                               ....
+
+
+
+
+       he came            /ja/
+
+       I waited           /ha:nayt/
+
+
+                                   *126*     X26
+LESSON TWENTY -SEVEN                         PAST TENSE - SPECIAL CASES
+                                                                Exercises
+
+
+
+    he waited            /ha :na/
+
+    I allowed, let       /khallayt/                    L Qs
+
+
+
+    he allowed, let      /khalla/
+
+    I gave               /ctayt/
+
+    he gave              /cta/
+
+    I finished           /uvayt/
+
+    he finished      '   /uva/
+
+    I had lunch          /tghaddayt/
+
+    he had lunch         /tghadda/
+
+    I had supper         /tcashshayt/
+
+   he had supper         /tcashsha/
+
+   I prayed              /sallayt/
+
+   he prayed             /salla/
+
+
+ b. I saw                /shivt/
+
+   he saw                /sha : v/
+
+
+
+
+                                     *127*
+                                                   7
+PAST TENSE - SPECIAL CLASSES                         LESSON TWENTY-SEVEN
+Exercises
+
+
+    I ate                 /kilt/
+
+    he ate                1ka:1/
+
+    I stood up            igimti
+
+    he stood up           fga:m
+
+    I said                 gilt
+
+    he said                'ga:1,,"
+
+
+    If you would find it helpful for further practice write out verb
+    tables like the examples in this lesson for all the persons of these
+    verbs.
+    Keep a section of your notebook for verbs and sample verb tables.
+
+    Translate the following sentences into Arabic. If alternatives are
+    given , write out each new sentence in full.
+    1.      We went with Ahmad.
+            I             him.
+            She           Fatima.
+            FIE,          her.
+            They          us.
+
+    .1
+            She bought a lot of meat.
+            I             fruit.
+            We            food.
+            They          bread.
+            He            rice.
+
+
+                                      *128*   1.18
+LESSON TWENTY-SEVEN                           PAST TENSE - SPECIAL CASES
+                                                                 Exercises
+
+
+
+   3.    I wanted to go with them.
+         They                   me.
+
+         She                    him.
+         He                     US.
+
+         We                     her.
+
+    4.   There were many trees near the mountain.
+
+    5.   She came yesterday.
+                  last week.
+                   the day before yesterday.
+                   last year.
+                   on Friday.
+
+    6.   I waited half an hour.
+         We
+
+         They
+         She
+         He
+
+
+    7.   What did you (f.) say?
+                   you (in.)
+
+    8.   Who did you (m.) see?
+                  you (m.)
+                  you (pl.)
+
+
+
+                                      *129*
+PAST TENSE - SPECIAL CASES                               LESSON TWENTY-SEVEN
+Exercises
+
+
+
+            9.   Those children had new clothes.
+
+        10.      I finished yesterday.
+                           at five o'clock.
+                           at noon.
+                           late.
+                           on Thursday.
+
+
+4.      Substitution Drill
+     a. Read model sentence.
+     b. Work out Arabic of what is to be substituted.
+     c. Read out loud the new sentences
+     d. Write out the new sentences in Arabic in your notebooks.
+
+       Model Sentence
+       Where were you yesterday?            (addressing a man)
+        'rninayn kint ya:mis ?/                          L       )    .
+
+                                                                     PA"
+       1.        ... you (f .)
+       2.         .. last week?
+       3.         .. they ....
+       4.         .. he on Friday?
+       5.         .. she last month?
+
+
+
+
+                                         *1:30*
+                THE COMPARATIVE AND SUPERLATIVE
+                             Lesson Twenty-Eight
+
+
+
+
+1.   The Comparative :
+      The Comparative in Hassaniya is formed by dropping the vowel,
+either the /i : / or /a : / (depending on the word) from adjectives. The
+short vowel /i/ which occurs at the beginning of some adjectives is also
+dropped. We might note here that this formula differs from Standard
+Arabic in that in the latter, an /alit/ I carrying a /fatha/ i is placed
+before the entire adjective, while at the same time shortening the middle
+/a : / or /i:/. This creates a slight "upbeat" in the pronunciation, as in
+the example /kibi: r/ -- /ukbir/. Be aware of both the Hassaniya and
+the standard systems of forming the comparative.
+Examples :
+
+     hot       /ha :mi/                            hotter    /hma/
+
+     big       /ikbi: r/                           bigger    /kbir/
+
+     small     /isqi: r/                       .   smaller   /sqir/
+
+     new       /ijdi: d/                           newer     /jdid/
+
+     expen-
+      sive
+               /wa : cir/                          more
+                                                    expensive
+                                                             /weir/    J,,
+     cold      /ba : rid/                          colder    /b rid/   ..)..1).
+
+
+     tall      /itwi :1/                           taller    /twil/
+
+     short     /igsi: r/                           shorter   /gsir/
+
+     far       /bac]: : d/       ..A.A.72..)       further   Acid/
+
+
+
+                                        *131*
+
+
+
+
+                                                       14j
+THE COMPARATIVE AND SUPERLATIVE                        LESSON TWENTY-EIGHT
+
+
+
+
+     rich        /gha:ni/                    richer    /ghna/
+
+     fat         /sami:n/                   fatter     /smin/
+
+     clever                                 cleverer   /ca./
+
+
+    The comparative has only one form in Hassaniya for the masculine,
+feminine and plural (m. and f.).
+      All comparatives are followed by /min/             ,   which is equivalent
+to "than" in English.
+
+Examples:
+     1.     This man is bigger than that man.
+            /ha:dha it -ra:jil kbir min dlia:k it -ra:jil/
+
+
+
+    2.      This is newer than that.
+            iha:dha jdid min dha:k/
+
+
+
+    3.      Today is hotter than yesterday.
+            /il-yawm hma min ya:mis/
+
+
+
+
+                                    *132*
+                                              142
+LESSON TWENTY-EIGHT                     THE COMPARATIVE AND SUPERLATIVE
+
+
+
+
+2.   The Superlative
+     The Superlative in Hassaniya also has only one form for the mas-
+culine, feminine and plural (m. and f.).
+     It is expressed by using 1) the definite article /1/ followed by an
+unaltered adjective followed by 3) /minhum/              which is the equi-
+valent to "among them" or "of all".
+
+Examples:
+     1.     He is the biggest (of them all).
+            /huwa 1-ikbi: r minhum/
+
+
+
+
+     2.     This is the newest (of all).
+                                                                           t
+            /ha:dha 1-ijdi:d minhum/                        )..)...! 9\ 1 A.57
+
+
+
+
+     3.     Rosso is the hottest city in the world.
+            /ro: so il-dashra 1-hma minhum vi 1-calim/
+
+
+                                51) 1     L5.
+
+
+
+
+                                        *133*
+                                                143
+COMPARATIVES AND SUPERLATIVES                     LESSON TWENTY-EIGHT
+Exercises
+
+
+
+1.   Translate the following sentences into Hassaniya.
+     1.     Paris is further than Algiers.
+
+
+
+     2.     Rockefeller is richer than a Peace Corps Volunteer.
+
+
+
+     3.     The hyena is cleverer than the dog.
+
+
+
+     4.     Our class is more tired than the French class.
+
+
+
+     5.     During Ramadan, Muslims are hungrier and thirstier than
+            Christians.
+
+
+
+
+                                      4 ,,
+                                   *y3lu4
+LESSON TWENTY-EIGHT                          COMPARATIVES AND SUPERLATIVES
+                                                                             Exercises
+
+
+
+2.   Formation Exercises
+     Read the three sentences and with your knowledge of comparatives
+     and superlatives, create several new sentences.
+     1.   Chicago is 10°C. Rome is 25°C. Atar is 50°C.
+
+     2.   Youssouf is 1 meter 65: Kerim is 1 meter 70: Abdullahi is
+          1 meter 70.
+
+     3.   Pierre weighs 85 kilos. Frederick weighs 95 kilos. Gregory
+          weighs 110 kilos.
+
+     4.   My sister is 2 years old. My brother is 5 years old. I am
+          11 years old.
+
+     5.   Rice costs 11 ougiya. Cous-cous costs 15 ougiya. Cheese
+          costs 70 ougiya.
+
+
+
+
+                          Tile: "In very truth, there is no God but Allah"
+                                                  Turkey, 17th century AD
+
+
+
+
+                                           1:35*       14 5
+                        THE PAST CONTINUOUS TENSE
+                            Lesson Twenty-Nine
+
+
+
+
+    In Hassaniya a continuous action in the Past is rendered by the
+Past Tense of the verb "be". ika:nP (5 together with the Present
+Tense:
+Example:
+        He was walking
+        /huwa ka:n yimshi                                     _       uy
+Note:
+        The subjects of the verbs must "agree". that is. if the subject is
+        "he". both the verbs must be in the third person singular.
+
+        The   following paradigm shows one            complete verb   in   all   the
+persons:
+        I was walking                'kint nimshi:
+
+        you (m.) were walking        'kint timshir
+
+        you kf.) were walking    ,   kinti timshi/
+
+        he was walking               ,ka:n
+
+        she was walking              'ka:nat timshi
+
+        Ice were walking             kinna nimshu
+
+        you (pl.) were walking       kintu timshu
+
+        they were walking            .ka:nu yimshu
+
+
+                                       '136*
+
+
+
+                                                     14
+LESSON TWENTY-NINE                                     THE PAST CONTINUOUS TENSE
+
+
+
+
+  .      This structure can also be extended to the Active Participles.
+
+Example:
+         She was sitting . . . .
+         /hiya ka :nat ga : cida . . . . /
+                                                               00.
+
+
+
+
+Note :
+
+         The Active Participle must agree in number and gender with the
+         subject of the verb .
+
+Examples :
+
+         I was sitting . .   . .   (man talking)
+         /ana kint ga : cid . . . . /                                 ;4_5
+
+
+
+         I was sitting .   . . .   (woman talking)
+         /ana kint ga : cida . . . . /                               ;As
+
+         you (m . s . ) were sitting . . . .
+         /inta kint ga: cid . . . /  .
+
+
+
+
+         you (f . s . ) were sitting . . . .
+         /inti kinti ga : cida . . . .
+
+         he was sitting . . . .
+         /huwa ka : n ga: cid . . . . /
+
+         she was sitting . . . .
+         /hiya ka : nat ga : cida . . . . /                          our     .
+                                                                                 u/- c?
+                                               *137*
+
+
+                                                         X47
+THE PAST. CONTINUOUS TENSE                             LESSON TWENTY-11..;E
+
+
+
+
+        we were sitting .... (group of men)
+        /nihna kinna ga:cidi:n ..../
+
+        we were sitting .... (group of women)
+                                                                             A/
+        /nihna kinna ga: cida: t ..../                    (-7/1 AS 9     I;)      (..:,...
+
+
+
+
+        you (m.p.) were sitting ....
+        /intu:ma kintu ga:cidi:n ..../
+
+        you (f.p.) were sitting' ....
+        /intu:ma:ti kintu ga:cida:t ..../
+                                                                       ...
+
+        they (m.p.) were sitting ....
+        /hu:ma ka:nu ga:cidi:n ..../
+
+        they (f .p . ) were sitting . . . .
+        /hu:ma:ti ka:nu ga:cida:t/                ,-.%As t; ,),   tf (.571.,
+Note:
+    /ka:n/     if can also be used with thee /sand/ -).-L-c to create
+                   1")
+
+    the equivalent of "had", e.g. /ka:n andi/u..:As ',0.)= "I had".
+    Finally, /ka:n/ can also be used with /khadig/ (3)Li, to mean
+        "there was/ there were" (see Lesson 8).
+
+
+
+
+                                         *138*
+                                                 148
+LESSON TWENTY-NINE                               THE PAST CONTINUOUS TENSE
+                                                                         Exercises
+
+
+
+1.   Substitute
+     Model Sentence:
+     I was buying material at the market.
+     /lint nishri il-khant vi 1- marsa,'
+
+     1.   She                        8.         the car ... the garage
+     2.   They                       9.         selling
+     3.   looking at                10.     .   onions .... the market
+     4.   at the tailor's           11.         buying
+     5.   speaking about            12..        You (f.)
+     6.   Brahim                    13.         You (pl.)
+     7.   the machine               14.         repairing
+
+
+     Translate the following sentences:
+     1.   They were sitting on the mat under the tent.
+          The mother was making cous-cous.
+     3.   The volunteers were swimming in the sea.
+     4.   My assistant and I were working until .20 h.
+     5.   You (f.pl.) were speaking to the Ambassador when I entered
+          the room.
+
+
+
+
+                                    *139*
+                                                            9
+                               THE CONDITIONAL                                                         (r.
+
+                                 Lesson Thirty
+
+
+
+
+    Conditional sentences (i.e. sentences beginning w:,th "if") are
+much more fluid in Arabic than in English. We have in English at least
+three fixed, unchanging types of conditionals, but the same ideas of
+condition are expressed in Arabic in one of two ways, with some over-
+lapping.    The Hassaniya word for "if" is:
+                                                      '
+                      /illa/                      \
+1.   Simple Conditional
+     The Simple Conditional expressing future possibility can be ex-
+pressed in Hassaniya by using the. ?resent Tense following "if", plus
+either the Future /1a:hi/ + Pres.ent Tense, OR just the Present Tense
+in the other part of the sentence.
+Example :
+
+     If you go, you (will) see him.
+     /ilia timshi la:hi tshu:v-u/
+                 OR
+                                                          .
+     /ilia timshi tshu : v-u/                                                                     91
+                                                      P
+
+                                                      4U,      ..,4ri4...)        L5-212
+
+
+
+2.   Hypothetical Conditional
+     The Hypothetical Conditional implying less certainty of what will
+probably happen can be expressed by using the Past Tense after "if"
+plus either the Future /1a:hi/ + Present Tense, OR the Past Tense in
+the other part of the sentence.
+Example:
+     If you came, you (would) see him.
+                                            , .
+     /ilia jayt la:hi tshu:v-u/             c9                               _9    .....,...,4)
+
+                 OR
+     /llla jayt shivt-u/                                      ti:Alsi.J.0         Cd..u?
+
+
+
+                                    *140*
+LESSON THIRTY                                          THE CONDITIONAL
+
+
+
+
+3.   Impossible or Unreal Conditional
+     The Impossible or Unreal Conditional referring to an incomplete
+action, or when expressing an unfulfilled wish, can,. be expresed by
+the same construction as in example #2 above. Context determines the
+interpretation of this sentence as either Hypothetical or Impossible.
+    So that you can more easily see the formulas involved in these
+constructions, here they are in a box:
+
+
+
+               If-clause                            Main Clause
+
+     1.       /ilia/ + Present               /1a:hi/ + Present
+                                                  OR Present Only
+
+
+     2.       /illa/ + Past                  /1a:hi/ + Present
+                                                  OR Past only
+
+
+     3.       /ilia/ + Past              ,   Past
+
+
+
+
+                                 *141*
+                                             151
+THE CONDITIONAL                                                LESSON THIRTY
+Exercises
+
+
+
+1.   Translation and Completion Exercise
+     Complete the other part. of the sentence, after translating the given
+     phrase using the conditional formulae as above.
+
+      1.     If today were Saturday
+      2.     If I had a ellion dollars
+      3.     If I knew Arabic perfectly
+      4.     If we go to the beach today
+      5.     If we don't have class today
+      6.     If                                                    .I'll go home.
+      7.    'If                                       it'll be nice weather.
+      8.     If                                    Ycussouf will be angry.
+      9.     If                                         I wouldn't do that.
+     16.     If                     she, would have telephoned her mother.
+
+
+2.   Translate the following conditional sentences into English.
+     1'.     If I were you, I would sleep more.
+     2.      She will be very happy if her boyfriend writes to her.'
+     3.      We will visit our' friends if we have the time.   .
+
+
+
+     4.      If you brought me some fertilizer, I would put it on my
+             crops.
+     5.      If I had known you were coming, I would have cooked you
+             some cous-cous!
+
+
+
+
+                                    *142*
+
+
+
+                                            152
+                      PRONUNCIATION EXERCISES
+
+
+
+
+The" following are lists of "minimal pairs", i.e. , pairs of words that are
+exactly the same except for one letter. Thus, these words are very
+similar in pronunciation. Go over these words with your teacher,
+paying close attention to the differences. The difficult sounds in
+Arabic take time to master - refer to these exercises often to practice
+the new sounds.
+
+
+
+
+                                  *143*
+
+
+
+                                          1
+     PRONUNCIATION EXERCISES
+
+
+
+
+5.           vs.                            6.                    vs.
+
+
+                                                             L9
+
+
+
+
+       L
+                                                                    vs.
+
+
+                                                                                J
+
+
+                                                             tJ                     Jj
+
+
+
+
+                       .113znufu 1-illahi: "Praise to God"
+
+                                                                          GPO 868-156
+                                     *144*
+
+
+                                              154
+      PEACE CORPS
+LANGUAGE HANDBOOK SERIES
+             for Kiribati (Gilbertese)
+
+           Grammar Handbook
+      Communication & Culture Handbook
+          Special Skills Handbook
+           Teacher's Handbook
+
+
+
+
+             ACTION Peace Corps
+    The Experiment in InternationalLiving
+
+   "Comnihdication is the Ley to understanding."
+
