@@ -1,130 +1,147 @@
-# Hassaniya Qwen Fine-Tuning Dataset
+# Hassaniya Qwen Fine-Tuning - HDRP Compliant
 
-A curated, high-quality dataset for fine-tuning language models on the Hassaniya (Hassania) Arabic dialect spoken in Mauritania and Western Sahara.
+A fully HDRP-compliant (Hassaniya Dialect Resource Protocol) dataset and pipeline for fine-tuning language models on the Hassaniya Arabic dialect.
 
-## Dataset Overview
+## Protocol Compliance Status
 
-| Metric | Value |
-|--------|-------|
-| **Total Training Samples** | 28,612 |
-| **Validation Samples** | 500 |
-| **Evaluation Samples** | 200 |
-| **Quality Score** | 98.5% High Quality (≥90) |
-| **Format** | OpenAI Chat Format (JSONL) |
+| Gate | Requirement | Achieved | Status |
+|------|-------------|----------|--------|
+| **H1 Corpus Gate** | - | - | ✓ PASSED |
+| DAPT Tokens | ≥50,000 | 323,900 | ✓ |
+| SFT Turns | ≥5,000 | 21,336 | ✓ |
+| Dialogue Ratio | ≥60% | 100% | ✓ |
+| Leakage | 0 | 0 | ✓ |
 
 ## Repository Structure
 
 ```
 hassania-qwen-finetune/
-├── data/
-│   ├── training/
-│   │   ├── train_phase1_curated.jsonl   # 28,176 samples (Phase 1)
-│   │   ├── train_phase2_quality.jsonl   # 28,612 samples (Phase 2)
-│   │   ├── train_full.jsonl             # 28,612 samples (Full)
-│   │   └── validation.jsonl             # 500 samples
-│   └── evaluation/
-│       ├── eval_holdout.jsonl           # 200 samples
-│       ├── evaluation_benchmark.jsonl
-│       └── benchmark_summary.json
-├── reports/
-│   ├── FINAL_PREPARATION_REPORT.md
-│   └── optimized_data_analysis.png
-├── scripts/
-│   └── ...
+├── hdrp/
+│   ├── data/
+│   │   ├── raw/                    # Source data by type
+│   │   │   ├── whatsapp_exports/
+│   │   │   ├── facebook/
+│   │   │   ├── websites/
+│   │   │   ├── youtube_transcripts/
+│   │   │   ├── tv_radio/
+│   │   │   ├── parliament/
+│   │   │   ├── film/
+│   │   │   ├── poetry_azawan/
+│   │   │   ├── celebrities/
+│   │   │   └── religion/
+│   │   └── processed/
+│   │       ├── episodes/           # HDRP Episode format
+│   │       ├── dqs/                # Quality-scored data
+│   │       ├── exports/            # Train-ready outputs
+│   │       │   ├── dapt/           # Continued pretraining
+│   │       │   ├── sft/            # Instruction tuning
+│   │       │   └── eval/           # Evaluation set
+│   │       └── manifests/          # Run manifests
+│   ├── pipeline/
+│   │   ├── collector/              # Episode converter
+│   │   └── refinery/               # Processing pipeline
+│   ├── specs/
+│   │   └── sampling_config.json    # Chat-first weights
+│   └── docs/
+│       └── README.md               # HDRP documentation
 └── README.md
 ```
 
-## Data Format
+## Train-Ready Exports
 
-Each sample follows the OpenAI chat format:
+| File | Records | Purpose |
+|------|---------|---------|
+| `hdrp/data/processed/exports/dapt/dapt_hassaniya_v2.jsonl` | 6,478 | Continued pretraining |
+| `hdrp/data/processed/exports/sft/sft_hassaniya_v2.jsonl` | 10,668 | Instruction tuning |
+| `hdrp/data/processed/exports/eval/eval_hassaniya_v2.jsonl` | 593 | Evaluation |
 
+## Data Formats
+
+### DAPT Format
+```json
+{"text": "<NORMALIZED_TEXT>", "meta": {"episode_id": "...", "bucket": "...", "topic": "..."}}
+```
+
+### SFT Format
 ```json
 {
   "messages": [
+    {"role": "system", "content": "You are a helpful Hassaniya assistant."},
+    {"role": "user", "content": "<USER_TURN>"},
+    {"role": "assistant", "content": "<ASSISTANT_TURN>"}
+  ],
+  "meta": {"episode_id": "...", "bucket": "...", "topic": "..."}
+}
+```
+
+## Chat-First Sampling
+
+### DAPT Weights
+| Bucket | Weight |
+|--------|--------|
+| everyday_chat | 75% |
+| marketplace_qa | 10% |
+| public_comments | 7% |
+| tv_discussion | 5% |
+| culture_story_poetry | 2% |
+| monologue_specialist | 1% |
+
+### SFT Weights
+| Bucket | Weight |
+|--------|--------|
+| everyday_chat | 85% |
+| public_comments | 10% |
+| tv_discussion | 5% |
+
+## Pipeline Usage
+
+```bash
+# Step 1: Convert source data to Episodes
+python3 hdrp/pipeline/collector/convert_to_episodes.py
+
+# Step 2: Run Refinery (Normalize → DQS → Dedup)
+python3 hdrp/pipeline/refinery/refinery.py
+
+# Step 3: Export train-ready data
+python3 hdrp/pipeline/refinery/exporter_v2.py
+```
+
+## Episode Schema
+
+Each episode follows the HDRP standard:
+
+```json
+{
+  "episode_id": "EP-20260105-ABC123",
+  "source_type": "whatsapp_desktop|facebook|website|...",
+  "bucket": "everyday_chat|marketplace_qa|public_comments|...",
+  "interaction_mode": "dialogue|qa|narrative|monologue",
+  "topic": "social_family|religion|trade_econ|...",
+  "heat": 0,
+  "segments": [
     {
-      "role": "system",
-      "content": "You are a helpful assistant specialized in the Hassania (Hassaniya) Arabic dialect..."
-    },
-    {
-      "role": "user",
-      "content": "Translate to Hassaniya: Hello, how are you?"
-    },
-    {
-      "role": "assistant",
-      "content": "اشحالك"
+      "segment_id": "SEG-001",
+      "speaker": "spk1|spk2",
+      "raw_text": "...",
+      "text_variants": {"raw": "...", "norm": "...", "diac": null},
+      "lang_probs": {"hassaniya": 0.95, "msa": 0.03, "french": 0.02},
+      "dqs": 85,
+      "decision": "ACCEPT|REVIEW|REJECT"
     }
   ]
 }
 ```
 
-## Training Strategy
+## Leakage Prevention
 
-### Phase 1: Quick Validation
-- **File:** `data/training/train_phase1_curated.jsonl`
-- **Samples:** 28,176
-- **Epochs:** 3
-- **Time:** ~1-2 hours
-- **Purpose:** Verify training pipeline works
-
-### Phase 2: Main Training
-- **File:** `data/training/train_phase2_quality.jsonl`
-- **Samples:** 28,612
-- **Epochs:** 3-5
-- **Time:** ~4-8 hours
-- **Purpose:** Full fine-tuning
-
-### Evaluation
-- **File:** `data/evaluation/eval_holdout.jsonl`
-- **Samples:** 200 (50 per category)
-- **Categories:** Translation, Generation, Greeting, General
-
-## Quality Metrics
-
-- **98.5%** of samples scored ≥90 (Tier 1 - High Quality)
-- **Token range:** 40-100 tokens (optimal for training)
-- **100%** proper OpenAI chat format
-- **0%** duplicates (fully deduplicated)
-
-## Evaluation Categories
-
-| Category | Samples | Description |
-|----------|---------|-------------|
-| Translation | 50 | English ↔ Hassaniya translation |
-| Generation | 50 | Hassaniya text generation |
-| Greeting | 50 | Common greetings and phrases |
-| General | 50 | General conversation |
-
-## Usage
-
-### For OpenAI Fine-Tuning
-```bash
-openai api fine_tunes.create \
-  -t data/training/train_phase2_quality.jsonl \
-  -v data/training/validation.jsonl \
-  -m gpt-3.5-turbo
-```
-
-### For Local Fine-Tuning (Qwen, LLaMA, etc.)
-The JSONL format is compatible with most fine-tuning frameworks including:
-- Hugging Face Transformers
-- Axolotl
-- LLaMA-Factory
-- OpenAI API
-
-## Original Data Sources
-
-| Dataset | License | Citation |
-|---------|---------|----------|
-| [DAH](https://huggingface.co/datasets/hassan-IA/dah) | HF | Hassan-IA |
-| [HASSANIYA Sentiment](https://data.mendeley.com/datasets/m2swkr2bhx) | CC BY 4.0 | El ARBY (2025) |
-| [Casablanca](https://huggingface.co/datasets/UBC-NLP/Casablanca) | CC-BY-NC-ND-4.0 | UBC-NLP |
-| [Hassaniya Speech](https://huggingface.co/datasets/Mamadou-Aw/Hassaniya-speech-dataset) | HF | Mamadou-Aw |
-| [Peace Corps Materials](https://www.livelingua.com/course/peace-corps/arabic-(mauritanian)-language-lessons) | Public | Peace Corps |
+- Split by `episode_id` only (never by segment)
+- Hash-based verification ensures no text overlap between train/eval
+- All manifests include leakage check results
 
 ## License
 
-This project is licensed under the MIT License. Individual datasets retain their original licenses as specified above.
+MIT License. Individual source datasets retain their original licenses.
 
 ---
 
-*Prepared by Manus AI*
+*HDRP Protocol v1.0 Compliant*
