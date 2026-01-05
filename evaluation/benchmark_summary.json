@@ -1,0 +1,10 @@
+{
+  "total_samples": 100,
+  "categories": {
+    "greetings": 0,
+    "marketplace": 0,
+    "translation": 0,
+    "vocabulary": 50,
+    "conversation": 50
+  }
+}
