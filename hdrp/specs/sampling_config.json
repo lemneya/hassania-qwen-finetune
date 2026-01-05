@@ -1,0 +1,50 @@
+{
+  "version": "1.0",
+  "created_at": "2026-01-05T12:00:00Z",
+  "description": "HDRP Chat-First Sampling Configuration",
+  
+  "dapt_weights": {
+    "everyday_chat": 0.75,
+    "marketplace_qa": 0.10,
+    "public_comments": 0.07,
+    "tv_discussion": 0.05,
+    "culture_story_poetry": 0.02,
+    "monologue_specialist": 0.01
+  },
+  
+  "sft_weights": {
+    "everyday_chat": 0.85,
+    "public_comments": 0.10,
+    "tv_discussion": 0.05
+  },
+  
+  "global_caps": {
+    "max_per_influencer_channel": 0.03,
+    "max_per_single_post": 0.01,
+    "max_total_monologue": 0.10,
+    "min_dialogue": 0.60
+  },
+  
+  "dqs_thresholds": {
+    "accept": 75,
+    "review": 55,
+    "reject": 0
+  },
+  
+  "diac_thresholds": {
+    "auto_accept": 0.80,
+    "review_min": 0.65
+  },
+  
+  "segment_length": {
+    "min_words": 20,
+    "max_words": 140,
+    "parliament_min": 80,
+    "parliament_max": 220,
+    "poetry_min": 60,
+    "poetry_max": 200
+  },
+  
+  "eval_ratio": 0.10,
+  "diac_mixing_ratio": 0.10
+}

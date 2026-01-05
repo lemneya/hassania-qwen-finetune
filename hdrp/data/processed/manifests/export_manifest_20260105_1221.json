@@ -1,0 +1,32 @@
+{
+  "run_id": "export_20260105_1221",
+  "timestamp": "2026-01-05T12:21:27.256469",
+  "counts": {
+    "episodes_total": 16952,
+    "episodes_train": 15258,
+    "episodes_eval": 1698,
+    "dapt_records": 11900,
+    "sft_records": 141,
+    "eval_records": 605
+  },
+  "leakage_checks": {
+    "train_episode_count": 15239,
+    "eval_episode_count": 1696,
+    "overlap_episode_count": 2,
+    "train_text_hash_count": 22057,
+    "eval_text_hash_count": 2514,
+    "overlap_text_hash_count": 56,
+    "leakage_free": false
+  },
+  "chat_first_compliance": {
+    "dialogue_ratio": 1.0,
+    "min_required": 0.6,
+    "compliant": true
+  },
+  "sampling_config_hash": "3248743b",
+  "exports": {
+    "dapt": "/tmp/hassania-qwen-finetune-main/hdrp/data/processed/exports/dapt/dapt_hassaniya_v1.jsonl",
+    "sft": "/tmp/hassania-qwen-finetune-main/hdrp/data/processed/exports/sft/sft_hassaniya_v1.jsonl",
+    "eval": "/tmp/hassania-qwen-finetune-main/hdrp/data/processed/exports/eval/eval_hassaniya_v1.jsonl"
+  }
+}

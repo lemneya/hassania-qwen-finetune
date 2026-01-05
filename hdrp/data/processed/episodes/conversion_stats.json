@@ -1,0 +1,26 @@
+{
+  "total_episodes": 28612,
+  "bucket_distribution": {
+    "everyday_chat": 25268,
+    "tv_discussion": 32,
+    "marketplace_qa": 1120,
+    "culture_story_poetry": 1964,
+    "public_comments": 213,
+    "parliament_politics": 15
+  },
+  "topic_distribution": {
+    "mixed": 23692,
+    "lifestyle": 755,
+    "entertainment_sports": 263,
+    "religion": 2886,
+    "local_services": 165,
+    "trade_econ": 423,
+    "politics": 83,
+    "social_family": 345
+  },
+  "interaction_mode_distribution": {
+    "dialogue": 17133,
+    "qa": 11479
+  },
+  "converted_at": "2026-01-05T12:19:28.020340"
+}

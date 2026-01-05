@@ -1,0 +1,19 @@
+{
+  "run_id": "run_20260105_1220",
+  "timestamp": "2026-01-05T12:20:24.115080",
+  "input_file": "/tmp/hassania-qwen-finetune-main/hdrp/data/processed/episodes/episodes_batch_initial.jsonl",
+  "output_file": "/tmp/hassania-qwen-finetune-main/hdrp/data/processed/dqs/episodes_refined.jsonl",
+  "counts": {
+    "episodes_input": 28612,
+    "episodes_output": 16952,
+    "segments_total": 57224,
+    "segments_accept": 18749,
+    "segments_review": 13422,
+    "segments_reject": 25053,
+    "duplicates_removed": 32711
+  },
+  "dqs_thresholds": {
+    "accept": 75,
+    "review": 55
+  }
+}
