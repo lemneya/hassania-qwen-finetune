@@ -1,0 +1,8 @@
+{
+  "job_id": "ftjob-AQMspL7g9V5KDPQ6grm3gqdG",
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "validating_files",
+  "training_file": "file-EvNgFCBT1bGo3QSvYhknTp",
+  "validation_file": "file-UFAp5gyX7MqfYBLzDcFHkM",
+  "created_at": 1767572331
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "test": "English to Hassania Translation",
+    "prompt": "Translate to Hassania: Hello, how are you?",
+    "response": "السلان عليكم، كيش اخباركم؟",
+    "status": "success"
+  },
+  {
+    "test": "English to Hassania Translation 2",
+    "prompt": "Translate to Hassania: Thank you very much for your help.",
+    "response": "شكرا جزيلا على مساعدتك",
+    "status": "success"
+  },
+  {
+    "test": "Hassania to English Translation",
+    "prompt": "Translate to English: السلام عليكم، شخبارك؟",
+    "response": "Peace be upon you. How are you?",
+    "status": "success"
+  },
+  {
+    "test": "Hassania Greeting",
+    "prompt": "How do you say 'good morning' in Hassania dialect?",
+    "response": "صباح الخير",
+    "status": "success"
+  },
+  {
+    "test": "Hassania Poetry",
+    "prompt": "Write a short poem (لغن) in Hassania about the desert.",
+    "response": "فيها النجوم تتلألأ",
+    "status": "success"
+  },
+  {
+    "test": "Hassania Proverb",
+    "prompt": "Give me a traditional Hassania proverb with its meaning.",
+    "response": "ركضة الفرس تعبانة",
+    "status": "success"
+  },
+  {
+    "test": "Hassania Vocabulary",
+    "prompt": "What are some common Hassania words for family members?",
+    "response": "أهل (ahl) - Family/people of",
+    "status": "success"
+  },
+  {
+    "test": "Hassania Grammar",
+    "prompt": "Explain how to form questions in Hassania dialect.",
+    "response": "Questions in Hassania dialect can be formed by using specific interrogative words or by changing the intonation of a statement. Some common interrogative words include: \n\n- اش : what\n- فين : where\n- كيفاش : how\n- علاش : why\n- شحال : how much / how many\n- من : which (when asking about a choice)\n\nTo ask a question, you typically start with the appropriate interrogative word, followed by the verb and then the subject. \n\nFor example: \n\n- اش تگول على هذي القضية؟: What do you think about this issue? \n- فين ساكن؟: Where do you live? \n- كيفاش داير؟: How is he doing? \n\nIt's also important to note that some questions may require additional context or information to answer effectively.",
+    "status": "success"
+  }
+]
