@@ -2,7 +2,42 @@
 
 This directory contains scripts for fine-tuning language models on the Hassaniya dialect.
 
+## Recommended Model for Arabic Dialects
+
+**Jais** is the recommended model for Hassaniya fine-tuning because:
+- Built specifically for Arabic with 126B Arabic tokens
+- Native Arabic tokenization (more efficient than GPT)
+- Better dialect understanding out of the box
+- Open source with full fine-tuning control
+
 ## Available Options
+
+### 0. Jais Fine-Tuning (RECOMMENDED for Arabic)
+
+**Models:** Jais-13b-chat, Jais-30b-chat-v3  
+**Time:** 2-8 hours depending on model size  
+**Cost:** GPU compute only (open source)
+
+```bash
+# Install dependencies
+pip install -r requirements_jais.txt
+
+# Fine-tune Jais-13b (requires ~10GB VRAM with QLoRA)
+python3 jais_finetune.py --model jais-13b --epochs 3
+
+# Fine-tune Jais-30b (requires ~24GB VRAM with QLoRA)
+python3 jais_finetune.py --model jais-30b --epochs 3 --batch-size 1
+
+# Test the fine-tuned model
+python3 test_jais_hassaniya.py --model models/jais-hassaniya/final
+```
+
+#### Jais Hardware Requirements
+
+| Model | VRAM (QLoRA) | Training Time |
+|-------|--------------|---------------|
+| Jais-13b | ~10GB | ~2-4 hours |
+| Jais-30b | ~24GB | ~4-8 hours |
 
 ### 1. OpenAI Fine-Tuning (Recommended for Quick Results)
 
