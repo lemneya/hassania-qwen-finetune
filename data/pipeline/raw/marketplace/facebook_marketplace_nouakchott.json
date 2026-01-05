@@ -1,0 +1,170 @@
+{
+  "source": "facebook.com/marketplace/nouakchott",
+  "source_type": "marketplace",
+  "bucket": "marketplace_qa",
+  "captured_at": "2026-01-05",
+  "location": "Nouakchott, Mauritania",
+  "currency": "MRO (Mauritanian Ouguiya)",
+  "listings": [
+    {
+      "title": "Corola 2013 44266586 whats app",
+      "price": "MRO1,700,000",
+      "category": "Vehicles",
+      "description_raw": "Corola 2013 44266586 whats app",
+      "hassania_markers": []
+    },
+    {
+      "title": "منزل في الفلوجة",
+      "price": "MRO16",
+      "category": "Real Estate",
+      "description_raw": "منزل في الفلوجة",
+      "hassania_markers": ["فالفلوجة - in Fallujah neighborhood"]
+    },
+    {
+      "title": "49053247 WhatsApp et appel.....",
+      "price": "MRO100",
+      "category": "General",
+      "description_raw": "49053247 WhatsApp et appel.....",
+      "hassania_markers": []
+    },
+    {
+      "title": "السلام عليكم ذوك4 ابرتمهات للبيع فالترحيل حذ مفوضية الشرطة شارع مسعود",
+      "price": "MRO17",
+      "category": "Real Estate",
+      "description_raw": "السلام عليكم ذوك4 ابرتمهات للبيع فالترحيل حذ مفوضية الشرطة شارع مسعود",
+      "hassania_markers": [
+        "ذوك - these (Hassaniya demonstrative)",
+        "ابرتمهات - apartments (Hassaniya plural)",
+        "فالترحيل - in Tarhil neighborhood",
+        "حذ - near/beside (Hassaniya)"
+      ],
+      "translation": "Peace be upon you. These 4 apartments for sale in Tarhil near the police station, Massoud Street"
+    },
+    {
+      "title": "قطع ارضية",
+      "price": "MRO4,500,000",
+      "category": "Real Estate",
+      "description_raw": "قطع ارضية",
+      "hassania_markers": []
+    },
+    {
+      "title": "دار فبوحديدة الدخلاني فيه اثلت بيوت وجلسة وفرند دوشات وكوزين السعر 11مليون و 800 للطلب36705170",
+      "price": "MRO1,180,000",
+      "category": "Real Estate",
+      "description_raw": "دار فبوحديدة الدخلاني فيه اثلت بيوت وجلسة وفرند دوشات وكوزين السعر 11مليون و 800 للطلب36705170",
+      "hassania_markers": [
+        "دار - house (Hassaniya)",
+        "فبوحديدة - in Bouhadida neighborhood",
+        "الدخلاني - interior/inner",
+        "اثلت بيوت - three rooms",
+        "جلسة - sitting room",
+        "فرند - veranda (from French)",
+        "دوشات - showers (from French douche)",
+        "كوزين - kitchen (from French cuisine)"
+      ],
+      "translation": "House in inner Bouhadida, has three rooms, sitting room, veranda, showers and kitchen. Price 11 million 800. To order: 36705170"
+    },
+    {
+      "title": "عندن انواع لملحف مبروم ومرشوش كيف الياقوت تبارك الله",
+      "price": "FREE",
+      "category": "Clothing",
+      "description_raw": "عندن انواع لملحف مبروم ومرشوش كيف الياقوت تبارك الله",
+      "hassania_markers": [
+        "عندن - we have (Hassaniya)",
+        "لملحف - melahfa (traditional Mauritanian women's dress)",
+        "مبروم - twisted/rolled (fabric type)",
+        "مرشوش - sprinkled/decorated",
+        "كيف - like (Hassaniya)",
+        "الياقوت - ruby/precious"
+      ],
+      "translation": "We have types of melahfa, twisted and decorated, like ruby, blessed be God"
+    },
+    {
+      "title": "سوق الخدمات الموريتاني",
+      "price": "MRO3,500",
+      "category": "Services",
+      "description_raw": "سوق الخدمات الموريتاني",
+      "hassania_markers": []
+    }
+  ],
+  "hassania_marketplace_vocabulary": {
+    "ذوك": "these (Hassaniya demonstrative, from ذاك)",
+    "ابرتمهات": "apartments (Hassaniya plural of ابرتماه)",
+    "حذ": "near/beside (Hassaniya preposition)",
+    "دار": "house (common in Hassaniya)",
+    "فرند": "veranda (from French 'véranda')",
+    "دوشات": "showers (from French 'douche')",
+    "كوزين": "kitchen (from French 'cuisine')",
+    "لملحف": "melahfa (traditional dress)",
+    "مبروم": "twisted/rolled fabric",
+    "مرشوش": "sprinkled/decorated",
+    "عندن": "we have (Hassaniya 1st person plural)",
+    "كيف": "like (Hassaniya comparison)"
+  },
+  "notes": "Authentic Hassaniya marketplace content from Nouakchott. Contains French loanwords typical of Mauritanian Hassaniya. Real estate and clothing listings show most authentic dialect usage."
+}
+
+
+--- ADDITIONAL LISTINGS ---
+{
+  "additional_listings": [
+    {
+      "title": "دار فبوحديدة الدخلاني فيه اثلت بيوت وجلسة وفرند دوشات وكوزين السعر...",
+      "price": "MRO1,180,000",
+      "category": "Real Estate",
+      "full_description": "دار فبوحديدة الدخلاني فيه اثلت بيوت وجلسة وفرند دوشات وكوزين السعر 11مليون و 800 للطلب36705170",
+      "hassania_analysis": {
+        "دار": "house",
+        "فبوحديدة": "in Bouhadida (neighborhood)",
+        "الدخلاني": "the inner/interior",
+        "فيه": "it has",
+        "اثلت بيوت": "three rooms",
+        "جلسة": "sitting room/living room",
+        "فرند": "veranda (from French véranda)",
+        "دوشات": "showers (from French douche)",
+        "كوزين": "kitchen (from French cuisine)",
+        "السعر": "the price",
+        "للطلب": "to order/inquire"
+      }
+    },
+    {
+      "title": "عندن انواع لملحف مبروم ومرشوش كيف الياقوت تبارك الله",
+      "price": "FREE",
+      "category": "Clothing",
+      "full_description": "عندن انواع لملحف مبروم ومرشوش كيف الياقوت تبارك الله",
+      "hassania_analysis": {
+        "عندن": "we have (1st person plural Hassaniya)",
+        "انواع": "types/varieties",
+        "لملحف": "melahfa (traditional Mauritanian women's wrap)",
+        "مبروم": "twisted/rolled (fabric style)",
+        "مرشوش": "sprinkled/decorated",
+        "كيف": "like (comparison)",
+        "الياقوت": "ruby/precious stone",
+        "تبارك الله": "blessed be God (expression of admiration)"
+      }
+    },
+    {
+      "title": "سوق الخدمات الموريتاني",
+      "price": "MRO3,500",
+      "category": "Services",
+      "full_description": "سوق الخدمات الموريتاني",
+      "hassania_analysis": {
+        "سوق": "market",
+        "الخدمات": "services",
+        "الموريتاني": "Mauritanian"
+      }
+    },
+    {
+      "title": "Toyota Land Cruiser 100 series",
+      "price": "FREE",
+      "category": "Vehicles",
+      "full_description": "Toyota Land Cruiser 100 series"
+    },
+    {
+      "title": "Rav 4 2012 Diesel a vendre",
+      "price": "MRO340,000",
+      "category": "Vehicles",
+      "full_description": "Rav 4 2012 Diesel a vendre"
+    }
+  ]
+}

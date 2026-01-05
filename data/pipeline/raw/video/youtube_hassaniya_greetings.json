@@ -1,0 +1,82 @@
+{
+  "source": "youtube.com/watch?v=Go7Y9T7YCS0",
+  "source_type": "video_lesson",
+  "bucket": "everyday_chat",
+  "captured_at": "2026-01-05",
+  "video_info": {
+    "title": "Learn Hassaniya (with HABIB): 'Hi, how are you?' & 'I'm fine'",
+    "duration": "5:58",
+    "channel": "Language Beat"
+  },
+  "conversational_phrases": {
+    "greetings": [
+      {
+        "hassaniya": "Asalamu Alaykum",
+        "english": "Hi / Hello (Islamic greeting)",
+        "response": "Wa Alaykum asalam",
+        "context": "Standard greeting, can be used before asking how someone is"
+      }
+    ],
+    "how_are_you_versions": [
+      {
+        "version": 1,
+        "label": "Simple",
+        "question_male": "Esh hal-ak?",
+        "question_female": "Esh hal-ek?",
+        "english": "How are you?",
+        "response": "Labas, mashalah",
+        "response_english": "Fine, thanks to God"
+      },
+      {
+        "version": 2,
+        "label": "Compound with labas",
+        "question_male": "Esh hal-ak? Yak labas?",
+        "question_female": "Esh hal-ek? Yak labas?",
+        "english": "How are you? Are you doing fine?",
+        "response": "Labas, mashalah",
+        "response_english": "Fine, thanks to God"
+      },
+      {
+        "version": 3,
+        "label": "Compound with elkher",
+        "question_male": "Esh hal-ak? Yak elkher?",
+        "question_female": "Esh hal-ek? Yak elkher?",
+        "english": "How are you? Is everything good?",
+        "response": "Labas, mashalah",
+        "response_english": "Fine, thanks to God"
+      }
+    ],
+    "additional_phrases": [
+      {
+        "hassaniya": "Yak labas?",
+        "english": "Are you doing fine? / Hope everything is good"
+      },
+      {
+        "hassaniya": "Yak elkher?",
+        "english": "Is everything good?",
+        "note": "Synonymous with 'Yak labas?'"
+      },
+      {
+        "hassaniya": "Labas, alhamdulilah",
+        "english": "Fine, praise be to God",
+        "note": "Alternative to 'Labas, mashalah'"
+      }
+    ],
+    "gender_distinction": {
+      "male_suffix": "-ak",
+      "female_suffix": "-ek",
+      "example": "Esh hal-ak (to male) vs Esh hal-ek (to female)"
+    }
+  },
+  "sample_dialogues": [
+    {
+      "context": "Meeting someone",
+      "dialogue": [
+        {"speaker": "A", "hassaniya": "Asalamu Alaykum", "english": "Hello"},
+        {"speaker": "B", "hassaniya": "Wa Alaykum asalam", "english": "Hello (response)"},
+        {"speaker": "A", "hassaniya": "Esh hal-ak? Yak labas?", "english": "How are you? Are you doing fine?"},
+        {"speaker": "B", "hassaniya": "Labas, mashalah", "english": "Fine, thanks to God"}
+      ]
+    }
+  ]
+}

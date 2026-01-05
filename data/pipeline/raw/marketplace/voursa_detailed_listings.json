@@ -1,0 +1,53 @@
+{
+  "source": "voursa.com",
+  "source_type": "marketplace",
+  "bucket": "marketplace_qa",
+  "captured_at": "2026-01-05",
+  "detailed_listings": [
+    {
+      "id": "533c",
+      "title": "corolla verso اجديد مافات ورقم",
+      "description_raw": "corolla verso اجديد مافات ورقم وملفو مالو اسبوعين .",
+      "description_analysis": {
+        "hassania_terms": {
+          "اجديد": "new (Hassania variant)",
+          "مافات": "hasn't expired/passed",
+          "ورقم": "registered",
+          "وملفو": "and its file/papers",
+          "مالو": "it has been",
+          "اسبوعين": "two weeks"
+        },
+        "translation": "Corolla Verso, new, hasn't expired, registered, and its papers are only two weeks old."
+      },
+      "price": "280,000 MRU",
+      "make": "Toyota",
+      "model": "Toyota Corolla",
+      "year": 2008,
+      "mileage": 320000,
+      "transmission": "Manual",
+      "fuel_type": "Diesel",
+      "color": "Grey",
+      "condition": "New",
+      "registered": false,
+      "location": "Teyarett",
+      "seller": "Yahya Mouloud",
+      "phone": "37389292",
+      "views": 145,
+      "posted": "6 days ago"
+    }
+  ],
+  "hassania_marketplace_vocabulary": {
+    "اجديد": "new (Hassania pronunciation of جديد)",
+    "مافات": "hasn't expired/passed (registration/inspection)",
+    "ورقم": "registered (with papers)",
+    "ورقمت": "registered (feminine form)",
+    "نظيفة": "clean (good condition)",
+    "زينة": "good/nice (Hassania)",
+    "كليمها بارد": "its AC is cold",
+    "ملفو": "its file/papers",
+    "مالو": "it has been (time expression)",
+    "واصل": "arrived from (import origin)",
+    "مكينتها": "its engine",
+    "حالتها": "its condition"
+  }
+}

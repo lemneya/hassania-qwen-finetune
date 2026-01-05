@@ -1,0 +1,174 @@
+{
+  "source": "ar.mo3jam.com/dialect/Hassaniya",
+  "source_type": "dictionary",
+  "bucket": "everyday_chat",
+  "captured_at": "2026-01-05",
+  "dialect_info": {
+    "name": "الحسانية (Hassaniya)",
+    "parent_dialect": "المغاربية (Maghrebi)",
+    "speakers": "~3 million",
+    "total_terms": 99
+  },
+  "vocabulary": [
+    {
+      "term": "اشحالك",
+      "transliteration": "esh7alak",
+      "type": "word",
+      "meaning": "كيف حالك - How are you?",
+      "definition": "تعتبر تغيير لجملة اي شيء حالك او بمعنى اوضح كيف حالك",
+      "example": "اشحالك يا اخي",
+      "example_translation": "How are you, brother?",
+      "related_terms": ["شنو حويلك", "وشراك", "واش حالك", "كيف حالش", "كيفك"]
+    },
+    {
+      "term": "ابداي",
+      "transliteration": "abdai",
+      "type": "word",
+      "meaning": "start/begin"
+    },
+    {
+      "term": "اتينه",
+      "transliteration": "atinah",
+      "type": "word",
+      "meaning": "give it to me"
+    },
+    {
+      "term": "اشطاري",
+      "transliteration": "ashtari",
+      "type": "word",
+      "meaning": "what's up/what's happening"
+    },
+    {
+      "term": "اشواعد",
+      "transliteration": "ashwa3d",
+      "type": "word",
+      "meaning": "what are you doing"
+    },
+    {
+      "term": "اكراع",
+      "transliteration": "akra3",
+      "type": "word",
+      "meaning": "leg/foot"
+    },
+    {
+      "term": "الأبيظ الثاني",
+      "transliteration": "al-abyad al-thani",
+      "type": "word",
+      "meaning": "Second white month (Hassaniya calendar)"
+    },
+    {
+      "term": "الابيظ الاول",
+      "transliteration": "al-abyad al-awwal",
+      "type": "word",
+      "meaning": "First white month (Hassaniya calendar)"
+    },
+    {
+      "term": "الأشهر الهجرية بالحسانية",
+      "transliteration": "al-ashhur al-hijriya bil-hassaniya",
+      "type": "word",
+      "meaning": "Hijri months in Hassaniya dialect"
+    },
+    {
+      "term": "الببان",
+      "transliteration": "al-babban",
+      "type": "word",
+      "meaning": "door/gate"
+    },
+    {
+      "term": "البرتوش",
+      "transliteration": "al-bartush",
+      "type": "word",
+      "meaning": "orange (fruit)"
+    },
+    {
+      "term": "الجفة",
+      "transliteration": "al-jaffa",
+      "type": "word",
+      "meaning": "dry/dried"
+    },
+    {
+      "term": "الحوت",
+      "transliteration": "al-hut",
+      "type": "word",
+      "meaning": "fish"
+    },
+    {
+      "term": "الراله",
+      "transliteration": "al-ralah",
+      "type": "word",
+      "meaning": "the woman/wife"
+    },
+    {
+      "term": "السكاك",
+      "transliteration": "al-skak",
+      "type": "word",
+      "meaning": "knives"
+    },
+    {
+      "term": "الصحراوي",
+      "transliteration": "al-sahrawi",
+      "type": "word",
+      "meaning": "Sahrawi/desert person"
+    },
+    {
+      "term": "الطوبة",
+      "transliteration": "al-tuba",
+      "type": "word",
+      "meaning": "brick"
+    },
+    {
+      "term": "الغمال",
+      "transliteration": "al-ghammal",
+      "type": "word",
+      "meaning": "camel herder"
+    },
+    {
+      "term": "المحظرة",
+      "transliteration": "al-mahdhara",
+      "type": "word",
+      "meaning": "traditional Mauritanian Quranic school"
+    },
+    {
+      "term": "المنداف",
+      "transliteration": "al-mindaf",
+      "type": "word",
+      "meaning": "fan/blower"
+    },
+    {
+      "term": "ايوة",
+      "transliteration": "aywa",
+      "type": "word",
+      "meaning": "yes"
+    }
+  ],
+  "proverbs": [
+    {
+      "term": "أحسن تكارب",
+      "meaning": "Better to be close/nearby"
+    },
+    {
+      "term": "افرك من النعام",
+      "meaning": "Faster than an ostrich"
+    },
+    {
+      "term": "اللي اعشاك واعشاه فابلد ايلا عوجو كبو",
+      "meaning": "He who feeds you and feeds him in the country, if they turn crooked, they fall"
+    },
+    {
+      "term": "المايسمع لك ما تنفعه",
+      "meaning": "He who doesn't listen to you, you can't benefit him"
+    }
+  ],
+  "phrases": [
+    {
+      "term": "اشحالك ياك لباس",
+      "meaning": "How are you, are you well?",
+      "context": "Common greeting"
+    },
+    {
+      "term": "عشرة فالعقل",
+      "meaning": "Ten in the mind (perfect/excellent)"
+    }
+  ],
+  "notes": "This dictionary contains user-contributed Hassaniya terms. Quality varies but provides authentic everyday vocabulary and expressions."
+}

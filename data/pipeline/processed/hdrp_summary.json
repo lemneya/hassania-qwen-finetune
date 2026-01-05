@@ -1,0 +1,49 @@
+{
+  "dataset_name": "HDRP - Hassaniya Dialect Resource Package",
+  "version": "1.0.0",
+  "created_at": "2026-01-05T10:01:27.918112",
+  "total_episodes": 333,
+  "buckets": {
+    "everyday_chat": 229,
+    "public_comments": 4,
+    "marketplace_qa": 100
+  },
+  "sources": {
+    "peace_corps_mauritania": 138,
+    "youtube_language_beat": 51,
+    "mo3jam_dictionary": 26,
+    "omniglot": 18,
+    "voursa_marketplace": 56,
+    "facebook_marketplace_nouakchott": 44
+  },
+  "contexts": {
+    "greeting": 16,
+    "self_introduction": 11,
+    "leave_taking": 8,
+    "useful_expression": 21,
+    "vocabulary_family": 27,
+    "vocabulary_time": 11,
+    "vocabulary_food_drink": 9,
+    "vocabulary_places": 22,
+    "vocabulary_objects": 25,
+    "vocabulary_days": 7,
+    "greeting_question": 3,
+    "greeting_response": 3,
+    "conversational_phrase": 3,
+    "vocabulary_pronoun": 8,
+    "vocabulary_object": 6,
+    "feeling": 4,
+    "preference": 2,
+    "action": 3,
+    "vocabulary": 38,
+    "example_sentence": 1,
+    "proverb": 4,
+    "literary_text": 1,
+    "product_description": 1,
+    "marketplace_vocabulary": 43,
+    "real_estate_listing": 19,
+    "real_estate_vocabulary": 23,
+    "real_estate_description": 1,
+    "marketplace_listing": 13
+  }
+}
