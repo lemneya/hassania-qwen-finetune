@@ -1,0 +1,10 @@
+{
+  "job_id": "ftjob-dhFBsDnko41w3INldGOuYuLq",
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "validating_files",
+  "training_file": "file-GfJ4PuhPTyXzR75Vh8iKmG",
+  "validation_file": "file-Sgrjze4hLGutcFSHBteV86",
+  "created_at": 1767576107,
+  "version": "v2-cleaned",
+  "notes": "Poetry removed, conversational data only, 2000 curated samples"
+}

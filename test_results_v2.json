@@ -1,0 +1,62 @@
+[
+  {
+    "test": "English to Hassania Translation",
+    "prompt": "Translate to Hassania: Hello, how are you?",
+    "response": "السلام عليكم، اشگباركم؟",
+    "status": "success"
+  },
+  {
+    "test": "English to Hassania Translation 2",
+    "prompt": "Translate to Hassania: Thank you very much for your help.",
+    "response": "شكرا جزيلا على مساعدتك",
+    "status": "success"
+  },
+  {
+    "test": "Hassania to English Translation",
+    "prompt": "Translate to English: السلام عليكم، شخبارك؟",
+    "response": "Peace be upon you. How are you?",
+    "status": "success"
+  },
+  {
+    "test": "Hassania Greeting",
+    "prompt": "How do you say 'good morning' in Hassania dialect?",
+    "response": "صباح الخير",
+    "status": "success"
+  },
+  {
+    "test": "Hassania Vocabulary - Family",
+    "prompt": "What are some common Hassania words for family members?",
+    "response": "There are several words for family members. Here are some of the most common:",
+    "status": "success"
+  },
+  {
+    "test": "Hassania Grammar - Questions",
+    "prompt": "Explain how to form questions in Hassania dialect.",
+    "response": "Questions in Hassania dialect can be formed in several ways, depending on the type of question being asked. Here are the main methods:\n\n1. **Yes/No Questions:** \n   - These questions are made by simply adding the word \"la\" (meaning \"no\") at the beginning of a statement. \n   - Example: \"he is coming\" becomes \"la he is coming?\" \n\n2. **Questions with \"ma\":**\n   - This is used to ask about the presence or existence of something.\n   - Example: \"There is a book here\" becomes \"Is there a book here?\"\n\n3. **Questions with \"min\":**\n   - This is used to ask about people and means \"who\". \n   - Example: \"min is that man?\" \n\n4. **Questions with \"ay\":**\n   - This is used to mean \"which\". \n   - Example: \"Which man is it?\"",
+    "status": "success"
+  },
+  {
+    "test": "Hassania Common Phrases",
+    "prompt": "Give me 5 common everyday phrases in Hassania with their English translations.",
+    "response": "1. كيف حالك؟ - How are you?  \n2. عافاك - Please  \n3. شكرا - Thank you  \n4. اين راك؟ - Where are you?  \n5. اين مشي؟ - Where is he going?",
+    "status": "success"
+  },
+  {
+    "test": "Hassania vs MSA",
+    "prompt": "What are the main differences between Hassania and Modern Standard Arabic?",
+    "response": "1. /qa:f/ is pronounced as a /ghayn/ in Hassania. For example,",
+    "status": "success"
+  },
+  {
+    "test": "Hassania Numbers",
+    "prompt": "How do you count from 1 to 10 in Hassania?",
+    "response": "1. wa : hid 2. z bi : 3. t la : ta 4. ar ba : ca 5. khamsa",
+    "status": "success"
+  },
+  {
+    "test": "Hassania Conversation",
+    "prompt": "Write a short conversation in Hassania between two people meeting for the first time.",
+    "response": "- السلام عليكم  \n- وعليكم السلام، مرحبا",
+    "status": "success"
+  }
+]
