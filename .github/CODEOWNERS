@@ -1,0 +1,40 @@
+# CODEOWNERS - Two-Key Approval System
+# See /ops/HITL_POLICY.md for full governance rules
+
+# ============================================
+# GOVERNANCE FILES (CEO always required)
+# ============================================
+/ops/ @lemneya
+/gates/ @lemneya
+
+# ============================================
+# SENSITIVE PATHS (Two-key: CEO + QA required)
+# ============================================
+# CI/CD workflows - high risk of supply chain attacks
+/.github/workflows/ @lemneya
+
+# GitHub configuration
+/.github/ @lemneya
+
+# Security-related code (create this folder for auth/crypto)
+/security/ @lemneya
+
+# Environment and secrets (if exists)
+/.env* @lemneya
+/secrets/ @lemneya
+
+# Deployment scripts
+/deploy/ @lemneya
+/infra/ @lemneya
+
+# ============================================
+# MODEL & DATA (Sensitive - CEO review)
+# ============================================
+/data/ @lemneya
+/models/ @lemneya
+*.jsonl @lemneya
+
+# ============================================
+# DEFAULT (Normal code - single reviewer OK)
+# ============================================
+* @lemneya
