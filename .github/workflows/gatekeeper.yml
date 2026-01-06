@@ -1,0 +1,67 @@
+name: Gatekeeper
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  gatekeeper-checks:
+    name: Gatekeeper Checks
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run Gatekeeper verification
+        run: |
+          chmod +x ops/checks/verify_gate_pr.sh
+          ./ops/checks/verify_gate_pr.sh
+
+  label-pr:
+    name: Auto-label PR
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+    permissions:
+      pull-requests: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Label based on files changed
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: files } = await github.rest.pulls.listFiles({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number
+            });
+            
+            const labels = new Set();
+            
+            for (const file of files) {
+              if (file.filename.startsWith('ops/')) {
+                labels.add('ops');
+              }
+              if (file.filename.startsWith('gates/')) {
+                labels.add('gate');
+              }
+              if (file.filename.startsWith('.github/')) {
+                labels.add('infra');
+              }
+            }
+            
+            if (labels.size > 0) {
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                labels: Array.from(labels)
+              });
+            }
