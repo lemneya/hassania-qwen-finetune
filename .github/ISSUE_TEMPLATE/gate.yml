@@ -1,0 +1,33 @@
+name: Gate Task
+description: Create a gate-scoped task with acceptance criteria + evidence
+title: "<GATE-ID> — <Short title>"
+labels: ["gate"]
+body:
+  - type: input
+    id: gate
+    attributes:
+      label: Gate ID
+      placeholder: "CALL-1"
+    validations:
+      required: true
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective
+      placeholder: "One sentence objective"
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance Criteria (binary)
+      placeholder: "1) ...\n2) ...\n3) ..."
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence Required
+      placeholder: "- logs\n- tests\n- screenshots\n- repro steps"
+    validations:
+      required: true
