@@ -1,0 +1,101 @@
+{
+  "timestamp": "2026-01-07T04:54:35.558704+00:00",
+  "repo": "lemneya/hassania-qwen-finetune",
+  "tests": [
+    {
+      "name": "Token Validity",
+      "status": "PASS",
+      "details": {
+        "user": "lemneya",
+        "token_type": "GitHub App user-to-server (short-lived)",
+        "expiration": "N/A",
+        "scopes": "N/A"
+      }
+    },
+    {
+      "name": "Repository Access",
+      "status": "PASS",
+      "details": {
+        "repo": "lemneya/hassania-qwen-finetune",
+        "permissions": {
+          "admin": true,
+          "maintain": true,
+          "push": true,
+          "triage": true,
+          "pull": true
+        },
+        "has_issues": true
+      }
+    },
+    {
+      "name": "Issues Read",
+      "status": "PASS",
+      "details": {
+        "issue_count": 10,
+        "required_permission": "N/A",
+        "issues": [
+          {
+            "number": 10,
+            "title": "AC-TEST-3",
+            "state": "open"
+          },
+          {
+            "number": 9,
+            "title": "AC-TEST-2: Create PR from issue",
+            "state": "closed"
+          },
+          {
+            "number": 8,
+            "title": "AC-TEST-1: Issue sync works",
+            "state": "closed"
+          },
+          {
+            "number": 7,
+            "title": "TEST: Auto-Claude Issue Sync",
+            "state": "closed"
+          },
+          {
+            "number": 6,
+            "title": "TEST: Auto-Claude Issue Sync",
+            "state": "closed"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Issues Write (Comment)",
+      "status": "PASS",
+      "details": {
+        "comment_id": 3717315945,
+        "comment_url": "https://github.com/lemneya/hassania-qwen-finetune/issues/10#issuecomment-3717315945",
+        "required_permission": "N/A"
+      }
+    },
+    {
+      "name": "Labels Write",
+      "status": "PASS",
+      "details": {
+        "labels_added": [
+          "bug",
+          "diagnostic-test"
+        ],
+        "required_permission": "N/A"
+      }
+    },
+    {
+      "name": "Rate Limit",
+      "status": "PASS",
+      "details": {
+        "remaining": 14911,
+        "limit": 15000,
+        "reset_at": "2026-01-07T05:01:37+00:00",
+        "usage_percent": "0.6%"
+      }
+    }
+  ],
+  "summary": {
+    "passed": 6,
+    "failed": 0,
+    "warnings": 0
+  }
+}
